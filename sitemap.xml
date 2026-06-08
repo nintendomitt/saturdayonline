@@ -13,12 +13,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
     <loc>https://saturdayonline.co/blog/spotify-peloton-fitness-ortakligi.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
     <loc>https://saturdayonline.co/blog/facebook-hesap-kalici-kapatildi-cozum.html</loc>
     <lastmod>2026-05-24</lastmod>
@@ -61,10 +63,4 @@
     <priority>0.7</priority>
   </url>
 
-  <url>
-    <loc>https://saturdayonline.co/blog/gemini-omni-flash-nedir-googlein-yeni-multimodal-yapay-zekasi-ile-video-uretimi.html</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 </urlset>
