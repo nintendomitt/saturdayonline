@@ -156,10 +156,20 @@
       "keyword": "google ads nedir",
       "category": "Eğitici",
       "date": "2026-06-16",
-      "url": "https://saturdayonline.co/blog/google-ads-nedir-isletme-sahipleri-icin-temel-rehber",
+      "url": "https://saturdayonline.co/blog/google-ads-nedir-isletme-sahipleri-icin-temel-rehber.html",
       "image": "/blog-gorseller/baslikli/google-ads-nedir-isletme-sahipleri-icin-temel-rehber-baslikli.jpg",
+      "status": "published"
+    },
+    {
+      "slug": "mcp-nedir-model-context-protocol-ile-yapay-zekayi-araclariniza-baglayin",
+      "title": "MCP Nedir? Model Context Protocol ile Yapay Zekayı Araçlarınıza Bağlayın",
+      "keyword": "mcp nedir",
+      "category": "Yapay Zeka",
+      "date": "2026-06-16",
+      "url": "https://saturdayonline.co/blog/mcp-nedir-model-context-protocol-ile-yapay-zekayi-araclariniza-baglayin.html",
+      "image": "/blog-gorseller/baslikli/mcp-nedir-model-context-protocol-ile-yapay-zekayi-araclariniza-baglayin-baslikli.jpg",
       "status": "published"
     }
   ],
-  "last_updated": "2026-06-16T07:00:40.311569"
+  "last_updated": "2026-06-16T08:20:45.775036"
 }
