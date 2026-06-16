@@ -54,16 +54,60 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "MarketingAgency",
+    "@type": ["MarketingAgency", "LocalBusiness", "Organization"],
     "name": "Saturday Online",
     "alternateName": "Saturday Online Dijital Pazarlama",
+    "legalName": "Saturday Online Dijital Pazarlama",
     "url": "https://saturdayonline.co",
-    "logo": "https://saturdayonline.co/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://saturdayonline.co/logo.png",
+      "width": 300,
+      "height": 80
+    },
     "image": "https://saturdayonline.co/og-image.jpg",
     "description": "İzmir merkezli performans odaklı dijital pazarlama ajansı. Meta ve Google reklam yönetimi, sosyal medya pazarlaması, içerik üretimi ve pazarlama otomasyon sistemleriyle işletmelerin online büyümesini sağlıyoruz.",
+    "slogan": "Performans Odaklı Dijital Pazarlama",
     "foundingDate": "2022",
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "İzmir, Türkiye"
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "Saturday Online Kurucu Ekibi",
+      "jobTitle": "Dijital Pazarlama Uzmanı",
+      "worksFor": { "@type": "Organization", "name": "Saturday Online" }
+    },
+    "knowsAbout": [
+      "Meta Reklam Yönetimi",
+      "Facebook Reklamları",
+      "Instagram Reklamları",
+      "Google Ads Yönetimi",
+      "Google Search Reklamları",
+      "Sosyal Medya Yönetimi",
+      "İçerik Pazarlaması",
+      "E-posta Pazarlaması",
+      "Pazarlama Otomasyonu",
+      "CRM Entegrasyonu",
+      "Dijital Pazarlama Stratejisi",
+      "E-ticaret Reklamcılığı",
+      "Performans Pazarlaması",
+      "ROAS Optimizasyonu"
+    ],
+    "serviceArea": {
+      "@type": "GeoCircle",
+      "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 38.4192,
+        "longitude": 27.1287
+      },
+      "geoRadius": "500000"
+    },
     "areaServed": [
       { "@type": "City", "name": "İzmir" },
+      { "@type": "City", "name": "İstanbul" },
+      { "@type": "City", "name": "Ankara" },
       { "@type": "Country", "name": "Türkiye" }
     ],
     "address": {
@@ -72,15 +116,38 @@
       "addressRegion": "İzmir",
       "addressCountry": "TR"
     },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+90-554-884-71-78",
-      "email": "hello@saturdayonline.co",
-      "contactType": "customer service",
-      "availableLanguage": ["Turkish", "English"],
-      "contactOption": "TollFree"
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.4192,
+      "longitude": 27.1287
     },
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+90-554-884-71-78",
+        "email": "hello@saturdayonline.co",
+        "contactType": "customer service",
+        "availableLanguage": ["Turkish", "English"],
+        "contactOption": "TollFree"
+      },
+      {
+        "@type": "ContactPoint",
+        "email": "hello@saturdayonline.co",
+        "contactType": "sales",
+        "availableLanguage": ["Turkish", "English"]
+      }
+    ],
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      }
+    ],
     "priceRange": "₺₺",
+    "currenciesAccepted": "TRY",
+    "paymentAccepted": "Banka Transferi, Kredi Kartı",
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
       "name": "Dijital Pazarlama Hizmetleri",
@@ -91,6 +158,7 @@
             "@type": "Service",
             "name": "Meta Reklam Yönetimi",
             "description": "Facebook ve Instagram reklamlarının stratejik planlanması, kurulumu, optimizasyonu ve raporlanması. Her bütçeden maksimum ROAS hedeflenir.",
+            "serviceType": "Dijital Reklamcılık",
             "provider": { "@type": "Organization", "name": "Saturday Online" }
           }
         },
@@ -100,6 +168,7 @@
             "@type": "Service",
             "name": "Google Reklam Yönetimi",
             "description": "Google Search, Display ve YouTube kampanyalarının yönetimi. Anahtar kelime araştırması, teklif optimizasyonu ve dönüşüm takibi.",
+            "serviceType": "Dijital Reklamcılık",
             "provider": { "@type": "Organization", "name": "Saturday Online" }
           }
         },
@@ -109,6 +178,7 @@
             "@type": "Service",
             "name": "Sosyal Medya Yönetimi",
             "description": "Instagram, Facebook, LinkedIn ve TikTok hesaplarının profesyonel yönetimi. İçerik takvimi, tasarım ve etkileşim artırma.",
+            "serviceType": "Sosyal Medya Pazarlaması",
             "provider": { "@type": "Organization", "name": "Saturday Online" }
           }
         },
@@ -118,6 +188,7 @@
             "@type": "Service",
             "name": "Pazarlama Otomasyon Sistemleri",
             "description": "E-posta pazarlaması, CRM entegrasyonu ve müşteri yolculuğu otomasyonu. Tekrar eden süreçlerin otomatize edilerek satışa dönüşümün artırılması.",
+            "serviceType": "Pazarlama Otomasyonu",
             "provider": { "@type": "Organization", "name": "Saturday Online" }
           }
         },
@@ -127,12 +198,18 @@
             "@type": "Service",
             "name": "Pazarlama Strateji Danışmanlığı",
             "description": "Marka konumlandırma, hedef kitle analizi, rakip araştırması ve büyüme odaklı dijital strateji oluşturma.",
+            "serviceType": "Danışmanlık",
             "provider": { "@type": "Organization", "name": "Saturday Online" }
           }
         }
       ]
     },
-    "sameAs": []
+    "sameAs": [
+      "https://www.instagram.com/saturdayonline/",
+      "https://www.facebook.com/saturdayonline/",
+      "https://www.linkedin.com/company/saturdayonline/",
+      "https://twitter.com/saturdayonline"
+    ]
   }
   </script>
 
