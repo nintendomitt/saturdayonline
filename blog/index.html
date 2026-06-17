@@ -245,6 +245,7 @@
   <button class="filter-btn" onclick="filterPosts('Eğitici')">Eğitici</button>
   <button class="filter-btn" onclick="filterPosts('Google Ads')">Google Ads</button>
   <button class="filter-btn" onclick="filterPosts('Meta Reklamları')">Meta Reklamları</button>
+  <button class="filter-btn" onclick="filterPosts('Araç Tanıtım')">Araç Tanıtım</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -283,6 +284,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "instagram-dm-otomasyonu-ile-satislari-artirin-instaassist-rehberi",
+    title: "Instagram DM Otomasyonu ile Satışları Artırın: InstaAssist Rehberi",
+    category: "Araç Tanıtım",
+    date: "2026-06-17",
+    keyword: "instagram otomasyon",
+    image: "/blog-gorseller/baslikli/instagram-dm-otomasyonu-ile-satislari-artirin-instaassist-rehberi.jpg",
+    img_alt: "Instagram DM Otomasyonu ile Satışları Artırın InstaAssist Rehberi"
+  },
   {
     slug: "guzellik-merkezi-meta-reklam-rehberi",
     title: "Güzellik Merkezi Meta Reklam Rehberi 2026: Nelere Dikkat Etmeli?",
