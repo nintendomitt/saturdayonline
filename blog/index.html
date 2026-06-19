@@ -246,6 +246,7 @@
   <button class="filter-btn" onclick="filterPosts('Google Ads')">Google Ads</button>
   <button class="filter-btn" onclick="filterPosts('Meta Reklamları')">Meta Reklamları</button>
   <button class="filter-btn" onclick="filterPosts('Araç Tanıtım')">Araç Tanıtım</button>
+  <button class="filter-btn" onclick="filterPosts('Özel Gün')">Özel Gün</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -284,6 +285,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "baba-gunu-icin-dijital-pazarlama-fikirleri-ve-kampanya-onerileri",
+    title: "Baba Günü İçin Dijital Pazarlama Fikirleri ve Kampanya Önerileri",
+    category: "Özel Gün",
+    date: "2026-06-19",
+    keyword: "baba günü pazarlama",
+    image: "/blog-gorseller/baslikli/baba-gunu-icin-dijital-pazarlama-fikirleri-ve-kampanya-onerileri.jpg",
+    img_alt: "Baba Günü Dijital Pazarlama Fikirleri ve Kampanya Önerileri"
+  },
   {
     slug: "instagram-dm-otomasyonu-ile-satislari-artirin-instaassist-rehberi",
     title: "Instagram DM Otomasyonu ile Satışları Artırın: InstaAssist Rehberi",
