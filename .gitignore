@@ -2,3 +2,9 @@
 *.env
 .env*
 node_modules/
+../google-ads.yaml
+../credentials.json
+../gsc_service_account.json
+../scripts/gsc_token.json
+../scripts/gsc_last_report.json
+../scripts/cluster_plan.json
