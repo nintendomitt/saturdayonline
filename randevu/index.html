@@ -25,7 +25,6 @@
   <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','3989226141296996');fbq('track','PageView');</script>
   <noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=3989226141296996&ev=PageView&noscript=1"/></noscript>
 
-  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet"/>
 
   <style>
@@ -91,8 +90,15 @@
     .section-label h2{font-size:clamp(1.5rem,3vw,2.2rem);font-weight:900;color:#fff;letter-spacing:-1px;margin-bottom:10px}
     .section-label p{color:var(--muted);font-size:.95rem}
 
-    .calendly-container{background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:20px;padding:2px;overflow:hidden;box-shadow:0 0 80px rgba(255,107,43,.08)}
-    .calendly-inline-widget{min-height:700px;border-radius:18px;overflow:hidden}
+    /* WhatsApp CTA */
+    .wa-cta-wrap{display:flex;flex-direction:column;align-items:center;gap:24px}
+    .wa-big-btn{display:inline-flex;align-items:center;gap:16px;background:#25D366;color:#fff;font-size:1.25rem;font-weight:800;padding:22px 48px;border-radius:60px;text-decoration:none;box-shadow:0 0 60px rgba(37,211,102,.35);transition:transform .2s,box-shadow .2s;letter-spacing:-.3px}
+    .wa-big-btn:hover{transform:translateY(-3px) scale(1.03);box-shadow:0 0 90px rgba(37,211,102,.5)}
+    .wa-big-btn svg{width:36px;height:36px;flex-shrink:0}
+    .wa-sub{color:var(--muted);font-size:.88rem;text-align:center}
+    .wa-features{display:flex;gap:28px;flex-wrap:wrap;justify-content:center;margin-top:8px}
+    .wa-feat{display:flex;align-items:center;gap:8px;font-size:.82rem;color:#aaa}
+    .wa-feat::before{content:'✓';color:#25D366;font-weight:700}
 
     /* ── WHY CARDS ── */
     .why-section{padding:80px 40px;max-width:1000px;margin:0 auto}
@@ -180,13 +186,20 @@
 <div id="booking-anchor"></div>
 <section class="booking-section reveal">
   <div class="section-label">
-    <h2>Strateji Görüşmesi Rezerve Et</h2>
-    <p>Aşağıdan size uygun gün ve saati seçin</p>
+    <h2>Hemen İletişime Geçin</h2>
+    <p>WhatsApp'tan yazın, birkaç dakika içinde dönüyoruz</p>
   </div>
-  <div class="calendly-container">
-    <div class="calendly-inline-widget"
-         data-url="https://calendly.com/saturdayonlinesolutions/30min?hide_gdpr_banner=1&background_color=0f0f0f&text_color=e0e0e0&primary_color=FF6B2B"
-         style="min-width:320px;height:700px;">
+  <div class="wa-cta-wrap">
+    <a href="https://wa.me/905548847178?text=Merhaba%2C%20dijital%20pazarlama%20stratejim%20hakkında%20görüşmek%20istiyorum." target="_blank" rel="noopener" class="wa-big-btn">
+      <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.125.557 4.126 1.526 5.859L.057 23.882l6.195-1.624A11.946 11.946 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 01-5.032-1.382l-.36-.214-3.732.979 1.001-3.645-.235-.374A9.808 9.808 0 012.182 12c0-5.423 4.395-9.818 9.818-9.818 5.423 0 9.818 4.395 9.818 9.818 0 5.423-4.395 9.818-9.818 9.818z"/></svg>
+      WhatsApp'tan Yaz
+    </a>
+    <div class="wa-sub">Genellikle birkaç dakika içinde dönüyoruz</div>
+    <div class="wa-features">
+      <div class="wa-feat">Ücretsiz danışmanlık</div>
+      <div class="wa-feat">Satış baskısı yok</div>
+      <div class="wa-feat">Hızlı dönüş</div>
+      <div class="wa-feat">7/24 mesaj atabilirsiniz</div>
     </div>
   </div>
 </section>
@@ -365,13 +378,12 @@ const revealObs = new IntersectionObserver(entries => {
 }, { threshold: 0.12 });
 document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
 
-/* ── CALENDLY CONVERSION ── */
-window.addEventListener('message', function(e) {
-  if (e.origin !== 'https://calendly.com') return;
-  if (e.data.event === 'calendly.event_scheduled') {
-    if (typeof gtag !== 'undefined') { fireConversion(); gtag('event', 'randevu_alindi', { event_category: 'conversion' }); }
-    if (typeof fbq !== 'undefined') { fbq('track', 'Lead'); }
-  }
+/* ── WHATSAPP CLICK TRACKING ── */
+document.querySelectorAll('.wa-big-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    if (typeof gtag !== 'undefined') gtag('event', 'whatsapp_click', { event_category: 'conversion' });
+    if (typeof fbq !== 'undefined') fbq('track', 'Lead');
+  });
 });
 </script>
 </body>
