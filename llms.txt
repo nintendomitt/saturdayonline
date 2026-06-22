@@ -1,0 +1,64 @@
+# Saturday Online
+
+> İzmir merkezli, performans odaklı dijital pazarlama ajansı. Meta ve Google reklam yönetimi, sosyal medya pazarlaması, içerik üretimi ve pazarlama otomasyon sistemleriyle işletmelerin online büyümesini sağlıyoruz.
+
+## Hizmetler
+
+- Meta Reklam Yönetimi (Facebook & Instagram reklamları, hedef kitle optimizasyonu, ROAS takibi)
+- Google Ads Yönetimi (Arama, Display, Shopping kampanyaları)
+- Sosyal Medya Yönetimi (İçerik takvimi, görsel tasarım, yorum ve mesaj yönetimi, aylık raporlama)
+- İçerik Pazarlaması (Blog yazıları, SEO içerikleri, copywriting)
+- E-posta Pazarlaması
+- Pazarlama Otomasyonu (CRM entegrasyonu, lead nurturing, otomasyon akışları)
+- Performans Pazarlaması ve ROAS Optimizasyonu
+
+## Hizmet Verilen Sektörler
+
+E-ticaret, güzellik & estetik merkezleri, restoran & kafe, giyim markaları, yerel işletmeler, B2B şirketler
+
+## Konum ve İletişim
+
+- Web: https://saturdayonline.co
+- Konum: İzmir, Türkiye
+- Hizmet Alanı: İzmir ve Türkiye geneli (uzaktan)
+
+## Sık Sorulan Sorular
+
+**Saturday Online hangi hizmetleri sunuyor?**
+Meta (Facebook/Instagram) reklam yönetimi, Google Ads, sosyal medya yönetimi, içerik üretimi, e-posta pazarlaması ve pazarlama otomasyon sistemleri.
+
+**Meta reklamlarına ne kadar bütçe gerekir?**
+Minimum aylık 3.000 TL reklam bütçesiyle başlanabilir. Hedef kitle ve sektöre göre önerilen bütçe ücretsiz danışmanlık görüşmesinde belirlenir.
+
+**Sosyal medya yönetimi neleri kapsar?**
+Aylık içerik takvimi, görsel ve video tasarımı, caption yazımı, yayınlama, yorum ve mesaj yönetimi, aylık performans raporu ve rakip analizi. Instagram, Facebook, LinkedIn ve TikTok platformları.
+
+**Çalışmaya nasıl başlanır?**
+Web sitesindeki form doldurulur veya iletişime geçilir; 30 dakikalık ücretsiz strateji görüşmesi yapılır.
+
+## Blog İçerikleri
+
+Dijital pazarlama, sosyal medya, reklam yönetimi ve e-ticaret konularında Türkçe rehberler:
+
+- Reklam Ajansı Ne İş Yapar?: https://saturdayonline.co/blog/reklam-ajansi-ne-is-yapar.html
+- Google Ads ile Kaç Paraya Müşteri Bulunur?: https://saturdayonline.co/blog/google-ads-ile-kac-paraya-musteri-bulunur.html
+- Sosyal Medya Yönetimi Fiyatları 2026: https://saturdayonline.co/blog/sosyal-medya-yonetimi-fiyat.html
+- Sosyal Medya Yönetimi Paketleri 2026: https://saturdayonline.co/blog/sosyal-medya-yonetimi-paketleri.html
+- E-Ticaret Reklam Ajansı Nasıl Seçilir?: https://saturdayonline.co/blog/e-ticaret-reklam-ajansi-nasil-secilir.html
+- Güzellik Merkezi Meta Reklam Rehberi 2026: https://saturdayonline.co/blog/guzellik-merkezi-meta-reklam-rehberi.html
+- Giyim Markası Meta Reklam Maliyeti 2026: https://saturdayonline.co/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html
+- TikTok Reklam Maliyetleri 2026 Türkiye: https://saturdayonline.co/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html
+- Instagram DM Otomasyonu ile Satış Artırma: https://saturdayonline.co/blog/instagram-dm-otomasyonu-ile-satislari-artirin-instaassist-rehberi.html
+- Dijital Pazarlama Nedir? İşletme Rehberi: https://saturdayonline.co/blog/dijital-pazarlama-nedir-isletmeler-icin-baslangic-rehberi.html
+- En İyi Dijital Ajansı Nasıl Bulursunuz?: https://saturdayonline.co/blog/en-iyi-dijital-ajansi-nasil-bulursunuz.html
+- Facebook Hesabı Kalıcı Kapatıldıysa Çözüm: https://saturdayonline.co/blog/facebook-hesap-kalici-kapatildi-cozum.html
+- Facebook Reklamcı Hesabı Neden Kapatılır?: https://saturdayonline.co/blog/facebook-reklamci-hesabi-neden-kalici-kapatilir-topluluk-standartlari-rehberi.html
+- Baba Günü Dijital Pazarlama Fikirleri: https://saturdayonline.co/blog/baba-gunu-icin-dijital-pazarlama-fikirleri-ve-kampanya-onerileri.html
+- MCP Nedir? Model Context Protocol Rehberi: https://saturdayonline.co/blog/mcp-nedir-model-context-protocol-ile-yapay-zekayi-araclariniza-baglayin.html
+- AI Video Araçları 2026 Karşılaştırması: https://saturdayonline.co/blog/yapay-zeka-video-olusturma-araclari-2026-higgsfield-runway-kling-karsilastirmasi.html
+- Gemini Flash Nedir? Google'ın Multimodal AI Modeli: https://saturdayonline.co/blog/gemini-omni-flash-nedir.html
+- Spotify Peloton Fitness Ortaklığı 2026: https://saturdayonline.co/blog/spotify-peloton-fitness-ortakligi.html
+
+## Tam Sitemap
+
+https://saturdayonline.co/sitemap.xml
