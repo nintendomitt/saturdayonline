@@ -5,138 +5,221 @@
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Ücretsiz Strateji Görüşmesi | Saturday Online</title>
-  <meta name="description" content="Saturday Online ile 30 dakikalık ücretsiz dijital pazarlama görüşmesi rezerve edin. Meta reklam, Google Ads ve sosyal medya stratejinizi konuşalım." />
+  <meta name="description" content="Saturday Online ile 30 dakikalık ücretsiz dijital pazarlama görüşmesi rezerve edin." />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://saturdayonline.co/randevu/" />
   <link rel="alternate" hreflang="tr" href="https://saturdayonline.co/randevu/" />
   <link rel="alternate" hreflang="x-default" href="https://saturdayonline.co/" />
 
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://saturdayonline.co/randevu/" />
-  <meta property="og:title" content="Ücretsiz Strateji Görüşmesi | Saturday Online" />
-  <meta property="og:description" content="30 dakikada dijital pazarlama stratejinizi belirleyelim. Ücretsiz, taahhütsüz." />
-  <meta property="og:locale" content="tr_TR" />
-  <meta property="og:site_name" content="Saturday Online" />
-
-  <!-- Google Ads Conversion Tracking -->
+  <!-- GA4 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-0W1TTHEJFZ"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-0W1TTHEJFZ');
-
-    // Google Ads conversion — ID'yi buraya ekle
-    // gtag('config', 'AW-XXXXXXXXX');
+    gtag('js', new Date()); gtag('config', 'G-0W1TTHEJFZ');
     function fireConversion() {
-      gtag('event', 'conversion', {
-        'send_to': 'AW-CONVERSION_ID/CONVERSION_LABEL',
-        'value': 1.0,
-        'currency': 'TRY'
-      });
+      gtag('event', 'conversion', { 'send_to': 'AW-CONVERSION_ID/CONVERSION_LABEL', 'value': 1.0, 'currency': 'TRY' });
     }
   </script>
+  <!-- FB Pixel -->
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','3989226141296996');fbq('track','PageView');</script>
+  <noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=3989226141296996&ev=PageView&noscript=1"/></noscript>
 
-  <!-- Facebook Pixel -->
-  <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '3989226141296996');
-    fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=3989226141296996&ev=PageView&noscript=1" /></noscript>
-
-  <!-- Calendly CSS -->
-  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet"/>
 
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root { --orange: #FF6B2B; --dark: #0f0f0f; --card-bg: #1a1a1a; --border: #2a2a2a; --text: #e0e0e0; --muted: #888; }
-    body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--dark); color: var(--text); min-height: 100vh; }
-    nav { position: sticky; top: 0; z-index: 100; background: rgba(15,15,15,.95); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); padding: 14px 24px; display: flex; align-items: center; justify-content: space-between; }
-    .nav-logo { font-size: 1.1rem; font-weight: 800; color: white; text-decoration: none; letter-spacing: -.5px; }
-    .nav-logo span { color: var(--orange); }
-    .nav-links { display: flex; gap: 24px; }
-    .nav-links a { color: var(--muted); text-decoration: none; font-size: .9rem; }
-    .nav-links a:hover { color: white; }
-    @media (max-width: 600px) { .nav-links { display: none; } }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{--orange:#FF6B2B;--orange-glow:rgba(255,107,43,.35);--dark:#080808;--dark2:#0f0f0f;--card:#111;--border:rgba(255,255,255,.08);--text:#e0e0e0;--muted:#666}
+    html{scroll-behavior:smooth}
+    body{font-family:'Inter',system-ui,sans-serif;background:var(--dark);color:var(--text);overflow-x:hidden}
 
-    .hero { padding: 56px 24px 32px; text-align: center; max-width: 680px; margin: 0 auto; }
-    .badge { display: inline-block; background: rgba(255,107,43,.15); color: var(--orange); border: 1px solid rgba(255,107,43,.3); padding: 4px 14px; border-radius: 20px; font-size: .8rem; font-weight: 600; margin-bottom: 16px; }
-    h1 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); font-weight: 800; color: white; line-height: 1.25; margin-bottom: 14px; }
-    .lead { color: #bbb; font-size: 1rem; line-height: 1.7; margin-bottom: 28px; }
+    /* ── NAV ── */
+    nav{position:fixed;top:0;left:0;right:0;z-index:200;padding:18px 40px;display:flex;align-items:center;justify-content:space-between;background:rgba(8,8,8,.7);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
+    .nav-logo{font-size:1.15rem;font-weight:900;color:#fff;text-decoration:none;letter-spacing:-.5px}
+    .nav-logo span{color:var(--orange)}
+    .nav-right{display:flex;align-items:center;gap:20px}
+    .nav-right a{color:var(--muted);text-decoration:none;font-size:.88rem;transition:color .2s}
+    .nav-right a:hover{color:#fff}
+    .nav-cta{background:var(--orange);color:#fff!important;padding:9px 22px;border-radius:50px;font-weight:700;font-size:.85rem!important}
+    @media(max-width:600px){.nav-right .hide-mobile{display:none}}
 
-    .trust-bar { display: flex; justify-content: center; gap: 32px; flex-wrap: wrap; margin-bottom: 32px; }
-    .trust-item { text-align: center; }
-    .trust-item strong { display: block; font-size: 1.4rem; font-weight: 800; color: white; }
-    .trust-item span { font-size: .78rem; color: var(--muted); }
+    /* ── HERO ── */
+    .hero{min-height:100vh;display:grid;grid-template-columns:1fr 1fr;align-items:center;padding:100px 60px 60px;gap:40px;position:relative;overflow:hidden}
+    @media(max-width:900px){.hero{grid-template-columns:1fr;padding:100px 24px 40px;text-align:center}}
 
-    .calendly-wrap { max-width: 900px; margin: 0 auto; padding: 0 16px 60px; }
-    .calendly-inline-widget { border-radius: 12px; overflow: hidden; border: 1px solid var(--border); min-height: 700px; }
+    /* Background orbs */
+    .orb{position:absolute;border-radius:50%;filter:blur(80px);pointer-events:none;animation:drift 12s ease-in-out infinite}
+    .orb1{width:500px;height:500px;background:radial-gradient(circle,rgba(255,107,43,.18) 0%,transparent 70%);top:-100px;left:-100px;animation-delay:0s}
+    .orb2{width:400px;height:400px;background:radial-gradient(circle,rgba(255,107,43,.1) 0%,transparent 70%);bottom:-80px;right:200px;animation-delay:-6s}
+    @keyframes drift{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(30px,-20px) scale(1.05)}}
 
-    .why-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; max-width: 760px; margin: 0 auto 48px; padding: 0 24px; }
-    .why-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; }
-    .why-card .icon { font-size: 1.4rem; margin-bottom: 8px; }
-    .why-card h4 { font-size: .9rem; font-weight: 700; color: white; margin-bottom: 4px; }
-    .why-card p { font-size: .82rem; color: var(--muted); line-height: 1.5; }
+    .hero-left{position:relative;z-index:2}
+    .badge{display:inline-flex;align-items:center;gap:8px;background:rgba(255,107,43,.12);border:1px solid rgba(255,107,43,.25);color:var(--orange);padding:6px 16px;border-radius:50px;font-size:.78rem;font-weight:700;margin-bottom:28px;letter-spacing:.5px;text-transform:uppercase}
+    .badge::before{content:'';width:6px;height:6px;background:var(--orange);border-radius:50%;animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.8)}}
 
-    footer { text-align: center; padding: 24px; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--border); }
-    footer a { color: var(--orange); text-decoration: none; }
+    h1{font-size:clamp(2rem,4vw,3.2rem);font-weight:900;color:#fff;line-height:1.1;margin-bottom:20px;letter-spacing:-1.5px}
+    h1 .highlight{color:var(--orange);position:relative}
+    .hero-desc{font-size:1.05rem;color:#888;line-height:1.75;margin-bottom:36px;max-width:480px}
+    @media(max-width:900px){.hero-desc{margin:0 auto 36px}}
+
+    /* Stats */
+    .stats{display:flex;gap:32px;flex-wrap:wrap}
+    @media(max-width:900px){.stats{justify-content:center}}
+    .stat-item{text-align:left}
+    @media(max-width:900px){.stat-item{text-align:center}}
+    .stat-num{font-size:2.8rem;font-weight:900;color:#fff;line-height:1;letter-spacing:-2px;display:flex;align-items:baseline;gap:2px}
+    .stat-num .unit{font-size:1.6rem;color:var(--orange)}
+    .stat-label{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.8px;margin-top:4px}
+
+    /* 3D Canvas */
+    .hero-right{position:relative;display:flex;align-items:center;justify-content:center;min-height:460px}
+    @media(max-width:900px){.hero-right{min-height:280px}}
+    #three-canvas{position:absolute;inset:0;width:100%!important;height:100%!important}
+    .canvas-glow{position:absolute;inset:0;background:radial-gradient(ellipse at center,var(--orange-glow) 0%,transparent 65%);pointer-events:none;animation:glowPulse 3s ease-in-out infinite}
+    @keyframes glowPulse{0%,100%{opacity:.6}50%{opacity:1}}
+
+    /* Scroll anchor */
+    #booking-anchor{scroll-margin-top:80px}
+
+    /* ── BOOKING SECTION ── */
+    .booking-section{padding:80px 40px;max-width:1000px;margin:0 auto}
+    @media(max-width:600px){.booking-section{padding:60px 16px}}
+
+    .section-label{text-align:center;margin-bottom:48px}
+    .section-label h2{font-size:clamp(1.5rem,3vw,2.2rem);font-weight:900;color:#fff;letter-spacing:-1px;margin-bottom:10px}
+    .section-label p{color:var(--muted);font-size:.95rem}
+
+    .calendly-container{background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:20px;padding:2px;overflow:hidden;box-shadow:0 0 80px rgba(255,107,43,.08)}
+    .calendly-inline-widget{min-height:700px;border-radius:18px;overflow:hidden}
+
+    /* ── WHY CARDS ── */
+    .why-section{padding:80px 40px;max-width:1000px;margin:0 auto}
+    @media(max-width:600px){.why-section{padding:60px 16px}}
+    .why-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;margin-top:40px}
+    .why-card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:28px 24px;transition:border-color .3s,transform .3s;position:relative;overflow:hidden}
+    .why-card::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 30% 20%,rgba(255,107,43,.06),transparent 60%);opacity:0;transition:opacity .3s}
+    .why-card:hover{border-color:rgba(255,107,43,.3);transform:translateY(-4px)}
+    .why-card:hover::before{opacity:1}
+    .why-icon{font-size:2rem;margin-bottom:14px;display:block}
+    .why-card h4{font-size:1rem;font-weight:800;color:#fff;margin-bottom:8px}
+    .why-card p{font-size:.85rem;color:var(--muted);line-height:1.6}
+
+    /* ── SOCIAL PROOF BAR ── */
+    .proof-bar{background:rgba(255,107,43,.06);border-top:1px solid rgba(255,107,43,.15);border-bottom:1px solid rgba(255,107,43,.15);padding:20px 40px;display:flex;align-items:center;justify-content:center;gap:40px;flex-wrap:wrap;margin:20px 0}
+    .proof-item{font-size:.82rem;color:#aaa;display:flex;align-items:center;gap:8px}
+    .proof-item::before{content:'✓';color:var(--orange);font-weight:700}
+
+    /* ── SCROLL REVEAL ── */
+    .reveal{opacity:0;transform:translateY(32px);transition:opacity .7s ease,transform .7s ease}
+    .reveal.visible{opacity:1;transform:none}
+
+    footer{text-align:center;padding:32px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--border)}
+    footer a{color:var(--orange);text-decoration:none}
   </style>
 </head>
 <body>
 
 <nav>
   <a href="https://saturdayonline.co" class="nav-logo">Saturday<span>.</span></a>
-  <div class="nav-links">
-    <a href="https://saturdayonline.co/#hizmetler">Hizmetler</a>
-    <a href="https://saturdayonline.co/#galeri">Çalışmalar</a>
-    <a href="tel:+905548847178">+90 554 884 71 78</a>
+  <div class="nav-right">
+    <a href="https://saturdayonline.co/#hizmetler" class="hide-mobile">Hizmetler</a>
+    <a href="https://saturdayonline.co/blog/" class="hide-mobile">Blog</a>
+    <a href="tel:+905548847178" class="hide-mobile">+90 554 884 71 78</a>
+    <a href="#booking-anchor" class="nav-cta">Randevu Al</a>
   </div>
 </nav>
 
-<div class="hero">
-  <span class="badge">📅 Ücretsiz · 30 Dakika · Taahhütsüz</span>
-  <h1>Dijital Pazarlama Stratejinizi<br />Birlikte Belirleyelim</h1>
-  <p class="lead">Meta reklam, Google Ads veya sosyal medya yönetimi konusunda nerede durduğunuzu ve ne yapmanız gerektiğini 30 dakikada netleştirelim. Satış baskısı yok, sadece somut tavsiyeler.</p>
+<!-- HERO -->
+<section class="hero">
+  <div class="orb orb1"></div>
+  <div class="orb orb2"></div>
 
-  <div class="trust-bar">
-    <div class="trust-item"><strong>150+</strong><span>Müşteri</span></div>
-    <div class="trust-item"><strong>400+</strong><span>Proje</span></div>
-    <div class="trust-item"><strong>5</strong><span>Ülke</span></div>
-    <div class="trust-item"><strong>%320</strong><span>Ort. ROAS</span></div>
+  <div class="hero-left">
+    <div class="badge">📅 Ücretsiz · 30 Dakika · Taahhütsüz</div>
+    <h1>Reklamlarınız<br /><span class="highlight">Gerçek Sonuç</span><br />Üretsin</h1>
+    <p class="hero-desc">Meta, Google Ads veya sosyal medya konusunda 30 dakikada markanıza özel strateji çıkarıyoruz. Satış baskısı yok — sadece somut yol haritası.</p>
+
+    <div class="stats">
+      <div class="stat-item">
+        <div class="stat-num"><span class="counter" data-target="150">0</span><span class="unit">+</span></div>
+        <div class="stat-label">Müşteri</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num"><span class="counter" data-target="400">0</span><span class="unit">+</span></div>
+        <div class="stat-label">Proje</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num"><span class="counter" data-target="320">0</span><span class="unit">%</span></div>
+        <div class="stat-label">Ort. ROAS</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num"><span class="counter" data-target="5">0</span><span class="unit">★</span></div>
+        <div class="stat-label">Puan</div>
+      </div>
+    </div>
   </div>
+
+  <div class="hero-right">
+    <div class="canvas-glow"></div>
+    <canvas id="three-canvas"></canvas>
+  </div>
+</section>
+
+<!-- PROOF BAR -->
+<div class="proof-bar reveal">
+  <div class="proof-item">Meta Business Partner</div>
+  <div class="proof-item">Google Ads Sertifikalı</div>
+  <div class="proof-item">İzmir & Türkiye Geneli</div>
+  <div class="proof-item">Şeffaf Raporlama</div>
+  <div class="proof-item">Performans Garantisi</div>
 </div>
 
-<!-- Calendly Embed -->
-<div class="calendly-wrap">
-  <div class="calendly-inline-widget"
-       data-url="https://calendly.com/saturdayonlinesolutions/30min?hide_gdpr_banner=1&background_color=1a1a1a&text_color=e0e0e0&primary_color=FF6B2B"
-       style="min-width:320px;height:700px;">
+<!-- BOOKING -->
+<div id="booking-anchor"></div>
+<section class="booking-section reveal">
+  <div class="section-label">
+    <h2>Strateji Görüşmesi Rezerve Et</h2>
+    <p>Aşağıdan size uygun gün ve saati seçin</p>
   </div>
-</div>
+  <div class="calendly-container">
+    <div class="calendly-inline-widget"
+         data-url="https://calendly.com/saturdayonlinesolutions/30min?hide_gdpr_banner=1&background_color=0f0f0f&text_color=e0e0e0&primary_color=FF6B2B"
+         style="min-width:320px;height:700px;">
+    </div>
+  </div>
+</section>
 
-<div class="why-grid">
-  <div class="why-card">
-    <div class="icon">🎯</div>
-    <h4>Hedef Kitle Analizi</h4>
-    <p>Ürününüzü veya hizmetinizi kimin satın aldığını ve nerede bulunduklarını analiz ederiz.</p>
+<!-- WHY -->
+<section class="why-section">
+  <div class="section-label reveal">
+    <h2>Görüşmede Ne Konuşacağız?</h2>
+    <p>30 dakika içinde bunların hepsini ele alıyoruz</p>
   </div>
-  <div class="why-card">
-    <div class="icon">💰</div>
-    <h4>Bütçe Optimizasyonu</h4>
-    <p>Hangi kanala ne kadar yatırım yapmanız gerektiğini veriye dayalı olarak önerir.</p>
+  <div class="why-grid">
+    <div class="why-card reveal">
+      <span class="why-icon">🎯</span>
+      <h4>Hedef Kitle Analizi</h4>
+      <p>Ürününüzü kimin, nerede ve hangi motivasyonla satın aldığını analiz ederiz.</p>
+    </div>
+    <div class="why-card reveal">
+      <span class="why-icon">💰</span>
+      <h4>Bütçe Optimizasyonu</h4>
+      <p>Hangi kanala ne kadar yatırım yapmanız gerektiğini veriye dayalı önerir.</p>
+    </div>
+    <div class="why-card reveal">
+      <span class="why-icon">📊</span>
+      <h4>Rakip Analizi</h4>
+      <p>Rakiplerinizin hangi reklamları yayınladığını ve açıklarını belirleriz.</p>
+    </div>
+    <div class="why-card reveal">
+      <span class="why-icon">🗺️</span>
+      <h4>90 Günlük Yol Haritası</h4>
+      <p>Görüşme sonunda yazılı aksiyon planı paylaşıyoruz. Hemen uygulanabilir.</p>
+    </div>
   </div>
-  <div class="why-card">
-    <div class="icon">📊</div>
-    <h4>Rakip Analizi</h4>
-    <p>Rakiplerinizin neler yaptığını, hangi reklamları yayınladığını inceleriz.</p>
-  </div>
-  <div class="why-card">
-    <div class="icon">🗺️</div>
-    <h4>Yol Haritası</h4>
-    <p>İlk 90 günlük dijital pazarlama planını görüşmenin sonunda yazılı olarak paylaşırız.</p>
-  </div>
-</div>
+</section>
 
 <footer>
   © 2026 Saturday Online · İzmir &nbsp;|&nbsp;
@@ -144,32 +227,152 @@
   <a href="tel:+905548847178">+90 554 884 71 78</a>
 </footer>
 
+<!-- Three.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <!-- Calendly JS -->
 <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
-<!-- Calendly booking event → Google Ads + Meta Pixel conversion -->
 <script>
-  window.addEventListener('message', function(e) {
-    if (e.origin !== 'https://calendly.com') return;
-    if (e.data.event && e.data.event === 'calendly.event_scheduled') {
-      // Google Ads conversion
-      if (typeof gtag !== 'undefined') {
-        fireConversion();
-      }
-      // Meta Pixel Lead event
-      if (typeof fbq !== 'undefined') {
-        fbq('track', 'Lead');
-      }
-      // GA4 event
-      if (typeof gtag !== 'undefined') {
-        gtag('event', 'randevu_alindi', {
-          'event_category': 'conversion',
-          'event_label': 'calendly_booking'
-        });
-      }
+/* ── THREE.JS 3D SCENE ── */
+(function() {
+  const canvas  = document.getElementById('three-canvas');
+  const container = canvas.parentElement;
+
+  const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+  renderer.setPixelRatio(window.devicePixelRatio);
+  renderer.setSize(container.clientWidth, container.clientHeight);
+
+  const scene  = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(50, container.clientWidth / container.clientHeight, 0.1, 100);
+  camera.position.z = 4.5;
+
+  // Torus Knot — ana 3D obje
+  const geometry = new THREE.TorusKnotGeometry(1.2, 0.38, 180, 24, 2, 3);
+  const material = new THREE.MeshStandardMaterial({
+    color: 0xFF6B2B,
+    emissive: 0xFF3A00,
+    emissiveIntensity: 0.45,
+    metalness: 0.7,
+    roughness: 0.2,
+    wireframe: false,
+  });
+  const torusKnot = new THREE.Mesh(geometry, material);
+  scene.add(torusKnot);
+
+  // Wireframe overlay
+  const wireMat = new THREE.MeshBasicMaterial({ color: 0xFF6B2B, wireframe: true, opacity: 0.08, transparent: true });
+  const wireKnot = new THREE.Mesh(geometry, wireMat);
+  wireKnot.scale.set(1.01, 1.01, 1.01);
+  scene.add(wireKnot);
+
+  // Floating particles
+  const particleGeo = new THREE.BufferGeometry();
+  const count = 280;
+  const positions = new Float32Array(count * 3);
+  for (let i = 0; i < count * 3; i++) positions[i] = (Math.random() - 0.5) * 10;
+  particleGeo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+  const particleMat = new THREE.PointsMaterial({ color: 0xFF6B2B, size: 0.03, transparent: true, opacity: 0.5 });
+  const particles = new THREE.Points(particleGeo, particleMat);
+  scene.add(particles);
+
+  // Lighting
+  const ambientLight = new THREE.AmbientLight(0xffffff, 0.3);
+  scene.add(ambientLight);
+  const pointLight1 = new THREE.PointLight(0xFF6B2B, 3, 10);
+  pointLight1.position.set(3, 3, 3);
+  scene.add(pointLight1);
+  const pointLight2 = new THREE.PointLight(0xff3300, 2, 8);
+  pointLight2.position.set(-3, -2, 2);
+  scene.add(pointLight2);
+  const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+  dirLight.position.set(1, 2, 3);
+  scene.add(dirLight);
+
+  let mouseX = 0, mouseY = 0;
+  document.addEventListener('mousemove', e => {
+    mouseX = (e.clientX / window.innerWidth - 0.5) * 2;
+    mouseY = (e.clientY / window.innerHeight - 0.5) * 2;
+  });
+
+  let t = 0;
+  function animate() {
+    requestAnimationFrame(animate);
+    t += 0.008;
+
+    torusKnot.rotation.x += 0.004;
+    torusKnot.rotation.y += 0.007;
+    wireKnot.rotation.x = torusKnot.rotation.x;
+    wireKnot.rotation.y = torusKnot.rotation.y;
+
+    // Mouse parallax
+    camera.position.x += (mouseX * 0.4 - camera.position.x) * 0.04;
+    camera.position.y += (-mouseY * 0.3 - camera.position.y) * 0.04;
+    camera.lookAt(scene.position);
+
+    // Breathe scale
+    const breathe = 1 + Math.sin(t) * 0.04;
+    torusKnot.scale.set(breathe, breathe, breathe);
+
+    // Pulsing emissive
+    material.emissiveIntensity = 0.35 + Math.sin(t * 1.5) * 0.2;
+
+    // Rotating point light
+    pointLight1.position.x = Math.cos(t) * 3;
+    pointLight1.position.z = Math.sin(t) * 3;
+
+    particles.rotation.y += 0.001;
+    particles.rotation.x += 0.0005;
+
+    renderer.render(scene, camera);
+  }
+  animate();
+
+  // Resize
+  window.addEventListener('resize', () => {
+    renderer.setSize(container.clientWidth, container.clientHeight);
+    camera.aspect = container.clientWidth / container.clientHeight;
+    camera.updateProjectionMatrix();
+  });
+})();
+
+/* ── COUNTER ANIMATION ── */
+function animateCounter(el) {
+  const target = parseInt(el.dataset.target);
+  const duration = 2000;
+  const step = target / (duration / 16);
+  let current = 0;
+  const timer = setInterval(() => {
+    current += step;
+    if (current >= target) { current = target; clearInterval(timer); }
+    el.textContent = Math.floor(current);
+  }, 16);
+}
+
+const counters = document.querySelectorAll('.counter');
+const counterObs = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) { animateCounter(e.target); counterObs.unobserve(e.target); } });
+}, { threshold: 0.5 });
+counters.forEach(c => counterObs.observe(c));
+
+/* ── SCROLL REVEAL ── */
+const revealObs = new IntersectionObserver(entries => {
+  entries.forEach((e, i) => {
+    if (e.isIntersecting) {
+      setTimeout(() => e.target.classList.add('visible'), i * 80);
+      revealObs.unobserve(e.target);
     }
   });
-</script>
+}, { threshold: 0.12 });
+document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
 
+/* ── CALENDLY CONVERSION ── */
+window.addEventListener('message', function(e) {
+  if (e.origin !== 'https://calendly.com') return;
+  if (e.data.event === 'calendly.event_scheduled') {
+    if (typeof gtag !== 'undefined') { fireConversion(); gtag('event', 'randevu_alindi', { event_category: 'conversion' }); }
+    if (typeof fbq !== 'undefined') { fbq('track', 'Lead'); }
+  }
+});
+</script>
 </body>
 </html>
