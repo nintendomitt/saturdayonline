@@ -381,7 +381,10 @@ document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
 /* ── WHATSAPP CLICK TRACKING ── */
 document.querySelectorAll('.wa-big-btn').forEach(btn => {
   btn.addEventListener('click', () => {
-    if (typeof gtag !== 'undefined') gtag('event', 'whatsapp_click', { event_category: 'conversion' });
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'whatsapp_click', { event_category: 'conversion' });
+      gtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'randevu_whatsapp' });
+    }
     if (typeof fbq !== 'undefined') fbq('track', 'Lead');
   });
 });
