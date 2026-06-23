@@ -247,6 +247,7 @@
   <button class="filter-btn" onclick="filterPosts('Meta Reklamları')">Meta Reklamları</button>
   <button class="filter-btn" onclick="filterPosts('Araç Tanıtım')">Araç Tanıtım</button>
   <button class="filter-btn" onclick="filterPosts('Özel Gün')">Özel Gün</button>
+  <button class="filter-btn" onclick="filterPosts('Niş')">Niş</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -285,6 +286,24 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "restoran-ve-kafe-isletmeleri-icin-sosyal-medya-yonetimi",
+    title: "Restoran ve Kafe İşletmeleri İçin Sosyal Medya Yönetimi",
+    category: "Niş",
+    date: "2026-06-23",
+    keyword: "restoran sosyal medya yönetimi",
+    image: "/blog-gorseller/baslikli/sosyal-medya-yonetimi-paketleri-fiyat-2026.jpg",
+    img_alt: "Restoran ve Kafe İşletmeleri İçin Sosyal Medya Yönetimi"
+  },
+  {
+    slug: "en-iyi-ucretsiz-yapay-zeka-siteleri-2026-pazarlamacilar-ve-tasarimcilar-icin",
+    title: "En İyi Ücretsiz Yapay Zeka Siteleri 2026: Pazarlamacılar ve Tasarımcılar için",
+    category: "Yapay Zeka",
+    date: "2026-06-23",
+    keyword: "ücretsiz yapay zeka siteleri",
+    image: "/blog-gorseller/baslikli/en-iyi-ucretsiz-yapay-zeka-siteleri-2026.jpg",
+    img_alt: "En İyi Ücretsiz Yapay Zeka Siteleri 2026 Pazarlamacılar ve Tasarımcılar için"
+  },
   {
     slug: "baba-gunu-icin-dijital-pazarlama-fikirleri-ve-kampanya-onerileri",
     title: "Baba Günü İçin Dijital Pazarlama Fikirleri ve Kampanya Önerileri",
