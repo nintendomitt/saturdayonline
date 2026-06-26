@@ -248,6 +248,7 @@
   <button class="filter-btn" onclick="filterPosts('Araç Tanıtım')">Araç Tanıtım</button>
   <button class="filter-btn" onclick="filterPosts('Özel Gün')">Özel Gün</button>
   <button class="filter-btn" onclick="filterPosts('Niş')">Niş</button>
+  <button class="filter-btn" onclick="filterPosts('Yerel SEO')">Yerel SEO</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -286,6 +287,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "izmir-turizm-isletmeleri-icin-dijital-pazarlama-rehberi",
+    title: "İzmir Turizm İşletmeleri İçin Dijital Pazarlama Rehberi",
+    category: "Yerel SEO",
+    date: "2026-06-25",
+    keyword: "izmir turizm dijital pazarlama",
+    image: "/blog-gorseller/baslikli/izmir-turizm-isletmeleri-icin-dijital-pazarlama-rehberi.jpg",
+    img_alt: "İzmir körfezi sinemik gece manzarası dijital pazarlama ışık efektleri"
+  },
   {
     slug: "sesli-ai-asistan-nedir-sesvia-vs-vapi-turkiyede-telefon-otomasyonu",
     title: "Sesli AI Asistan Nedir? Sesvia vs Vapi: Türkiye'de Telefon Otomasyonu",
