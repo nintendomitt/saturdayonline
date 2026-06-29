@@ -217,4 +217,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/seo-nedir-kucuk-isletmeler-icin-arama-motoru-optimizasyonu.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/sosyal-medya-gunu-2026-isletmeler-icin-10-ipucu.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

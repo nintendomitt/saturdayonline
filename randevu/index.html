@@ -18,7 +18,9 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date()); gtag('config', 'G-0W1TTHEJFZ'); gtag('config', 'AW-18195117473');
     function fireConversion() {
-      gtag('event', 'conversion', { 'send_to': 'AW-CONVERSION_ID/CONVERSION_LABEL', 'value': 1.0, 'currency': 'TRY' });
+      gtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'calendly_booked' });
+      /* Google Ads conversion: AW-CONVERSION_ID/CONVERSION_LABEL kısmını
+         Ads → Hedefler → Dönüşümler'den alınan gerçek etiketle değiştir */
     }
   </script>
   <!-- FB Pixel -->
@@ -132,7 +134,7 @@
   <div class="nav-right">
     <a href="https://saturdayonline.co/#hizmetler" class="hide-mobile">Hizmetler</a>
     <a href="https://saturdayonline.co/blog/" class="hide-mobile">Blog</a>
-    <a href="tel:+905548847178" class="hide-mobile">+90 554 884 71 78</a>
+    <a href="tel:+905548847178" class="hide-mobile" onclick="if(typeof gtag!=='undefined'){gtag('event','phone_call',{event_category:'conversion',event_label:'nav_tel'})}">+90 554 884 71 78</a>
     <a href="#booking-anchor" class="nav-cta">Randevu Al</a>
   </div>
 </nav>
@@ -387,6 +389,16 @@ document.querySelectorAll('.wa-big-btn').forEach(btn => {
     }
     if (typeof fbq !== 'undefined') fbq('track', 'Lead');
   });
+});
+
+/* ── CALENDLY BOOKING TRACKING ── */
+window.addEventListener('message', function(e) {
+  if (e.data.event && e.data.event === 'calendly.event_scheduled') {
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'calendly_booked' });
+    }
+    if (typeof fbq !== 'undefined') fbq('track', 'Lead');
+  }
 });
 </script>
 </body>
