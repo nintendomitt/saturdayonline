@@ -322,4 +322,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/klinik-ve-saglik-isletmeleri-icin-dijital-pazarlama.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/e-ticarette-geri-iade-oranlari-nasil-dusurulur-giyim-sektoru-icin-8-yontem.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
