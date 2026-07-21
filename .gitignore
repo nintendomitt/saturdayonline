@@ -8,3 +8,4 @@ node_modules/
 ../scripts/gsc_token.json
 ../scripts/gsc_last_report.json
 ../scripts/cluster_plan.json
+*-tmp.png
