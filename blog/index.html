@@ -255,6 +255,7 @@
   <button class="filter-btn" onclick="filterPosts('Meta / Facebook')">Meta / Facebook</button>
   <button class="filter-btn" onclick="filterPosts('Hizmet')">Hizmet</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Giyim')">Niş: Giyim</button>
+  <button class="filter-btn" onclick="filterPosts('Niş: Hukuk')">Niş: Hukuk</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -293,6 +294,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "hukuk-burolari-icin-dijital-pazarlama-etik-ve-etkili",
+    title: "Hukuk Büroları İçin Dijital Pazarlama: Etik ve Etkili",
+    category: "Niş: Hukuk",
+    date: "2026-07-23",
+    keyword: "hukuk bürosu dijital pazarlama",
+    image: "/blog-gorseller/baslikli/hukuk-burolari-icin-dijital-pazarlama-etik-ve-etkili.jpg",
+    img_alt: "Hukuk bürosu için dijital pazarlama, kurumsal ofis ve etik sınırlar teması"
+  },
   {
     slug: "gayrimenkul-sektorunde-dijital-pazarlama-stratejileri",
     title: "Gayrimenkul Sektöründe Dijital Pazarlama Stratejileri",
