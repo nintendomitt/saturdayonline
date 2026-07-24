@@ -256,6 +256,7 @@
   <button class="filter-btn" onclick="filterPosts('Hizmet')">Hizmet</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Giyim')">Niş: Giyim</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Hukuk')">Niş: Hukuk</button>
+  <button class="filter-btn" onclick="filterPosts('Sezonsal')">Sezonsal</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -294,6 +295,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "yazlik-sezonu-pazarlama-turizm-ve-konaklama-isletmeleri-icin",
+    title: "Yazlık Sezonu Pazarlama: Turizm ve Konaklama İşletmeleri İçin",
+    category: "Sezonsal",
+    date: "2026-07-24",
+    keyword: "yaz sezonu pazarlama",
+    image: "/blog-gorseller/baslikli/yazlik-sezonu-pazarlama-turizm-ve-konaklama-isletmeleri-icin.jpg",
+    img_alt: "Sahilde yazlık otel ve tatil atmosferi, gün batımında turkuaz deniz manzarası"
+  },
   {
     slug: "hukuk-burolari-icin-dijital-pazarlama-etik-ve-etkili",
     title: "Hukuk Büroları İçin Dijital Pazarlama: Etik ve Etkili",
