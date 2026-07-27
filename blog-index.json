@@ -1,6 +1,17 @@
 {
   "posts": [
     {
+      "slug": "tiktok-reklam-maliyetlerini-artiran-hatalar",
+      "title": "TikTok Reklam Maliyetlerini Artıran 8 Hata (ve Nasıl Önlenir?)",
+      "keyword": "tiktok reklam maliyetlerini düşürme",
+      "category": "TikTok Reklamları",
+      "date": "2026-07-27",
+      "url": "https://saturdayonline.co/blog/tiktok-reklam-maliyetlerini-artiran-hatalar.html",
+      "image": "/blog-gorseller/baslikli/tiktok-reklam-maliyetlerini-artiran-hatalar.jpg",
+      "img_alt": "TikTok reklam maliyetini şişiren hatalar, kırmızı uyarı grafikleriyle reklam paneli",
+      "status": "published"
+    },
+    {
       "slug": "guzellik-merkezi-meta-reklam-rehberi",
       "title": "Güzellik Merkezi Meta Reklam Rehberi 2026: Nelere Dikkat Etmeli?",
       "category": "Meta Reklamları",
@@ -491,5 +502,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-07-24T13:39:07.034290"
+  "last_updated": "2026-07-27T10:04:30.431526"
 }
