@@ -257,6 +257,8 @@
   <button class="filter-btn" onclick="filterPosts('Niş: Giyim')">Niş: Giyim</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Hukuk')">Niş: Hukuk</button>
   <button class="filter-btn" onclick="filterPosts('Sezonsal')">Sezonsal</button>
+  <button class="filter-btn" onclick="filterPosts('Trend')">Trend</button>
+  <button class="filter-btn" onclick="filterPosts('Niş: Beyaz Eşya')">Niş: Beyaz Eşya</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -295,6 +297,24 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "kurutma-makinesi-alirken-nelere-dikkat-edilmeli-2026-tavsiye-rehberi",
+    title: "Kurutma Makinesi Alırken Nelere Dikkat Edilmeli? 2026 Tavsiye Rehberi",
+    category: "Niş: Beyaz Eşya",
+    date: "2026-07-28",
+    keyword: "en iyi kurutma makinesi",
+    image: "/blog-gorseller/baslikli/kurutma-makinesi-alirken-nelere-dikkat-edilmeli-2026-tavsiye-rehberi.jpg",
+    img_alt: "Kurutma makinesi karşılaştırma tablosu, modern mutfak ortamında beyaz eşya"
+  },
+  {
+    slug: "tiktok-reklamlari-isletmeler-icin-yeni-bir-kanal-mi",
+    title: "TikTok Reklamları: İşletmeler İçin Yeni Bir Kanal mı?",
+    category: "Trend",
+    date: "2026-07-28",
+    keyword: "tiktok reklam yönetimi",
+    image: "/blog-gorseller/baslikli/tiktok-reklamlari-isletmeler-icin-yeni-bir-kanal-mi.jpg",
+    img_alt: "TikTok arayüzü ve creator video içeriği, işletmeler için yeni pazarlama kanalı"
+  },
   {
     slug: "tiktok-reklam-maliyetlerini-artiran-hatalar",
     title: "TikTok Reklam Maliyetlerini Artıran 8 Hata (ve Nasıl Önlenir?)",
