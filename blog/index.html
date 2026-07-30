@@ -259,6 +259,8 @@
   <button class="filter-btn" onclick="filterPosts('Sezonsal')">Sezonsal</button>
   <button class="filter-btn" onclick="filterPosts('Trend')">Trend</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Beyaz Eşya')">Niş: Beyaz Eşya</button>
+  <button class="filter-btn" onclick="filterPosts('Marka Kimliği')">Marka Kimliği</button>
+  <button class="filter-btn" onclick="filterPosts('Niş: Restoran')">Niş: Restoran</button>
 </div>
 
 <div class="grid" id="post-grid">
@@ -297,6 +299,33 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "web-sitesi-fiyatlari-2026-isletme-sahibi-rehberi",
+    title: "Web Sitesi Fiyatları 2026: İşletme Sahibi Rehberi",
+    category: "Eğitici",
+    date: "2026-07-30",
+    keyword: "web sitesi fiyatları 2026",
+    image: "/blog-gorseller/baslikli/web-sitesi-fiyatlari-2026-isletme-sahibi-rehberi.jpg",
+    img_alt: "Web sitesi fiyat karşılaştırması, dizüstü bilgisayarda tasarım ekranı"
+  },
+  {
+    slug: "logo-tasarimi-fiyatlari-2026-ne-kadar-odemeli",
+    title: "Logo Tasarımı Fiyatları 2026: Ne Kadar Ödemeli?",
+    category: "Marka Kimliği",
+    date: "2026-07-29",
+    keyword: "logo tasarımı fiyatları",
+    image: "/blog-gorseller/baslikli/logo-tasarimi-fiyatlari-2026-ne-kadar-odemeli.jpg",
+    img_alt: "Logo tasarım süreci, renk paleti ve marka kimliği çalışma masası"
+  },
+  {
+    slug: "qr-menu-ve-online-rezervasyon-restoranlar-icin-dijital-donusum-rehberi",
+    title: "QR Menü ve Online Rezervasyon: Restoranlar için Dijital Dönüşüm Rehberi",
+    category: "Niş: Restoran",
+    date: "2026-07-29",
+    keyword: "qr menü restoran",
+    image: "/blog-gorseller/baslikli/qr-menu-ve-online-rezervasyon-restoranlar-icin-dijital-donusum-rehberi.jpg",
+    img_alt: "QR menü ve online rezervasyon, restoran masasında telefon mockup görüntüsü"
+  },
   {
     slug: "kurutma-makinesi-alirken-nelere-dikkat-edilmeli-2026-tavsiye-rehberi",
     title: "Kurutma Makinesi Alırken Nelere Dikkat Edilmeli? 2026 Tavsiye Rehberi",
