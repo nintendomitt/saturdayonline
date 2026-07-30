@@ -9,3 +9,5 @@ node_modules/
 ../scripts/gsc_last_report.json
 ../scripts/cluster_plan.json
 *-tmp.png
+.git-broken-*/
+.git-locked-*/
