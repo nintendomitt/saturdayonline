@@ -237,6 +237,7 @@
 
 <div class="filters" id="filters">
   <button class="filter-btn active" onclick="filterPosts('all')">Tümü</button>
+  <button class="filter-btn" onclick="filterPosts('Mevzuat')">Mevzuat</button>
   <button class="filter-btn" onclick="filterPosts('YZ / Teknoloji')">YZ / Teknoloji</button>
   <button class="filter-btn" onclick="filterPosts('Sosyal Medya')">Sosyal Medya</button>
   <button class="filter-btn" onclick="filterPosts('SEO')">SEO</button>
@@ -299,6 +300,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "yeni-reklam-yonetmeligi-2026-isletmeler-icin-uyum-rehberi",
+    title: "Yeni Reklam Yönetmeliği 2026: İşletmeler İçin Uyum Rehberi",
+    category: "Mevzuat",
+    date: "2026-08-04",
+    keyword: "yeni reklam yönetmeliği",
+    image: "/blog-gorseller/baslikli/yeni-reklam-yonetmeligi-2026-isletmeler-icin-uyum-rehberi.jpg",
+    img_alt: "Hakim tokmağı ve dijital reklam panelleri: yeni ticari reklam yönetmeliği"
+  },
   {
     slug: "marka-kimligi-olusturma-kucuk-isletmeler-icin-adim-adim",
     title: "Marka Kimliği Oluşturma: Küçük İşletmeler İçin Adım Adım",
