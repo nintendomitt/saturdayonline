@@ -260,6 +260,7 @@
   <button class="filter-btn" onclick="filterPosts('Sezonsal')">Sezonsal</button>
   <button class="filter-btn" onclick="filterPosts('Trend')">Trend</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Beyaz Eşya')">Niş: Beyaz Eşya</button>
+  <button class="filter-btn" onclick="filterPosts('Karar')">Karar</button>
   <button class="filter-btn" onclick="filterPosts('Marka Kimliği')">Marka Kimliği</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Restoran')">Niş: Restoran</button>
 </div>
@@ -300,6 +301,42 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "izmirde-reklam-ajansi-nasil-secilir-2026-rehberi",
+    title: "İzmir'de Reklam Ajansı Nasıl Seçilir? 2026 Rehberi",
+    category: "Yerel SEO",
+    date: "2026-08-06",
+    keyword: "reklam ajansı izmir",
+    image: "/blog-gorseller/baslikli/izmirde-reklam-ajansi-nasil-secilir-2026-rehberi.jpg",
+    img_alt: "İzmir körfezi ve modern ajans çalışma ortamı: reklam ajansı seçim rehberi"
+  },
+  {
+    slug: "sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin",
+    title: "Sosyal Medya Yönetimi: Kendiniz mi, Ajansa mı Bırakın?",
+    category: "Karar",
+    date: "2026-08-05",
+    keyword: "sosyal medya yönetimi",
+    image: "/blog-gorseller/baslikli/sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin.jpg",
+    img_alt: "Yol ayrımında karar anı: sosyal medya yönetimini kendiniz mi yapmalısınız, ajansa mı bırakmalısınız"
+  },
+  {
+    slug: "buzdolabi-alirken-nelere-bakilmali-enerji-sinifi-hacim-ve-marka-rehberi",
+    title: "Buzdolabı Alırken Nelere Bakılmalı? Enerji Sınıfı, Hacim ve Marka Rehberi",
+    category: "Niş: Beyaz Eşya",
+    date: "2026-08-05",
+    keyword: "buzdolabı ölçüleri",
+    image: "/blog-gorseller/baslikli/buzdolabi-alirken-nelere-bakilmali-enerji-sinifi-hacim-ve-marka-rehberi.jpg",
+    img_alt: "Modern mutfakta buzdolabı ve enerji verimliliği teması"
+  },
+  {
+    slug: "klima-markalari-karsilastirma-2026-inverter-klima-nedir-hangisi-alinmali",
+    title: "Klima Markaları Karşılaştırma 2026: Inverter Klima Nedir, Hangisi Alınmalı?",
+    category: "Niş: Beyaz Eşya",
+    date: "2026-08-04",
+    keyword: "klima markaları",
+    image: "/blog-gorseller/baslikli/klima-markalari-karsilastirma-2026-inverter-klima-nedir-hangisi-alinmali.jpg",
+    img_alt: "Modern iç mekânda duvar tipi inverter klima ve enerji verimliliği teması"
+  },
   {
     slug: "yeni-reklam-yonetmeligi-2026-isletmeler-icin-uyum-rehberi",
     title: "Yeni Reklam Yönetmeliği 2026: İşletmeler İçin Uyum Rehberi",
