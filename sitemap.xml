@@ -469,4 +469,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/donusum-orani-optimizasyonu-trafigi-satisa-cevirin.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/taksit-imkani-reklamin-donusumunu-artirir-mi-beyaz-esya-sektorunden-veriler.html</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
