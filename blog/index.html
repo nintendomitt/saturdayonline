@@ -263,10 +263,45 @@
   <button class="filter-btn" onclick="filterPosts('Karar')">Karar</button>
   <button class="filter-btn" onclick="filterPosts('Marka Kimliği')">Marka Kimliği</button>
   <button class="filter-btn" onclick="filterPosts('Niş: Restoran')">Niş: Restoran</button>
+
+  <button class="filter-btn" onclick="filterPosts('Niş: Fitness')">Niş: Fitness</button>
 </div>
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/sosyal-medya-icerik-takvimi-nasil-olusturulur.html" class="card" data-cat="Eğitici">
+      <img src="/blog-gorseller/baslikli/sosyal-medya-icerik-takvimi-nasil-olusturulur.jpg" alt="Sosyal Medya İçerik Takvimi Nasıl Oluşturulur?" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Eğitici</span>
+          <span class="card-date">13 Ağustos 2026</span>
+        </div>
+        <h2>Sosyal Medya İçerik Takvimi Nasıl Oluşturulur?</h2>
+        <div class="card-kw">🔍 sosyal medya içerik takvimi</div>
+      </div>
+    </a>
+    <a href="/blog/reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber.html" class="card" data-cat="Eğitici">
+      <img src="/blog-gorseller/baslikli/reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber.jpg" alt="Reklam Bütçesi Nasıl Belirlenir? Büyüklüğüne Göre Rehber" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Eğitici</span>
+          <span class="card-date">12 Ağustos 2026</span>
+        </div>
+        <h2>Reklam Bütçesi Nasıl Belirlenir? Büyüklüğüne Göre Rehber</h2>
+        <div class="card-kw">🔍 reklam bütçesi belirleme</div>
+      </div>
+    </a>
+    <a href="/blog/spor-kocu-ve-personal-trainer-icin-sosyal-medya-pazarlama-rehberi-2026.html" class="card" data-cat="Niş: Fitness">
+      <img src="/blog-gorseller/baslikli/spor-kocu-ve-personal-trainer-icin-sosyal-medya-pazarlama-rehberi-2026.jpg" alt="Spor Koçu ve Personal Trainer için Sosyal Medya Pazarlama Rehberi 2026" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Niş: Fitness</span>
+          <span class="card-date">12 Ağustos 2026</span>
+        </div>
+        <h2>Spor Koçu ve Personal Trainer için Sosyal Medya Pazarlama Rehberi 2026</h2>
+        <div class="card-kw">🔍 personal trainer nedir</div>
+      </div>
+    </a>
     <a href="/blog/donusum-orani-optimizasyonu-trafigi-satisa-cevirin.html" class="card" data-cat="Hizmet">
       <img src="/blog-gorseller/baslikli/donusum-orani-optimizasyonu-trafigi-satisa-cevirin.jpg" alt="Dönüşüm Oranı Optimizasyonu: Trafiği Satışa Çevirin" class="card-img" loading="lazy" width="400" height="225">
       <div class="card-body">
@@ -1005,6 +1040,33 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "sosyal-medya-icerik-takvimi-nasil-olusturulur",
+    title: "Sosyal Medya İçerik Takvimi Nasıl Oluşturulur?",
+    category: "Eğitici",
+    date: "2026-08-13",
+    keyword: "sosyal medya içerik takvimi",
+    image: "/blog-gorseller/baslikli/sosyal-medya-icerik-takvimi-nasil-olusturulur.jpg",
+    img_alt: ""
+  },
+  {
+    slug: "reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber",
+    title: "Reklam Bütçesi Nasıl Belirlenir? Büyüklüğüne Göre Rehber",
+    category: "Eğitici",
+    date: "2026-08-12",
+    keyword: "reklam bütçesi belirleme",
+    image: "/blog-gorseller/baslikli/reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber.jpg",
+    img_alt: ""
+  },
+  {
+    slug: "spor-kocu-ve-personal-trainer-icin-sosyal-medya-pazarlama-rehberi-2026",
+    title: "Spor Koçu ve Personal Trainer için Sosyal Medya Pazarlama Rehberi 2026",
+    category: "Niş: Fitness",
+    date: "2026-08-12",
+    keyword: "personal trainer nedir",
+    image: "/blog-gorseller/baslikli/spor-kocu-ve-personal-trainer-icin-sosyal-medya-pazarlama-rehberi-2026.jpg",
+    img_alt: ""
+  },
   {
     slug: "donusum-orani-optimizasyonu-trafigi-satisa-cevirin",
     title: "Dönüşüm Oranı Optimizasyonu: Trafiği Satışa Çevirin",
