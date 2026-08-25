@@ -269,6 +269,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/b2b-sirketler-icin-dijital-pazarlama-linkedin-ve-otesi.html" class="card" data-cat="Niş">
+      <img src="/blog-gorseller/baslikli/b2b-sirketler-icin-dijital-pazarlama-linkedin-ve-otesi.jpg" alt="B2B Şirketler İçin Dijital Pazarlama: LinkedIn ve Ötesi" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Niş</span>
+          <span class="card-date">25 Ağustos 2026</span>
+        </div>
+        <h2>B2B Şirketler İçin Dijital Pazarlama: LinkedIn ve Ötesi</h2>
+        <div class="card-kw">🔍 b2b dijital pazarlama</div>
+      </div>
+    </a>
     <a href="/blog/guzellik-ve-kuafor-salonlari-icin-sosyal-medya-stratejisi.html" class="card" data-cat="Niş">
       <img src="/blog-gorseller/baslikli/guzellik-ve-kuafor-salonlari-icin-sosyal-medya-stratejisi.jpg" alt="Güzellik ve Kuaför Salonları İçin Sosyal Medya Stratejisi" class="card-img" loading="lazy" width="400" height="225">
       <div class="card-body">
@@ -1095,6 +1106,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "b2b-sirketler-icin-dijital-pazarlama-linkedin-ve-otesi",
+    title: "B2B Şirketler İçin Dijital Pazarlama: LinkedIn ve Ötesi",
+    category: "Niş",
+    date: "2026-08-25",
+    keyword: "b2b dijital pazarlama",
+    image: "/blog-gorseller/baslikli/b2b-sirketler-icin-dijital-pazarlama-linkedin-ve-otesi.jpg",
+    img_alt: ""
+  },
   {
     slug: "guzellik-ve-kuafor-salonlari-icin-sosyal-medya-stratejisi",
     title: "Güzellik ve Kuaför Salonları İçin Sosyal Medya Stratejisi",
