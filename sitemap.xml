@@ -560,4 +560,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/yazdan-sonbahara-pazarlama-stratejinizi-nasil-guncellemeli.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/zafer-bayrami-markanizi-milli-gunlerde-nasil-konumlandirmalisiniz.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
