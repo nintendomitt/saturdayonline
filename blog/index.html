@@ -265,10 +265,35 @@
   <button class="filter-btn" onclick="filterPosts('Niş: Restoran')">Niş: Restoran</button>
 
   <button class="filter-btn" onclick="filterPosts('Niş: Fitness')">Niş: Fitness</button>
+
+  <button class="filter-btn" onclick="filterPosts('Güven/FAQ')">Güven/FAQ</button>
+  <button class="filter-btn" onclick="filterPosts('Dijital Pazarlama')">Dijital Pazarlama</button>
 </div>
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/reklam-ajansi-ile-calismak-ilk-3-ayda-neler-beklemeliyim.html" class="card" data-cat="Güven/FAQ">
+      <img src="/blog-gorseller/baslikli/reklam-ajansi-ile-calismak-ilk-3-ayda-neler-beklemeliyim.jpg" alt="Reklam Ajansı ile Çalışmak: İlk 3 Ayda Neler Beklemeliyim?" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Güven/FAQ</span>
+          <span class="card-date">3 Eylül 2026</span>
+        </div>
+        <h2>Reklam Ajansı ile Çalışmak: İlk 3 Ayda Neler Beklemeliyim?</h2>
+        <div class="card-kw">🔍 reklam ajansı ile çalışmak</div>
+      </div>
+    </a>
+    <a href="/blog/turkiye-dijital-reklam-il-haritasi-2026.html" class="card" data-cat="Dijital Pazarlama">
+      <img src="/blog-gorseller/baslikli/facebook-hesap-kalici-kapatildi.jpg" alt="Türkiye&#x27;de Dijital Reklam Harcaması: İllere Göre Dağılım Haritası 2024" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Dijital Pazarlama</span>
+          <span class="card-date">2 Eylül 2026</span>
+        </div>
+        <h2>Türkiye&#x27;de Dijital Reklam Harcaması: İllere Göre Dağılım Haritası 2024</h2>
+        <div class="card-kw">🔍 türkiye dijital reklam harcaması iller</div>
+      </div>
+    </a>
     <a href="/blog/izmir-dijital-ajans-rehberi-hangi-ajansi-secmeli.html" class="card" data-cat="Yerel SEO">
       <img src="/blog-gorseller/baslikli/izmir-dijital-ajans-rehberi-hangi-ajansi-secmeli.jpg" alt="İzmir Dijital Ajans Rehberi: Hangi Ajansı Seçmeli?" class="card-img" loading="lazy" width="400" height="225">
       <div class="card-body">
@@ -1183,6 +1208,24 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "reklam-ajansi-ile-calismak-ilk-3-ayda-neler-beklemeliyim",
+    title: "Reklam Ajansı ile Çalışmak: İlk 3 Ayda Neler Beklemeliyim?",
+    category: "Güven/FAQ",
+    date: "2026-09-03",
+    keyword: "reklam ajansı ile çalışmak",
+    image: "/blog-gorseller/baslikli/reklam-ajansi-ile-calismak-ilk-3-ayda-neler-beklemeliyim.jpg",
+    img_alt: ""
+  },
+  {
+    slug: "turkiye-dijital-reklam-il-haritasi-2026",
+    title: "Türkiye'de Dijital Reklam Harcaması: İllere Göre Dağılım Haritası 2024",
+    category: "Dijital Pazarlama",
+    date: "2026-09-02",
+    keyword: "türkiye dijital reklam harcaması iller",
+    image: "/blog-gorseller/baslikli/facebook-hesap-kalici-kapatildi.jpg",
+    img_alt: ""
+  },
   {
     slug: "izmir-dijital-ajans-rehberi-hangi-ajansi-secmeli",
     title: "İzmir Dijital Ajans Rehberi: Hangi Ajansı Seçmeli?",
