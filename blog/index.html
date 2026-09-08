@@ -367,7 +367,7 @@
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
     <a href="/blog/izmirde-dijital-pazarlama-saturday-online-ile-buyuyun.html" class="card" data-cat="Yerel SEO">
-      <img src="/blog-gorseller/baslikli/izmirde-dijital-pazarlama-saturday-online-ile-buyuyun.jpg" alt="İzmir&#x27;de Dijital Pazarlama: Saturday Online ile Büyüyün" class="card-img" loading="lazy" width="400" height="225">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
         <div class="card-meta">
           <span class="card-cat">Yerel SEO</span>
@@ -1324,7 +1324,7 @@ const INLINE_POSTS = [
     category: "Yerel SEO",
     date: "2026-09-08",
     keyword: "izmir dijital ajans",
-    image: "/blog-gorseller/baslikli/izmirde-dijital-pazarlama-saturday-online-ile-buyuyun.jpg",
+    image: "",
     img_alt: ""
   },
   {
@@ -2082,7 +2082,7 @@ function renderPosts(posts) {
     <a href="/blog/${p.slug}.html" class="card" data-cat="${p.category || ''}">
       ${p.image
         ? `<img src="${p.image}" alt="${p.img_alt || p.title}" class="card-img" loading="lazy" width="400" height="225">`
-        : `<div class="card-img-placeholder">📝</div>`
+        : `<div class="card-img-placeholder" aria-hidden="true"></div>`
       }
       <div class="card-body">
         <div class="card-meta">
