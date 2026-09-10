@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Türkiye Dijital Reklam Haritası 2024 | Saturday Online</title>
-  <meta name="description" content="2024 yılında Türkiye'de dijital reklam harcamalarının illere göre dağılımı. IAB Türkiye 2024 ve TÜİK il bazlı ekonomik göstergeler kullanılarak modellenmiştir.">
+  <title>Türkiye Dijital Reklam Harcaması Haritası (81 İl, 2024)</title>
+  <meta name="description" content="Türkiye&#x27;nin 81 ilinde tahmini dijital reklam harcaması. İnteraktif harita, ücretsiz CSV/JSON veri indirme ve sitenize gömme kodu. Kaynak: IAB Türkiye + TÜİK.">
   <link rel="canonical" href="https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html">
   <style>
     * { margin:0; padding:0; box-sizing:border-box; }
@@ -67,6 +67,37 @@
       .bar-meta { width:100px; font-size:0.68rem; }
     }
   </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Türkiye Dijital Reklam Harcaması — İllere Göre Tahmini Dağılım 2024",
+  "description": "Türkiye'nin 81 ilinde tahmini dijital reklam harcaması dağılımı. IAB Türkiye 2024 ulusal toplamı, TÜİK il bazlı ekonomik göstergeleriyle illere dağıtılarak modellenmiştir.",
+  "url": "https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html",
+  "keywords": ["dijital reklam", "Türkiye", "il bazlı", "reklam harcaması", "IAB Türkiye", "pazarlama"],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Saturday Online",
+    "url": "https://saturdayonline.co"
+  },
+  "temporalCoverage": "2024",
+  "spatialCoverage": { "@type": "Place", "name": "Türkiye" },
+  "variableMeasured": [
+    {"@type":"PropertyValue","name":"pay_yuzde","description":"İlin ulusal dijital reklam harcamasındaki tahmini payı (%)"},
+    {"@type":"PropertyValue","name":"tahmini_harcama_milyar_tl","description":"Tahmini yıllık dijital reklam harcaması (milyar TL)"},
+    {"@type":"PropertyValue","name":"baskin_sektor","description":"İlde dijital reklam veren baskın sektörler"}
+  ],
+  "distribution": [
+    {"@type":"DataDownload","encodingFormat":"text/csv",
+     "contentUrl":"https://saturdayonline.co/veri/turkiye-dijital-reklam-il-bazli-2024.csv"},
+    {"@type":"DataDownload","encodingFormat":"application/json",
+     "contentUrl":"https://saturdayonline.co/veri/turkiye-dijital-reklam-il-bazli-2024.json"}
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -294,6 +325,68 @@ top10.forEach(([name, data]) => {
   row.innerHTML = `<div class="bar-name">${name}</div><div class="bar-track"><div class="bar-fill" style="width:${pct}%">${data.share>=4?amt:""}</div></div><div class="bar-meta">%${data.share.toFixed(1)} · ${amt}</div>`;
   document.getElementById("bar-chart").appendChild(row);
 });
+</script>
+
+<section class="paylas-blok">
+  <h2>Bu haritayı kendi sitenizde kullanın</h2>
+  <p>
+    Veri <strong>CC BY 4.0</strong> lisansıyla serbesttir. Kaynak göstererek haberinizde,
+    sunumunuzda veya raporunuzda kullanabilirsiniz. Aşağıdaki kodu kopyalayıp sitenize
+    yapıştırmanız yeterli.
+  </p>
+  <div class="kod-kutu">
+    <button type="button" class="kopyala" onclick="kopyalaEmbed(this)">Kodu Kopyala</button>
+<pre id="embed-kod">&lt;iframe src="https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html"
+  width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px"
+  title="Türkiye Dijital Reklam Harcaması Haritası 2024 — Saturday Online"
+  loading="lazy"&gt;&lt;/iframe&gt;
+&lt;p&gt;Kaynak: &lt;a href="https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html"&gt;Saturday Online&lt;/a&gt;&lt;/p&gt;</pre>
+  </div>
+
+  <h3>Ham veriyi indirin</h3>
+  <p>81 ilin tamamı, pay yüzdesi, tahmini harcama ve baskın sektör bilgisiyle:</p>
+  <p>
+    <a class="indir" href="/veri/turkiye-dijital-reklam-il-bazli-2024.csv" download>CSV indir</a>
+    <a class="indir" href="/veri/turkiye-dijital-reklam-il-bazli-2024.json" download>JSON indir</a>
+  </p>
+
+  <h3>Metodoloji ve kaynaklar</h3>
+  <p>
+    Ulusal toplam <strong>IAB Türkiye 2024 Dijital Reklam Yatırımları Raporu</strong>ndan alınmıştır.
+    Bu toplam, TÜİK'in il bazlı ekonomik göstergeleri (GSYH payı, işletme yoğunluğu, nüfus)
+    kullanılarak illere dağıtılmıştır.
+  </p>
+  <p>
+    <strong>Önemli:</strong> Rakamlar modellenmiş tahmindir, resmi il bazlı ölçüm değildir.
+    Türkiye'de dijital reklam harcaması il düzeyinde resmi olarak ölçülmemektedir. Bu çalışma,
+    ulusal veriyi ekonomik ağırlıklara göre dağıtan bir yaklaşımdır ve büyüklük sırası hakkında
+    fikir vermek amacı taşır.
+  </p>
+  <p>
+    Atıf için: <em>Saturday Online, "Türkiye Dijital Reklam Harcaması — İllere Göre Dağılım 2024"</em>
+  </p>
+</section>
+
+<style>
+.paylas-blok{max-width:900px;margin:2.5rem auto;padding:0 5%}
+.paylas-blok h2{font-size:1.5rem;font-weight:800;margin-bottom:.7rem}
+.paylas-blok h3{font-size:1.05rem;font-weight:700;margin:1.6rem 0 .5rem}
+.paylas-blok p{color:#4b5563;line-height:1.7;margin-bottom:.8rem;font-size:.95rem}
+.kod-kutu{position:relative;background:#0f0f0f;border-radius:12px;padding:1.1rem;margin:1rem 0;overflow:auto}
+.kod-kutu pre{color:#d4d4d8;font-size:.8rem;line-height:1.6;white-space:pre-wrap;word-break:break-all;margin:0;font-family:ui-monospace,Menlo,monospace}
+.kopyala{position:absolute;top:.7rem;right:.7rem;background:#FF6B2B;color:#fff;border:0;border-radius:6px;padding:.4rem .8rem;font-size:.78rem;font-weight:700;cursor:pointer}
+.kopyala:hover{background:#e55a1f}
+.indir{display:inline-block;background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:.55rem 1.1rem;margin-right:.6rem;font-size:.9rem;font-weight:600;color:#111;text-decoration:none}
+.indir:hover{border-color:#FF6B2B;color:#FF6B2B}
+</style>
+<script>
+function kopyalaEmbed(btn){
+  var t = document.getElementById('embed-kod').innerText;
+  navigator.clipboard.writeText(t).then(function(){
+    var o = btn.textContent; btn.textContent = 'Kopyalandı';
+    setTimeout(function(){ btn.textContent = o; }, 1800);
+  });
+}
 </script>
 </body>
 </html>

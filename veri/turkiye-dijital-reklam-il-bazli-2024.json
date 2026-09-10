@@ -1,0 +1,502 @@
+{
+ "baslik": "Türkiye Dijital Reklam Harcaması — İllere Göre Tahmini Dağılım",
+ "yil": 2024,
+ "ulusal_toplam_milyar_tl": 158.0,
+ "il_sayisi": 81,
+ "yontem": "IAB Türkiye 2024 ulusal dijital reklam harcaması toplamı, TÜİK'in il bazlı ekonomik göstergeleri (GSYH payı, işletme yoğunluğu, nüfus) kullanılarak illere dağıtılmıştır. Rakamlar TAHMİNDİR, resmi il bazlı ölçüm değildir.",
+ "kaynaklar": [
+  "IAB Türkiye 2024 Dijital Reklam Yatırımları Raporu (iabtr.org)",
+  "TÜİK il bazlı ekonomik göstergeler"
+ ],
+ "lisans": "CC BY 4.0 — kaynak göstererek serbestçe kullanabilirsiniz",
+ "atif": "Saturday Online — https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html",
+ "guncelleme": "2026-09-10",
+ "veri": [
+  {
+   "il": "İstanbul",
+   "pay_yuzde": 42.0,
+   "tahmini_harcama_milyar_tl": 66.36,
+   "baskin_sektor": "Finans & E-ticaret & Teknoloji"
+  },
+  {
+   "il": "Ankara",
+   "pay_yuzde": 11.0,
+   "tahmini_harcama_milyar_tl": 17.38,
+   "baskin_sektor": "Teknoloji & Finans & Kamu"
+  },
+  {
+   "il": "İzmir",
+   "pay_yuzde": 7.5,
+   "tahmini_harcama_milyar_tl": 11.85,
+   "baskin_sektor": "E-ticaret & Turizm & Liman"
+  },
+  {
+   "il": "Bursa",
+   "pay_yuzde": 3.2,
+   "tahmini_harcama_milyar_tl": 5.056,
+   "baskin_sektor": "Otomotiv & Tekstil"
+  },
+  {
+   "il": "Antalya",
+   "pay_yuzde": 3.0,
+   "tahmini_harcama_milyar_tl": 4.74,
+   "baskin_sektor": "Turizm & Otelcilik"
+  },
+  {
+   "il": "Kocaeli",
+   "pay_yuzde": 2.5,
+   "tahmini_harcama_milyar_tl": 3.95,
+   "baskin_sektor": "Kimya & Sanayi & Otomotiv"
+  },
+  {
+   "il": "Konya",
+   "pay_yuzde": 1.9,
+   "tahmini_harcama_milyar_tl": 3.002,
+   "baskin_sektor": "Tarım & Makine"
+  },
+  {
+   "il": "Gaziantep",
+   "pay_yuzde": 1.7,
+   "tahmini_harcama_milyar_tl": 2.686,
+   "baskin_sektor": "Sanayi & İhracat"
+  },
+  {
+   "il": "Adana",
+   "pay_yuzde": 1.6,
+   "tahmini_harcama_milyar_tl": 2.528,
+   "baskin_sektor": "Ticaret & E-ticaret"
+  },
+  {
+   "il": "Mersin",
+   "pay_yuzde": 1.4,
+   "tahmini_harcama_milyar_tl": 2.212,
+   "baskin_sektor": "Liman & E-ticaret"
+  },
+  {
+   "il": "Muğla",
+   "pay_yuzde": 1.3,
+   "tahmini_harcama_milyar_tl": 2.054,
+   "baskin_sektor": "Turizm & Tatil"
+  },
+  {
+   "il": "Tekirdağ",
+   "pay_yuzde": 1.1,
+   "tahmini_harcama_milyar_tl": 1.738,
+   "baskin_sektor": "Sanayi & Tarım"
+  },
+  {
+   "il": "Sakarya",
+   "pay_yuzde": 0.9,
+   "tahmini_harcama_milyar_tl": 1.422,
+   "baskin_sektor": "Otomotiv & Sanayi"
+  },
+  {
+   "il": "Kayseri",
+   "pay_yuzde": 0.9,
+   "tahmini_harcama_milyar_tl": 1.422,
+   "baskin_sektor": "Mobilya & Sanayi"
+  },
+  {
+   "il": "Eskişehir",
+   "pay_yuzde": 0.8,
+   "tahmini_harcama_milyar_tl": 1.264,
+   "baskin_sektor": "Sanayi & Üniversite"
+  },
+  {
+   "il": "Denizli",
+   "pay_yuzde": 0.8,
+   "tahmini_harcama_milyar_tl": 1.264,
+   "baskin_sektor": "Tekstil & İhracat"
+  },
+  {
+   "il": "Samsun",
+   "pay_yuzde": 0.7,
+   "tahmini_harcama_milyar_tl": 1.106,
+   "baskin_sektor": "Ticaret & Liman"
+  },
+  {
+   "il": "Balıkesir",
+   "pay_yuzde": 0.7,
+   "tahmini_harcama_milyar_tl": 1.106,
+   "baskin_sektor": "Tarım & Turizm"
+  },
+  {
+   "il": "Trabzon",
+   "pay_yuzde": 0.6,
+   "tahmini_harcama_milyar_tl": 0.948,
+   "baskin_sektor": "Liman & Ticaret"
+  },
+  {
+   "il": "Manisa",
+   "pay_yuzde": 0.6,
+   "tahmini_harcama_milyar_tl": 0.948,
+   "baskin_sektor": "Sanayi & Tarım"
+  },
+  {
+   "il": "Hatay",
+   "pay_yuzde": 0.5,
+   "tahmini_harcama_milyar_tl": 0.79,
+   "baskin_sektor": "Sanayi & Ticaret"
+  },
+  {
+   "il": "Diyarbakır",
+   "pay_yuzde": 0.5,
+   "tahmini_harcama_milyar_tl": 0.79,
+   "baskin_sektor": "Ticaret & Perakende"
+  },
+  {
+   "il": "Yalova",
+   "pay_yuzde": 0.38,
+   "tahmini_harcama_milyar_tl": 0.6,
+   "baskin_sektor": "Kimya & Sanayi"
+  },
+  {
+   "il": "Aydın",
+   "pay_yuzde": 0.38,
+   "tahmini_harcama_milyar_tl": 0.6,
+   "baskin_sektor": "Tarım & Turizm"
+  },
+  {
+   "il": "Kırklareli",
+   "pay_yuzde": 0.35,
+   "tahmini_harcama_milyar_tl": 0.553,
+   "baskin_sektor": "Sanayi & Tarım"
+  },
+  {
+   "il": "Edirne",
+   "pay_yuzde": 0.35,
+   "tahmini_harcama_milyar_tl": 0.553,
+   "baskin_sektor": "Ticaret & Turizm"
+  },
+  {
+   "il": "Çanakkale",
+   "pay_yuzde": 0.35,
+   "tahmini_harcama_milyar_tl": 0.553,
+   "baskin_sektor": "Turizm & Sanayi"
+  },
+  {
+   "il": "Kahramanmaraş",
+   "pay_yuzde": 0.35,
+   "tahmini_harcama_milyar_tl": 0.553,
+   "baskin_sektor": "Tekstil & Enerji"
+  },
+  {
+   "il": "Şanlıurfa",
+   "pay_yuzde": 0.3,
+   "tahmini_harcama_milyar_tl": 0.474,
+   "baskin_sektor": "Tarım & Ticaret"
+  },
+  {
+   "il": "Bolu",
+   "pay_yuzde": 0.3,
+   "tahmini_harcama_milyar_tl": 0.474,
+   "baskin_sektor": "Turizm & Ticaret"
+  },
+  {
+   "il": "Malatya",
+   "pay_yuzde": 0.3,
+   "tahmini_harcama_milyar_tl": 0.474,
+   "baskin_sektor": "Tarım & Ticaret"
+  },
+  {
+   "il": "Nevşehir",
+   "pay_yuzde": 0.28,
+   "tahmini_harcama_milyar_tl": 0.442,
+   "baskin_sektor": "Kapadokya Turizmi"
+  },
+  {
+   "il": "Zonguldak",
+   "pay_yuzde": 0.25,
+   "tahmini_harcama_milyar_tl": 0.395,
+   "baskin_sektor": "Madencilik & Ticaret"
+  },
+  {
+   "il": "Afyonkarahisar",
+   "pay_yuzde": 0.25,
+   "tahmini_harcama_milyar_tl": 0.395,
+   "baskin_sektor": "Turizm & Ticaret"
+  },
+  {
+   "il": "Erzurum",
+   "pay_yuzde": 0.25,
+   "tahmini_harcama_milyar_tl": 0.395,
+   "baskin_sektor": "Ticaret & Turizm"
+  },
+  {
+   "il": "Düzce",
+   "pay_yuzde": 0.22,
+   "tahmini_harcama_milyar_tl": 0.348,
+   "baskin_sektor": "Sanayi & Tarım"
+  },
+  {
+   "il": "Van",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Turizm & Ticaret"
+  },
+  {
+   "il": "Ordu",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Tarım & Ticaret"
+  },
+  {
+   "il": "Bilecik",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Sanayi"
+  },
+  {
+   "il": "Sivas",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Sanayi & Ticaret"
+  },
+  {
+   "il": "Çorum",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Sanayi & Tarım"
+  },
+  {
+   "il": "Kütahya",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Seramik & Sanayi"
+  },
+  {
+   "il": "Isparta",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Gül & Turizm"
+  },
+  {
+   "il": "Elazığ",
+   "pay_yuzde": 0.2,
+   "tahmini_harcama_milyar_tl": 0.316,
+   "baskin_sektor": "Yerel Ticaret"
+  },
+  {
+   "il": "Rize",
+   "pay_yuzde": 0.18,
+   "tahmini_harcama_milyar_tl": 0.284,
+   "baskin_sektor": "Çay & Turizm"
+  },
+  {
+   "il": "Uşak",
+   "pay_yuzde": 0.18,
+   "tahmini_harcama_milyar_tl": 0.284,
+   "baskin_sektor": "Tekstil & Deri"
+  },
+  {
+   "il": "Osmaniye",
+   "pay_yuzde": 0.18,
+   "tahmini_harcama_milyar_tl": 0.284,
+   "baskin_sektor": "Sanayi & Tarım"
+  },
+  {
+   "il": "Mardin",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Turizm & Ticaret"
+  },
+  {
+   "il": "Giresun",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Tarım"
+  },
+  {
+   "il": "Kastamonu",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Tarım & Ticaret"
+  },
+  {
+   "il": "Karabük",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Çelik & Sanayi"
+  },
+  {
+   "il": "Tokat",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Tarım & Ticaret"
+  },
+  {
+   "il": "Amasya",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Karaman",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Tarım & Sanayi"
+  },
+  {
+   "il": "Niğde",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Tarım & Sanayi"
+  },
+  {
+   "il": "Burdur",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Tarım"
+  },
+  {
+   "il": "Aksaray",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Sanayi & Lojistik"
+  },
+  {
+   "il": "Kırıkkale",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Savunma & Sanayi"
+  },
+  {
+   "il": "Adıyaman",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Batman",
+   "pay_yuzde": 0.15,
+   "tahmini_harcama_milyar_tl": 0.237,
+   "baskin_sektor": "Enerji & Ticaret"
+  },
+  {
+   "il": "Artvin",
+   "pay_yuzde": 0.12,
+   "tahmini_harcama_milyar_tl": 0.19,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Bartın",
+   "pay_yuzde": 0.12,
+   "tahmini_harcama_milyar_tl": 0.19,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Kırşehir",
+   "pay_yuzde": 0.12,
+   "tahmini_harcama_milyar_tl": 0.19,
+   "baskin_sektor": "Tarım"
+  },
+  {
+   "il": "Erzincan",
+   "pay_yuzde": 0.12,
+   "tahmini_harcama_milyar_tl": 0.19,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Ağrı",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Kars",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Hayvancılık & Turizm"
+  },
+  {
+   "il": "Sinop",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Turizm & Balıkçılık"
+  },
+  {
+   "il": "Çankırı",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Yozgat",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Tarım"
+  },
+  {
+   "il": "Bitlis",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Bingöl",
+   "pay_yuzde": 0.1,
+   "tahmini_harcama_milyar_tl": 0.158,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Şırnak",
+   "pay_yuzde": 0.08,
+   "tahmini_harcama_milyar_tl": 0.126,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Iğdır",
+   "pay_yuzde": 0.08,
+   "tahmini_harcama_milyar_tl": 0.126,
+   "baskin_sektor": "Tarım"
+  },
+  {
+   "il": "Kilis",
+   "pay_yuzde": 0.08,
+   "tahmini_harcama_milyar_tl": 0.126,
+   "baskin_sektor": "Sınır Ticareti"
+  },
+  {
+   "il": "Muş",
+   "pay_yuzde": 0.08,
+   "tahmini_harcama_milyar_tl": 0.126,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Siirt",
+   "pay_yuzde": 0.08,
+   "tahmini_harcama_milyar_tl": 0.126,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Gümüşhane",
+   "pay_yuzde": 0.08,
+   "tahmini_harcama_milyar_tl": 0.126,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Ardahan",
+   "pay_yuzde": 0.05,
+   "tahmini_harcama_milyar_tl": 0.079,
+   "baskin_sektor": "Hayvancılık"
+  },
+  {
+   "il": "Hakkari",
+   "pay_yuzde": 0.05,
+   "tahmini_harcama_milyar_tl": 0.079,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Tunceli",
+   "pay_yuzde": 0.05,
+   "tahmini_harcama_milyar_tl": 0.079,
+   "baskin_sektor": "Yerel Perakende"
+  },
+  {
+   "il": "Bayburt",
+   "pay_yuzde": 0.05,
+   "tahmini_harcama_milyar_tl": 0.079,
+   "baskin_sektor": "Yerel Perakende"
+  }
+ ]
+}

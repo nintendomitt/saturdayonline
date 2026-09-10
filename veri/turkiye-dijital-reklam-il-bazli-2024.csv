@@ -1,0 +1,82 @@
+﻿il,pay_yuzde,tahmini_harcama_milyar_tl,baskin_sektor
+İstanbul,42.0,66.36,Finans & E-ticaret & Teknoloji
+Ankara,11.0,17.38,Teknoloji & Finans & Kamu
+İzmir,7.5,11.85,E-ticaret & Turizm & Liman
+Bursa,3.2,5.056,Otomotiv & Tekstil
+Antalya,3.0,4.74,Turizm & Otelcilik
+Kocaeli,2.5,3.95,Kimya & Sanayi & Otomotiv
+Konya,1.9,3.002,Tarım & Makine
+Gaziantep,1.7,2.686,Sanayi & İhracat
+Adana,1.6,2.528,Ticaret & E-ticaret
+Mersin,1.4,2.212,Liman & E-ticaret
+Muğla,1.3,2.054,Turizm & Tatil
+Tekirdağ,1.1,1.738,Sanayi & Tarım
+Sakarya,0.9,1.422,Otomotiv & Sanayi
+Kayseri,0.9,1.422,Mobilya & Sanayi
+Eskişehir,0.8,1.264,Sanayi & Üniversite
+Denizli,0.8,1.264,Tekstil & İhracat
+Samsun,0.7,1.106,Ticaret & Liman
+Balıkesir,0.7,1.106,Tarım & Turizm
+Trabzon,0.6,0.948,Liman & Ticaret
+Manisa,0.6,0.948,Sanayi & Tarım
+Hatay,0.5,0.79,Sanayi & Ticaret
+Diyarbakır,0.5,0.79,Ticaret & Perakende
+Yalova,0.38,0.6,Kimya & Sanayi
+Aydın,0.38,0.6,Tarım & Turizm
+Kırklareli,0.35,0.553,Sanayi & Tarım
+Edirne,0.35,0.553,Ticaret & Turizm
+Çanakkale,0.35,0.553,Turizm & Sanayi
+Kahramanmaraş,0.35,0.553,Tekstil & Enerji
+Şanlıurfa,0.3,0.474,Tarım & Ticaret
+Bolu,0.3,0.474,Turizm & Ticaret
+Malatya,0.3,0.474,Tarım & Ticaret
+Nevşehir,0.28,0.442,Kapadokya Turizmi
+Zonguldak,0.25,0.395,Madencilik & Ticaret
+Afyonkarahisar,0.25,0.395,Turizm & Ticaret
+Erzurum,0.25,0.395,Ticaret & Turizm
+Düzce,0.22,0.348,Sanayi & Tarım
+Van,0.2,0.316,Turizm & Ticaret
+Ordu,0.2,0.316,Tarım & Ticaret
+Bilecik,0.2,0.316,Sanayi
+Sivas,0.2,0.316,Sanayi & Ticaret
+Çorum,0.2,0.316,Sanayi & Tarım
+Kütahya,0.2,0.316,Seramik & Sanayi
+Isparta,0.2,0.316,Gül & Turizm
+Elazığ,0.2,0.316,Yerel Ticaret
+Rize,0.18,0.284,Çay & Turizm
+Uşak,0.18,0.284,Tekstil & Deri
+Osmaniye,0.18,0.284,Sanayi & Tarım
+Mardin,0.15,0.237,Turizm & Ticaret
+Giresun,0.15,0.237,Tarım
+Kastamonu,0.15,0.237,Tarım & Ticaret
+Karabük,0.15,0.237,Çelik & Sanayi
+Tokat,0.15,0.237,Tarım & Ticaret
+Amasya,0.15,0.237,Yerel Perakende
+Karaman,0.15,0.237,Tarım & Sanayi
+Niğde,0.15,0.237,Tarım & Sanayi
+Burdur,0.15,0.237,Tarım
+Aksaray,0.15,0.237,Sanayi & Lojistik
+Kırıkkale,0.15,0.237,Savunma & Sanayi
+Adıyaman,0.15,0.237,Yerel Perakende
+Batman,0.15,0.237,Enerji & Ticaret
+Artvin,0.12,0.19,Yerel Perakende
+Bartın,0.12,0.19,Yerel Perakende
+Kırşehir,0.12,0.19,Tarım
+Erzincan,0.12,0.19,Yerel Perakende
+Ağrı,0.1,0.158,Yerel Perakende
+Kars,0.1,0.158,Hayvancılık & Turizm
+Sinop,0.1,0.158,Turizm & Balıkçılık
+Çankırı,0.1,0.158,Yerel Perakende
+Yozgat,0.1,0.158,Tarım
+Bitlis,0.1,0.158,Yerel Perakende
+Bingöl,0.1,0.158,Yerel Perakende
+Şırnak,0.08,0.126,Yerel Perakende
+Iğdır,0.08,0.126,Tarım
+Kilis,0.08,0.126,Sınır Ticareti
+Muş,0.08,0.126,Yerel Perakende
+Siirt,0.08,0.126,Yerel Perakende
+Gümüşhane,0.08,0.126,Yerel Perakende
+Ardahan,0.05,0.079,Hayvancılık
+Hakkari,0.05,0.079,Yerel Perakende
+Tunceli,0.05,0.079,Yerel Perakende
+Bayburt,0.05,0.079,Yerel Perakende
