@@ -36,6 +36,13 @@
   </script>
   <noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=3989226141296996&ev=PageView&noscript=1" /></noscript>
   <link rel="canonical" href="https://saturdayonline.co/" />
+
+  <!-- Ajan keşfi (RFC 8288 link relations — HTML karşılıkları) -->
+  <link rel="api-catalog" href="/.well-known/api-catalog" type="application/linkset+json" />
+  <link rel="service-desc" href="/.well-known/ai-catalog.json" type="application/json" title="Agentic Resource Discovery manifesti" />
+  <link rel="service-doc" href="/llms.txt" type="text/plain" title="Saturday Online ajans ve icerik ozeti" />
+  <link rel="describedby" href="/.well-known/agent-skills/index.json" type="application/json" title="Agent skills indeksi" />
+  <link rel="alternate" href="/index.md" type="text/markdown" title="Markdown surumu" />
   <link rel="alternate" hreflang="tr" href="https://saturdayonline.co/" />
   <link rel="alternate" hreflang="x-default" href="https://saturdayonline.co/" />
 
@@ -982,6 +989,7 @@
     @media(max-width:900px){ #hakkimizda{grid-template-columns:1fr;gap:3rem;} }
     @media(max-width:600px){ .nav-links{display:none;} .form-row{grid-template-columns:1fr;} .hero-stats{gap:2.5rem;} .svc-item{grid-template-columns:50px 1fr auto;gap:1rem;} }
   </style>
+  <script src="/webmcp.js" defer></script>
 </head>
 <body>
 

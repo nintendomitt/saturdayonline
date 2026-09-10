@@ -1,0 +1,89 @@
+{
+  "specVersion": "0.1",
+  "host": {
+    "name": "Saturday Online",
+    "domain": "saturdayonline.co",
+    "description": "İzmir merkezli, performans odaklı dijital pazarlama ajansı. Meta ve Google reklam yönetimi, sosyal medya yönetimi, içerik pazarlaması ve pazarlama otomasyonu hizmetleri sunar.",
+    "url": "https://saturdayonline.co",
+    "contact": "saturdayonlinesolutions@gmail.com",
+    "languages": ["tr"]
+  },
+  "entries": [
+    {
+      "id": "urn:air:saturdayonline.co:content:llms-txt",
+      "displayName": "Saturday Online — Ajans Özeti (llms.txt)",
+      "description": "Ajansın hizmetleri, hizmet verdiği sektörler, sık sorulan sorular ve öne çıkan blog içeriklerinin düz metin özeti. Bir ajanın siteyi tek istekte anlaması için tasarlanmıştır.",
+      "type": "text/plain",
+      "url": "https://saturdayonline.co/llms.txt",
+      "representativeQueries": [
+        "Saturday Online hangi hizmetleri sunuyor?",
+        "İzmir'de dijital pazarlama ajansı",
+        "Meta reklam yönetimi için minimum bütçe ne kadar?",
+        "Sosyal medya yönetimi neleri kapsar?"
+      ]
+    },
+    {
+      "id": "urn:air:saturdayonline.co:content:blog-index",
+      "displayName": "Blog İçerik Manifesti",
+      "description": "Yayınlanmış tüm blog yazılarının makine tarafından okunabilir listesi: slug, başlık, kategori, yayın tarihi, hedef anahtar kelime ve URL alanlarıyla.",
+      "type": "application/json",
+      "url": "https://saturdayonline.co/blog-index.json",
+      "representativeQueries": [
+        "Saturday Online blogunda hangi konular var?",
+        "dijital pazarlama rehberleri Türkçe",
+        "sosyal medya yönetimi fiyatları hakkında yazı",
+        "e-ticaret reklam ajansı seçimi rehberi"
+      ]
+    },
+    {
+      "id": "urn:air:saturdayonline.co:content:sitemap",
+      "displayName": "Site Haritası",
+      "description": "Sitedeki tüm sayfaların XML site haritası. Hizmet sayfaları, blog yazıları ve kurumsal sayfaları içerir.",
+      "type": "application/xml",
+      "url": "https://saturdayonline.co/sitemap.xml",
+      "representativeQueries": [
+        "Saturday Online sitesindeki tüm sayfalar",
+        "saturdayonline.co site haritası"
+      ]
+    },
+    {
+      "id": "urn:air:saturdayonline.co:tool:turkiye-reklam-haritasi",
+      "displayName": "Türkiye Dijital Reklam Harcaması Haritası 2024",
+      "description": "81 ili kapsayan interaktif choropleth harita. İllere göre dijital reklam harcaması dağılımını gösterir. Veri görselleştirme aracı.",
+      "type": "text/html",
+      "url": "https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html",
+      "representativeQueries": [
+        "Türkiye'de illere göre dijital reklam harcaması",
+        "hangi ilde en çok dijital reklam veriliyor",
+        "Türkiye dijital reklam pazarı büyüklüğü",
+        "il bazlı reklam harcaması haritası"
+      ]
+    },
+    {
+      "id": "urn:air:saturdayonline.co:service:randevu",
+      "displayName": "Ücretsiz Strateji Görüşmesi Randevusu",
+      "description": "30 dakikalık ücretsiz dijital pazarlama strateji görüşmesi için randevu alma sayfası. Calendly üzerinden müsait saatler görülüp rezervasyon yapılabilir.",
+      "type": "text/html",
+      "url": "https://saturdayonline.co/teklif.html",
+      "representativeQueries": [
+        "Saturday Online'dan nasıl teklif alırım?",
+        "dijital pazarlama danışmanlığı randevusu",
+        "ücretsiz strateji görüşmesi ayarla",
+        "İzmir dijital pazarlama ajansıyla görüşme"
+      ]
+    },
+    {
+      "id": "urn:air:saturdayonline.co:content:hizmetler",
+      "displayName": "Hizmet Sayfaları",
+      "description": "Meta reklam yönetimi, Google Ads yönetimi, sosyal medya yönetimi ve pazarlama otomasyonu hizmetlerinin detaylı açıklamaları, kapsam ve fiyatlandırma bilgileri.",
+      "type": "text/html",
+      "url": "https://saturdayonline.co/#hizmetler",
+      "representativeQueries": [
+        "Meta reklam yönetimi hizmeti detayları",
+        "Google Ads yönetimi ne kadar tutar",
+        "pazarlama otomasyonu hangi araçlarla yapılıyor",
+        "sosyal medya yönetimi paket içeriği"
+      ]
+    }
+  ]
+}

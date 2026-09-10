@@ -1,0 +1,55 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://saturdayonline.co/blog-index.json",
+      "service-doc": [
+        {
+          "href": "https://saturdayonline.co/llms.txt",
+          "type": "text/plain",
+          "title": "Saturday Online içerik ve hizmet özeti"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://saturdayonline.co/blog/",
+          "type": "text/html",
+          "title": "Blog listesi (insan okuyucu için)"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://saturdayonline.co/sitemap.xml",
+          "type": "application/xml",
+          "title": "Site haritası"
+        }
+      ]
+    },
+    {
+      "anchor": "https://saturdayonline.co/sitemap.xml",
+      "service-doc": [
+        {
+          "href": "https://www.sitemaps.org/protocol.html",
+          "type": "text/html",
+          "title": "Sitemap protokolü"
+        }
+      ]
+    },
+    {
+      "anchor": "https://saturdayonline.co/.well-known/ai-catalog.json",
+      "service-doc": [
+        {
+          "href": "https://agenticresourcediscovery.org/",
+          "type": "text/html",
+          "title": "Agentic Resource Discovery spesifikasyonu"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://saturdayonline.co/.well-known/agent-skills/index.json",
+          "type": "application/json",
+          "title": "Agent skills indeksi"
+        }
+      ]
+    }
+  ]
+}

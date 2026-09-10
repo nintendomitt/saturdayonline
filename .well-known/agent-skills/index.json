@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agentskills.io/schema/v0.2.0/index.json",
+  "version": "0.2.0",
+  "name": "Saturday Online Agent Skills",
+  "description": "İzmir merkezli dijital pazarlama ajansı Saturday Online'ın ajanlar için yayınladığı beceriler.",
+  "homepage": "https://saturdayonline.co",
+  "skills": [
+    {
+      "name": "saturday-online-teklif-al",
+      "type": "skill",
+      "description": "Saturday Online'dan dijital pazarlama hizmeti için ücretsiz strateji görüşmesi randevusu almak veya fiyat teklifi istemek. İzmir merkezli ajans; Meta reklamları, Google Ads, sosyal medya yönetimi ve pazarlama otomasyonu hizmetleri verir.",
+      "url": "https://saturdayonline.co/.well-known/agent-skills/teklif-al/SKILL.md",
+      "sha256": "719141e5a8ebe8b3808d1afc28fc3116d9a11381884612ddee48067ef6f04e75"
+    },
+    {
+      "name": "saturday-online-blog-ara",
+      "type": "skill",
+      "description": "Saturday Online blogundaki Türkçe dijital pazarlama rehberlerinde arama yapmak. Meta reklamları, Google Ads, sosyal medya yönetimi, SEO, e-ticaret ve sektörel pazarlama konularında 80'den fazla yazı içerir.",
+      "url": "https://saturdayonline.co/.well-known/agent-skills/blog-ara/SKILL.md",
+      "sha256": "dc115cf1c8a05c624fc43b0a9994ef913ac8416123f6f3302080cb6f973a2806"
+    }
+  ]
+}

@@ -1,4 +1,16 @@
+# Saturday Online — https://saturdayonline.co
+# İzmir merkezli dijital pazarlama ajansı
+
 User-agent: *
 Allow: /
+
+# Content Signals — https://contentsignals.org/
+# search:   arama motorları ve AI arama sonuçlarında gösterilebilir
+# ai-input: AI asistanları cevap üretirken kaynak olarak kullanabilir (RAG/grounding)
+# ai-train: içerik model eğitiminde KULLANILAMAZ
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+# Markdown surumleri: her HTML sayfasinin yaninda .md karsiligi vardir
+# Ornek: /blog/seo-nedir-...html  ->  /blog/seo-nedir-....md
 
 Sitemap: https://saturdayonline.co/sitemap.xml

@@ -10,6 +10,13 @@
   <meta name="description" content="Saturday Online blog: dijital pazarlama, sosyal medya yönetimi, SEO, yapay zeka araçları ve İzmir'den sektör rehberleri." />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://saturdayonline.co/blog/" />
+
+  <!-- Ajan keşfi (RFC 8288 link relations — HTML karşılıkları) -->
+  <link rel="api-catalog" href="/.well-known/api-catalog" type="application/linkset+json" />
+  <link rel="service-desc" href="/.well-known/ai-catalog.json" type="application/json" title="Agentic Resource Discovery manifesti" />
+  <link rel="service-doc" href="/llms.txt" type="text/plain" title="Saturday Online ajans ve icerik ozeti" />
+  <link rel="describedby" href="/.well-known/agent-skills/index.json" type="application/json" title="Agent skills indeksi" />
+  <link rel="alternate" href="/index.md" type="text/markdown" title="Markdown surumu" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -284,6 +291,7 @@
     .wa-btn:hover { transform: translateY(-3px); }
     .wa-btn svg { width: 22px; height: 22px; fill: white; }
   </style>
+  <script src="/webmcp.js" defer></script>
 </head>
 <body>
 
