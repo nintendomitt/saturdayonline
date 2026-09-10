@@ -36,7 +36,7 @@ beginning. Today, we are expanding Spotify to become a true daily wellness compa
 
 Kulağa sıradan bir "içerik genişletmesi" gibi gelebilir. Ama işin aslı çok daha stratejik: Spotify, kullanıcıların
 günde ortalama 30 dakika geçirdiği bir uygulamadan, sabah rutininden gece meditasyonuna kadar gün boyunca
-açık kalan bir *wellness ekosistemi*ne dönüşmek istiyor.
+açık kalan bir wellness ekosistemine dönüşmek istiyor.
 
 ## Spotify'da Hangi Peloton Dersleri Var?
 
@@ -92,7 +92,7 @@ Spotify Fitness'ın öne çıkan bir diğer özelliği de çoklu cihaz desteği.
 şöyle tarif ediliyor: Sabah TV'den video ders başlatın, öğle koşusunda telefonunuza geçin, akşam akıllı
 hoparlörden meditasyon seansı yapın — hiç uygulama değiştirmeden.
 
-Bu yaklaşım, fitness alışkanlığının *sürtünmesiz* hale gelmesini hedefliyor. Araştırmalar, egzersiz
+Bu yaklaşım, fitness alışkanlığının sürtünmesiz hale gelmesini hedefliyor. Araştırmalar, egzersiz
 bırakılmasının en büyük nedeninin motivasyon eksikliğinden çok **lojistik engeller** olduğunu
 gösteriyor. Ayrı bir fitness uygulaması açmak, farklı platformda hesap kurmak — bunların hepsi küçük ama
 etkili sürtünme noktaları. Spotify, müzik dinlemekten fitness yapmaya geçişi tek bir "sekme değiştirme" kadar
@@ -105,7 +105,7 @@ Hem Spotify hem Peloton için bu anlaşma kritik bir stratejik dönüşümü tem
 **Spotify cephesinde:** Platform, yıllardır "sadece müzik" etiketinden kurtulmaya çalışıyor. Podcast'lere
 yaptığı milyarlarca dolarlık yatırım, sesli kitaplar, video podcast'ler ve şimdi fitness — bunların hepsi aynı
 amaca hizmet ediyor: kullanıcının günde daha fazla dakikasını Spotify'da geçirmesini sağlamak. Zira dijital
-reklamcılıkta kural basit: *dikkat süresi = gelir.*
+reklamcılıkta kural basit: dikkat süresi = gelir.
 
 **Peloton cephesinde:** Şirket, 2021-2022'deki patlama döneminin ardından kullanıcı tabanını koruma
 mücadelesi veriyordu. Pahalı ekipman satışına olan bağımlılığını azaltmak için içerik aboneliğine odaklanma
@@ -168,7 +168,7 @@ YouTube Premium ve Peloton'un kendi uygulaması bu alanda güçlü oyuncular. Sp
 Tek fark: kullanıcı tabanının büyüklüğü. 675 milyon aktif kullanıcısıyla Spotify, rakiplerinin hiçbirinin
 erişemediği bir kitleye sahip. Apple Fitness+, Apple ekosistemiyle sınırlı. Nike Training Club'ın premium
 içerikleri giderek azalıyor. Peloton donanım odaklı bir kitle yakalıyor. Spotify ise müzik dinleyen
-*herkese* ulaşabiliyor.
+herkese ulaşabiliyor.
 
 ## Sonuç: Fitness ve Müzik Birleşiyor, Büyük Tablo Değişiyor
 

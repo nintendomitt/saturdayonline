@@ -8,6 +8,8 @@
 
 Türkiye'nin kayıtlı yatak kapasitesi büyürken doluluk oranları aynı hızda artmadı. Mayıs ayında yatakların %93,5'i faaliyete açıktı ama doluluk sadece %49,01 seviyesindeydi. Buna karşılık Temmuz'da oteller neredeyse tam dolulığa ulaştı — mevsimsellik son derece keskinleşti. Avrupalı tur operatörleri 2026 yaz programlarında Türkiye'ye geniş yer ayırdı; Antalya, Alanya, Side ve Belek en çok talep gören bölgeler arasında öne çıkıyor. Ancak artan maliyetler ve azalan kontenjanlar, tatilcileri daha hızlı karar almaya, bazen de son dakikaya bırakmaya itiyor.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Mayıs Doluluk
 %49,01
 Yatakların %93,5'i faaliyette

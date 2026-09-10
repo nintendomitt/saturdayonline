@@ -8,6 +8,8 @@
 
 Bu iki kalem sık karıştırılır ve karıştığında bütçe her zaman yetersiz kalır.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Pazarlama bütçesi (üst kalem)İçindekiler
 
 Medya harcamasıGoogle, Meta, TikTok'a doğrudan ödenen reklam parası

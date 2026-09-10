@@ -8,13 +8,15 @@ Bir giyim markası kurdunuz, ürünleriniz güzel, Instagram sayfanız düzenli 
 
 Influencer marketing, markaların belirli bir topluluğu etkileyen içerik üreticileriyle iş birliği yaparak **farkındalık, etkileşim ve satış** yaratmasıdır. Klasik reklamdan farkı güven aktarımıdır: insanlar markaların söylediklerine değil, takip ettikleri ve güvendikleri kişilerin tavsiyelerine inanır.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Türkiye'de [sosyal medya](/blog/sosyal-medya-danismanligi-ajans-mi-freelancer-mi.html) penetrasyonu ve içerik tüketimi hızla artarken, influencer marketing artık dijital pazarlamanın küçük bir alt kalemi olmaktan çıktı; özellikle moda ve giyim sektöründe **bağımsız bir bütçe başlığı** haline geldi. Bunun nedeni basit: giyim, görselliğin ve "üzerinde nasıl durur?" sorusunun satın alma kararını belirlediği bir kategori. Bir ürünün gerçek bir insanın üzerinde, gerçek bir kombinle görünmesi, stüdyo çekiminden çok daha ikna edici.
 
 ## KOL Nedir? Influencer'dan Farkı Ne?
 
 **KOL (Key Opinion Leader — Kanaat Önderi)**, bir alanda uzmanlığı ve otoritesiyle tanınan kişidir: bir moda editörü, bir stil danışmanı, bir tekstil mühendisi ya da sektörde yıllarını geçirmiş bir tasarımcı. KOL'un gücü takipçi sayısından değil, **uzmanlık temelli güvenden** gelir.
 
-Her KOL bir influencer olabilir ama her influencer bir KOL değildir. Influencer'ın etkisi sosyal medya kitlesine dayanır; KOL'un etkisi ise mesleki itibarına. Pratikte fark şöyle işler: Bir micro influencer elbisenizi kombinleyip "bayıldım" dediğinde satış gelir; bir moda KOL'u kumaş kalitenizi ve kalıbınızı övdüğünde ise *marka itibarı* inşa olur. Olgun bir strateji ikisini birlikte kullanır.
+Her KOL bir influencer olabilir ama her influencer bir KOL değildir. Influencer'ın etkisi sosyal medya kitlesine dayanır; KOL'un etkisi ise mesleki itibarına. Pratikte fark şöyle işler: Bir micro influencer elbisenizi kombinleyip "bayıldım" dediğinde satış gelir; bir moda KOL'u kumaş kalitenizi ve kalıbınızı övdüğünde ise marka itibarı inşa olur. Olgun bir strateji ikisini birlikte kullanır.
 
 ## Influencer Katmanları: Nano'dan Mega'ya
 

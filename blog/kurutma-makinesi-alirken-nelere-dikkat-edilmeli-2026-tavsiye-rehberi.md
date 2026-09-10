@@ -8,6 +8,8 @@ En iyi kurutma makinesi, en pahalı olan değil, hanenizin ihtiyacına en uygun 
 
 Kurutma makinesi pazarı son birkaç yılda hızla büyüdü ve teknoloji çeşitliliği arttı. Kondenserli, ısı pompalı, hibrit modeller, farklı kapasiteler, A'dan G'ye enerji sınıfları — seçenek bolluğu, doğru karar vermeyi zorlaştırıyor. Bu rehberde satın almadan önce bakmanız gereken beş temel kriteri ve sık yapılan hataları netleştiriyoruz.
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 ## 1. Kapasite: Hanenizin Büyüklüğüne Göre Seçin
 
 Kurutma kapasitesi kilogram cinsinden ifade edilir ve genellikle 6 kg ile 9 kg arasında değişir. Kapasite seçimini hane büyüklüğünüze göre yapmak, hem enerji verimliliği hem de pratiklik açısından en kritik adımdır.

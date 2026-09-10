@@ -8,6 +8,8 @@
 
 Rakamlar tek bir yöne işaret ediyor. Pazarlamacıların yaklaşık yarısı kısa videoyu **en yüksek yatırım getirisi sağlayan içerik formatı** olarak tanımlıyor. İnternet kullanan yetişkinlerin büyük çoğunluğu her hafta kısa video izliyor. Instagram tarafında Reels, karusel ve tekli görsel gönderilerin iki katından fazla erişim oranına ulaşıyor.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Türkiye özelinde tablo daha da net: dijital reklam pastasının en hızlı büyüyen dilimi video reklamlar ve dikey format (9:16) artık varsayılan çekim biçimi. Yatay video hala var, ama ikincil.
 
 Reels erişim oranı
@@ -40,7 +42,7 @@ Pratik yaklaşım: **Bir kez çekin, üç kez kurgulayın.** Aynı çekimden Tik
 
 ## İlk 3 Saniye: Videonun Kaderini Belirleyen An
 
-Kısa video algoritmaları tek bir soruyu sorar: *insanlar bu videoyu izlemeye devam ediyor mu?* Bu yüzden en kritik ölçü izlenme sayısı değil, **tutundurma oranıdır** (retention). İlk 3 saniyede izleyiciyi kaybederseniz, videonun geri kalanı ne kadar iyi olursa olsun algoritma onu dağıtmaz.
+Kısa video algoritmaları tek bir soruyu sorar: insanlar bu videoyu izlemeye devam ediyor mu? Bu yüzden en kritik ölçü izlenme sayısı değil, **tutundurma oranıdır** (retention). İlk 3 saniyede izleyiciyi kaybederseniz, videonun geri kalanı ne kadar iyi olursa olsun algoritma onu dağıtmaz.
 
 ### İşe yarayan açılış kalıpları
 

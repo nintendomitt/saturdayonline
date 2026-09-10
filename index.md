@@ -106,6 +106,7 @@ Pazar AnaliziYol HaritasıKPI Belirleme
 02
 
 Meta Reklam Yönetimi
+[İzmir hizmetlerimiz →](/izmir-dijital-pazarlama-ajansi/)
 [Meta Reklam Yönetimi detayları →](/meta-reklam-yonetimi/)
 Facebook ve Instagram reklamlarını dönüşüm odaklı yönetiyoruz. Hedef kitleye tam isabet eden kreatif ve copy kombinasyonlarıyla reklam bütçenizden maksimum verim alıyoruz.
 

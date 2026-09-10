@@ -8,6 +8,8 @@
 
 Eğitim sektöründe pazarlama planı, akademik takvime bağlı olarak dalgalanır. Milli Eğitim Bakanlığı'nın açıkladığı takvime göre öğretmenlerin mesleki çalışmaları 1 Eylül'de başladı, okul öncesi ve ilkokul birinci sınıf uyum eğitimleri 7-11 Eylül arasında yapılıyor ve dersler 14 Eylül'de başlıyor. Birinci dönem 22 Ocak 2027'de sona erecek.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Bu takvim, kampanya dönemini üçe böler:
 
 DönemVeli davranışıDoğru mesaj
@@ -36,39 +38,27 @@ Aynı reklam setinde bu üç grubu birleştirmek, mesajı hiçbirine ulaşmayaca
 Aşağıdaki fikirler indirim odaklı olmayan, kayıt niyetini gerçekten artıran kurgular. Sadece fiyat kırmak, kısa vadede kayıt getirse de marka algısını uzun vadede aşağı çeker.
 
 1
-
-#### Ücretsiz seviye tespiti
-
+Ücretsiz seviye tespiti
 Kısa bir deneme sınavı veya seviye görüşmesi. Hem kayıt öncesi temas kurar hem satış konuşmasını verilere dayandırır.
 
 2
-
-#### Tanıtım dersi
-
+Tanıtım dersi
 Bir ders ücretsiz. Eğitim satın alma kararında en büyük engel olan belirsizliği doğrudan kaldırır.
 
 3
-
-#### Kardeş ve arkadaş avantajı
-
+Kardeş ve arkadaş avantajı
 İndirimden çok tavsiye mekanizması olarak çalışır. Mevcut veliyi satış kanalına dönüştürür.
 
 4
-
-#### Erken kayıt kontenjanı
-
+Erken kayıt kontenjanı
 Fiyat kırmadan aciliyet yaratır. Kontenjan gerçek olmalı, aksi halde güven kaybı yaratır.
 
 5
-
-#### Veli bilgilendirme semineri
-
+Veli bilgilendirme semineri
 Sınav sistemi, ders çalışma düzeni veya ekran süresi üzerine ücretsiz oturum. Yüksek nitelikli iletişim listesi toplar.
 
 6
-
-#### Başarı hikâyesi serisi
-
+Başarı hikâyesi serisi
 Geçen yılın öğrencileriyle kısa video. Eğitimde en güçlü sosyal kanıt budur.
 
 ## Kanal Kanal Uygulama

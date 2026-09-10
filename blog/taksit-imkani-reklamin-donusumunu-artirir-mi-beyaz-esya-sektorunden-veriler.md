@@ -8,6 +8,8 @@ Beyaz eşya, taksitin en belirleyici olduğu kategorilerden biri: sepet tutarı 
 
 Yüksek tutarlı bir üründe alıcının zihnindeki asıl engel fiyat değil, **tek seferde çıkacak nakit**tir. Taksit bu engeli iki şekilde kaldırır:
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 - Referans noktasını değiştirir. "24.000 TL" yerine "12 x 2.000 TL" gördüğünde alıcı, karşılaştırmayı aylık bütçesiyle yapar. Aynı ürün, aynı fiyat — farklı algı.
 
 - Kararı bugüne çeker. "Para biriktirince alırım" ertelemesini ortadan kaldırır. Beyaz eşyada erteleme çoğu zaman rakibe kayıp anlamına gelir, çünkü ihtiyaç ortadan kalkmaz.

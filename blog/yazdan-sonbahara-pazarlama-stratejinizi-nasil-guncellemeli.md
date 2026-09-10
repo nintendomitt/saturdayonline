@@ -8,6 +8,8 @@ Ağustosun son haftası, Türkiye'de tüketici davranışının yılda iki kez k
 
 Sezon geçişini "hava soğuyor" diye özetlemek en yaygın hata. Asıl değişen hava değil, **zihinsel mod**. Yaz aylarında tüketici erteleme modundadır: "tatilden sonra bakarım", "Eylül'de konuşuruz". Eylül geldiğinde bu ertelenmiş kararların tamamı aynı anda masaya döner.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Pratikte üç şey değişiyor:
 
 - Dikkat süresi geri geliyor. Temmuz–Ağustos'ta düşen açılma ve tıklanma oranları Eylül'ün ilk haftasında toparlanır.

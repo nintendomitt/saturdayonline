@@ -8,6 +8,8 @@ Trafik almak pahalıdır; o trafiği satışa çevirmek ise büyük ölçüde be
 
 Basit bir matematik: ayda 5.000 ziyaretçi alan ve %1 dönüşen bir site 50 satış yapar. Dönüşüm oranını %2'ye çıkarmak, satışı ikiye katlar — **tek kuruş ek reklam harcamadan**. Aynı sonucu trafikle elde etmek için 10.000 ziyaretçiye, yani iki katı bütçeye ihtiyacınız olurdu.
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 SenaryoZiyaretçiDönüşümSatışEk maliyet
 
 Mevcut durum5.000%1,050—
@@ -30,7 +32,7 @@ Optimizasyona başlamadan önce ziyaretçinin izlediği yolu adım adım yazın 
 
 - Ödeme adımı → Sipariş tamamlama
 
-Hizmet işletmelerinde huni daha kısadır: *Sayfa ziyareti → Form/telefon tıklaması → Form gönderimi → Randevu*.
+Hizmet işletmelerinde huni daha kısadır: Sayfa ziyareti → Form/telefon tıklaması → Form gönderimi → Randevu.
 
 Her adımdaki kayıp oranını hesapladığınızda genellikle tek bir adım diğerlerinden belirgin biçimde kötü çıkar. **Önce orayı düzeltin.** En büyük sızıntıyı bırakıp ana sayfa başlığıyla uğraşmak, CRO'da yapılan en yaygın hatadır.
 

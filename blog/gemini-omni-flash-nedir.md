@@ -11,7 +11,7 @@ Google I/O 2026
 **Gemini Omni Flash**. Sundar Pichai'nin "herhangi bir girdiden her şeyi yaratabilir" diye tanımladığı bu model,
 yapay zeka destekli içerik üretiminde tamamen yeni bir dönemin kapısını araladı.
 
-Sıradan bir model güncellemesi değil bu. Gemini Omni; metin, ses, görsel ve videoyu *aynı anda* anlayan,
+Sıradan bir model güncellemesi değil bu. Gemini Omni; metin, ses, görsel ve videoyu aynı anda anlayan,
 bunları birbirleriyle ilişkilendiren ve kısa sürede etkileyici video kliplere dönüştüren ilk Google modelidir.
 Dijital pazarlamacılar, içerik üreticileri ve [sosyal medya](/blog/sosyal-medya-danismanligi-ajans-mi-freelancer-mi.html) yöneticileri için bunun ne anlama geldiğini bu yazıda
 adım adım inceliyoruz.
@@ -166,7 +166,7 @@ söylemek yerine göstermek mümkün. Birkaç dakikada konsept video hazırlayı
 komutlarıyla otomatik üretilebilir. Karmaşık konular (sigorta, finans, teknoloji) görselleştirilebilir.
 
 **📊 Önemli rakam:** Wistia'nın 2025 raporuna göre, markalar video içerik üretimine ayırdıkları
-zamanın %60'ından fazlasını *düzenleme* aşamasında harcıyor. Gemini Omni'nin konuşmayla düzenleme
+zamanın %60'ından fazlasını düzenleme aşamasında harcıyor. Gemini Omni'nin konuşmayla düzenleme
 özelliği bu oranı dramatik biçimde düşürebilir.
 
 ## Türk Kullanıcılar İçin Pratik Başlangıç Rehberi

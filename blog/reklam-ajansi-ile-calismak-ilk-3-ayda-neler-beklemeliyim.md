@@ -10,6 +10,8 @@ Sözleşme imzalandı, ilk fatura kesildi ve şimdi sessiz bir bekleme dönemi b
 
 "Bir ayda sonuç alamaz mıyım?" sorusunun cevabı reklam platformlarının çalışma biçiminde gizli. Hem Meta hem Google, yeni açılan her kampanyayı bir **öğrenme aşamasına** alır. Bu aşamada algoritma, kimin dönüşüm yaptığını anlamak için bütçenin bir kısmını test amaçlı harcar. Meta tarafında bir reklam setinin öğrenme aşamasından çıkması için 7 gün içinde yaklaşık 50 optimizasyon olayı gerekir; Google'ın akıllı teklif stratejileri de benzer şekilde yaklaşık 50 dönüşüm ya da üç dönüşüm döngüsü kadar veriye ihtiyaç duyar.
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 Bu eşik reklam seti seviyesinde hesaplanır. Yani beş farklı reklam setiniz varsa, teorik olarak 250 dönüşüme ihtiyacınız olur. Üstelik bütçede yüzde 20'yi aşan değişiklikler, hedefleme veya teklif stratejisi değişiklikleri öğrenme aşamasını sıfırlar. Ajansınız ilk haftalarda "neden hiçbir şeye dokunmuyoruz" diyorsa, sebebi budur — ve bu doğru bir yaklaşımdır.
 
 Öğrenme eşiği

@@ -8,6 +8,8 @@
 
 Türkiye'de kampanya sezonu artık tek güne sığmıyor. Kasım ayının tamamı, pazaryerleri ve büyük markaların dalga dalga indirim yayınladığı bir döneme dönüştü. Planınızı bu tarihlere göre kurgulayın:
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 TarihDönemNe yapılmalı
 
 Ekim ortasıSezon ısınmasıYeniden pazarlama listelerini büyütme, e-posta listesi toplama
@@ -24,28 +26,22 @@ Ekim ortasıSezon ısınmasıYeniden pazarlama listelerini büyütme, e-posta li
 
 Eylülün ikinci haftasındasınız. Black Friday'e yaklaşık on bir hafta var. Bu süreyi şu şekilde bölün:
 
-#### Hafta 1-2 (Eylül): Teknik temizlik
-
+Hafta 1-2 (Eylül): Teknik temizlik
 Site hızı ölçümü, mobil ödeme akışı testi, kırık ürün sayfası taraması, arama fonksiyonu kontrolü. Sezonda trafik üç katına çıktığında altyapı sorunları büyüyerek geri döner.
 
-#### Hafta 3-4 (Eylül sonu): Veri ve takip
-
+Hafta 3-4 (Eylül sonu): Veri ve takip
 Piksel ve dönüşüm etiketleri doğrulanır, ürün kataloğu güncellenir, e-posta ve SMS izinli listeleri temizlenir. Yanlış ölçümle girilen bir sezonun bütçesi kör harcanır.
 
-#### Hafta 5-6 (Ekim başı): Kitle büyütme
-
+Hafta 5-6 (Ekim başı): Kitle büyütme
 Düşük maliyetli trafik ve etkileşim kampanyalarıyla yeniden pazarlama havuzları doldurulur. Kasımda pahalı olan şey erişim değil, o erişimi sıfırdan kurmaktır.
 
-#### Hafta 7-8 (Ekim ortası): Kreatif üretim
-
+Hafta 7-8 (Ekim ortası): Kreatif üretim
 Kampanya görselleri, video reklamlar, açılış sayfaları ve e-posta şablonları hazırlanır. Kasımda üretim yapmak, kasımda yayın yapmaya vakit bırakmaz.
 
-#### Hafta 9-10 (Ekim sonu): Test
-
+Hafta 9-10 (Ekim sonu): Test
 Reklam varyantları küçük bütçeyle denenir, en iyi başlık ve görsel belirlenir. Sezonda test edilmemiş kreatifle yüksek bütçe açmak en pahalı kumardır.
 
-#### Hafta 11 (Kasım başı): Yayın
-
+Hafta 11 (Kasım başı): Yayın
 Erken kampanya açılır, bütçe kademeli artırılır, stok ve kargo kapasitesi günlük izlenir.
 
 ## Bütçeyi Nasıl Bölmeli

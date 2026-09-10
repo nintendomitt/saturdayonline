@@ -4,6 +4,8 @@
 
 İzmir'de turizm sezonu Nisan'da başlayıp Ekim'de biter — ama rezervasyonların büyük kısmı bu pencerenin çok öncesinde alınır. Bir otelin, pansiyonun ya da tur işletmesinin dijitalde ne zaman görünür olduğu, sezonu dolu mu yoksa yarım mı geçireceğini belirler. Bu rehberde İzmir'e özgü turizm dinamiklerine göre kanal kanal ne yapmanız gerektiğini anlattık.
 
+**İzmir'de misiniz?** Saturday Online İzmir merkezli bir dijital pazarlama ajansı. Karşıyaka'dan Çeşme'ye tüm ilçelere hizmet veriyoruz — [İzmir hizmetlerimize buradan bakabilirsiniz](/izmir-dijital-pazarlama-ajansi/).
+
 ## İzmir Turizmi Neden Farklı Oynanır?
 
 Antalya veya Bodrum tek tip bir tatilciye hitap eder: deniz, kum, otel. İzmir öyle değil. Alaçatı'ya rüzgâr sörfü için gelen ile Efes'e tarih için gelen, Şirince'ye bağ bozumu için gelen ile Çeşme'ye gece hayatı için gelen aynı kişi değil. Aynı reklamı hepsine göstermek, bütçenizin çoğunu yanlış kişiye harcamak demek.
@@ -14,20 +16,16 @@ Antalya veya Bodrum tek tip bir tatilciye hitap eder: deniz, kum, otel. İzmir �
 
 ## Sezon Takvimi: Ne Zaman Ne Yapmalısınız?
 
-#### Ocak–Şubat — Altyapı ve İçerik
-
+Ocak–Şubat — Altyapı ve İçerik
 Google İşletme Profili'nizi güncelleyin, geçen sezonun fotoğraflarını yükleyin, oda/tur açıklamalarını yeniden yazın. Web sitenizin mobil hızını ölçün. Bu dönemde reklam harcamak yerine bulunabilirlik altyapısını kurun.
 
-#### Mart–Nisan — Erken Rezervasyon
-
+Mart–Nisan — Erken Rezervasyon
 Erken rezervasyon indirimini duyurun. Google Ads'te "İzmir tatil", "Çeşme otel", "Alaçatı konaklama" gibi planlama amaçlı aramalara girin. E-posta listenize geçen yılın misafirlerine özel teklif gönderin — en ucuz rezervasyon, geri dönen misafirden gelir.
 
-#### Mayıs–Ağustos — Yoğun Sezon
-
+Mayıs–Ağustos — Yoğun Sezon
 Son dakika aramalarına odaklanın. Mobil arama payı bu dönemde tavan yapar. Instagram'da günlük hikâye akışını sürdürün: hava, deniz, kahvaltı, manzara. Misafir yorumlarını aktif toplayın — sezon içinde biriken yorumlar gelecek sezonun rezervasyonunu getirir.
 
-#### Eylül–Kasım — Sezon Dışı Fırsat
-
+Eylül–Kasım — Sezon Dışı Fırsat
 İzmir'in en hafife alınan dönemi. Bağ bozumu, yürüyüş, gastronomi ve termal turizm bu aylarda talep görüyor. Yazın kalabalığından kaçan bir kitle var ve rekabet düşük olduğu için reklam maliyeti de düşük. Sezonu Eylül'de kapatmayın.
 
 ## 1. Google İşletme Profili: En Çok İhmal Edilen Kanal

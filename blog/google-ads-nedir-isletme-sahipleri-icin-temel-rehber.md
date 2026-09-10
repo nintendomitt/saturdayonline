@@ -10,6 +10,8 @@
 
 Google Ads, işletmelerin Google Arama, YouTube, Gmail ve milyonlarca web sitesinden oluşan Google Görüntülü Reklam Ağı'nda ücretli reklam yayınlamasını sağlayan platformdur. Kullanıcı Google'da bir şey aradığında (örneğin "İzmir'de mobilya mağazası"), arama sonuçlarının en üstünde veya altında görünen reklamlar Google Ads aracılığıyla yayınlanır.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Platformun temel mantığı **tıklama başına ödeme (PPC — pay-per-click)** modelidir: reklamınız gösterildiğinde ödeme yapmazsınız, yalnızca biri reklamınıza tıkladığında ücretlendirilirsiniz. Bu da bütçenizin doğrudan ilgi gösteren kullanıcılara harcanmasını sağlar.
 
 📊 **Bilgi:** Google Ads açık artırma sistemiyle çalışır ancak en yüksek teklifi veren otomatik olarak kazanmaz. Google, teklif miktarını reklamın "Kalite Puanı" (anahtar kelime uyumu, açılış sayfası kalitesi, beklenen tıklama oranı) ile birleştirerek sıralama yapar — bu yüzden düşük bütçeyle de iyi kurgulanmış bir kampanya, yüksek bütçeli ama özensiz bir kampanyanın önüne geçebilir.
@@ -36,39 +38,27 @@ Google Ads'e bağladığınız dönüşüm takip kodu, tıklamanın satışa, fo
 Google Ads tek bir format değil; farklı hedefler için farklı kampanya türleri sunar:
 
 🔍
-
-#### Arama (Search)
-
+Arama (Search)
 Kullanıcı arama yaptığında metin tabanlı reklamınızın sonuçların üstünde çıkması. Satın alma niyeti en yüksek format.
 
 🖼️
-
-#### Görüntülü (Display)
-
+Görüntülü (Display)
 Milyonlarca web sitesinde görsel banner reklamlarla marka bilinirliği ve yeniden hedefleme.
 
 📺
-
-#### Video (YouTube)
-
+Video (YouTube)
 YouTube'da video reklam yayınlayarak geniş kitleye görsel ve işitsel içerikle ulaşma.
 
 🛍️
-
-#### Alışveriş (Shopping)
-
+Alışveriş (Shopping)
 Ürün fotoğrafı, fiyat ve mağaza bilgisiyle doğrudan arama sonuçlarında ürün kartı gösterme. E-ticaret için idealdir.
 
 📱
-
-#### Uygulama (App)
-
+Uygulama (App)
 Mobil uygulama indirmelerini artırmak için Google'ın tüm ağlarında otomatik optimize edilen reklamlar.
 
 ⚡
-
-#### Performance Max
-
+Performance Max
 Tüm Google ağlarında (Arama, Display, YouTube, Gmail, Maps) tek kampanyayla otomatik optimizasyon.
 
 ## Google Ads Küçük İşletmeler İçin Neden Uygun?

@@ -17,6 +17,8 @@ Her hafta yeni bir yapay zeka aracı piyasaya çıkıyor ve hangisinin gerçekte
 
 OpenAI'ın sohbet botu, ücretsiz planıyla metin yazımı, beyin fırtınası, e-posta taslağı ve temel araştırma için hâlâ en yaygın kullanılan araç. Ücretsiz planda GPT'nin daha hafif bir sürümüne erişirsiniz; günlük kullanım limiti vardır ama çoğu küçük işletme ihtiyacı için yeterlidir.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 ### Google Gemini Google Ekosistemi
 
 Gmail, Google Docs ve Google Drive ile doğrudan entegre çalışması, Gemini'yi özellikle Google Workspace kullanan işletmeler için pratik kılıyor. Ücretsiz planı metin üretimi, özetleme ve temel araştırma için güçlü; Gemini Omni Flash gibi [multimodal özellikler](/blog/gemini-omni-flash-nedir.html) ücretli katmanlarda devreye giriyor.

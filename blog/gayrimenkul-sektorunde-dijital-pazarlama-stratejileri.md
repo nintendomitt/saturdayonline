@@ -8,6 +8,8 @@ Bir alıcı ya da kiracı artık ilk adımı emlak ofisinin kapısından değil,
 
 Gayrimenkul, karar süreci uzun ve yüksek bedelli bir satın alma kategorisi. Bir alıcı ortalama haftalarca, hatta aylarca araştırma yapıyor; bu süreçte birden fazla ilan sitesi, [sosyal medya](/blog/sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin.html) hesabı ve emlak ofisi web sitesiyle karşılaşıyor. Bu da tek bir kanala değil, alıcının araştırma yolculuğunun her aşamasında görünür olan çok kanallı bir stratejiye ihtiyaç doğuruyor.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Ayrıca gayrimenkulde "ürün" görsel olarak satılıyor. Fotoğraf kalitesi, video ve sanal tur, bir ilanın tıklanıp tıklanmayacağını; hatta yerinde görme randevusuna dönüşüp dönüşmeyeceğini doğrudan belirliyor. Zayıf görsellerle hazırlanmış bir ilan, doğru fiyatlanmış olsa bile rakip ilanların gerisinde kalıyor.
 
 Araştırma Süresi

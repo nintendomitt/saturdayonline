@@ -12,6 +12,8 @@ Bu rehberde Meta reklam yönetiminin temel taşlarını, 2026 Türkiye bütçe v
 
 Meta reklam sistemi, Ads Manager üzerinden yönetilen bir açık artırma modeline dayanır. Her reklam gösterimi için Meta, reklamverenler arasında gerçek zamanlı bir ihale gerçekleştirir. Kazanan; en yüksek teklifi veren değil, en yüksek "toplam değeri" sunan reklamdır — bu değer teklif miktarı, tahmini eylem oranı ve reklam kalitesinin birleşiminden oluşur.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Bu yapı şunu söyler: iyi bir reklam, düşük bütçeyle bile kötü bir reklamı geride bırakabilir. Dolayısıyla bütçeyi artırmadan önce reklam kalitesini artırmak her zaman daha mantıklı bir başlangıç noktasıdır.
 
 ## Türkiye'de Meta Reklam Maliyetleri (2026)

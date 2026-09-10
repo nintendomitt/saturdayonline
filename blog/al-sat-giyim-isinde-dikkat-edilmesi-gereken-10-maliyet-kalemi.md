@@ -8,6 +8,8 @@ Giyim al-sat işine "ürünü ucuza al, pahalıya sat" mantığıyla giren birç
 
 Giyim al-satında en yaygın hata, sadece "alış fiyatı" ile "satış fiyatı" arasındaki farka bakmak. Oysa bir ürünün cebinize giren gerçek kârı; platform komisyonu, kargo, iade, stopaj, hizmet bedeli ve stokta bekleme maliyeti gibi kalemler düşüldükten sonra ortaya çıkıyor. Özellikle giyim ve ayakkabı kategorisi, diğer kategorilere kıyasla daha yüksek iade oranıyla çalıştığı için bu kalemlerin etkisi katlanarak büyüyor.
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 Giyim Komisyon Oranı
 %8,5–12,5
 Pazaryerlerinde KDV dahil ortalama

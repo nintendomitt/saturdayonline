@@ -13,6 +13,8 @@ Hesabınız kapatıldıktan sonra ne kadar hızlı hareket ederseniz şansınız
 
 Meta, 2024 sonundan itibaren yapay zeka destekli içerik denetim sistemlerini yükseltti. Bu sistemler yanlış pozitif (false positive) oranı yüksek çalışabiliyor; yani gerçekten ihlal olmaksızın da hesaplar kapanabiliyor. En sık karşılaşılan kapatma gerekçeleri şunlar:
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 🚫
 **Nefret söylemi veya taciz**
 Eski bir paylaşım, yorum ya da mesaj yeniden değerlendirilerek ihlal sayılabilir.
@@ -80,7 +82,7 @@ Meta Verified aboneliği, insan destekçiye doğrudan erişim sağlar. Bot yanı
 
 ### 🔐 İki Faktörlü Doğrulama
 
-2FA, hesabı *kurtarmaz* ama kapatılmadan önce kurulmuşsa hesabın "güvenli" olarak işaretlenmesini sağlar. Ayrıca itiraz sürecinde kimlik doğrulama adımını geçmenize yardımcı olur. Kurtarma sonrası mutlaka aktif edin.
+2FA, hesabı kurtarmaz ama kapatılmadan önce kurulmuşsa hesabın "güvenli" olarak işaretlenmesini sağlar. Ayrıca itiraz sürecinde kimlik doğrulama adımını geçmenize yardımcı olur. Kurtarma sonrası mutlaka aktif edin.
 
 Orta Başarı
 
@@ -123,7 +125,7 @@ Kurtarma sonrası koruma
 ✓ Süregelen destek
 
 **⚠️ Dikkat**
-Hesabınız *zaten kapatıldıktan* sonra Meta Verified almak için giriş yapamayabilirsiniz. Bu nedenle Verified almak, kapanmayı önleyici bir adım olarak değerlendirilmelidir. Kapatılma sonrasında farklı bir cihaz veya tarayıcıdan deneyebilirsiniz; bazı durumlarda kısmi erişim kalabiliyor.
+Hesabınız zaten kapatıldıktan sonra Meta Verified almak için giriş yapamayabilirsiniz. Bu nedenle Verified almak, kapanmayı önleyici bir adım olarak değerlendirilmelidir. Kapatılma sonrasında farklı bir cihaz veya tarayıcıdan deneyebilirsiniz; bazı durumlarda kısmi erişim kalabiliyor.
 
 ## İki Faktörlü Doğrulama (2FA) ve Hesap Güvenliği
 

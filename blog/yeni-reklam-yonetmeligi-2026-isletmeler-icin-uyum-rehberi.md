@@ -10,6 +10,8 @@
 
 Yaygın bir yanılgı var: "Bu kurallar büyük markalar ve ünlü influencer'lar için." Değil. Yönetmelik, ticari reklam yapan **her satıcı ve sağlayıcıyı** kapsıyor. Instagram'da ürün tanıtan bir butik, sitesinde "yaz indirimi" duyuran bir e-ticaret firması, "çevre dostu" ibaresi kullanan bir kozmetik markası, müşteri yorumu yayınlayan bir hizmet sağlayıcı — hepsi kapsam içinde.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Daha da önemlisi: Reklam Kurulu incelemelerinde sorumluluk **müteselsil** işliyor. Yani bir ihlalde reklam veren marka, [reklam ajansı](/blog/izmirde-reklam-ajansi-nasil-secilir-2026-rehberi.html) ve içeriği paylaşan [sosyal medya](/blog/sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin.html) etkileyicisi ayrı ayrı sorumlu tutulabiliyor. "Ajansımız yaptı" ya da "influencer öyle paylaşmış" savunması markayı otomatik olarak korumuyor.
 
 6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında Reklam Kurulu'nun elindeki yaptırımlar; reklamın **durdurulması**, **aynı yöntemle düzeltilmesi**, **idari para cezası** ve gerektiğinde **üç aya kadar tedbiren durdurma**. Ceza tutarları her yıl yeniden değerleme oranıyla güncelleniyor ve mecraya göre (internet, yerel TV, ulusal TV) ciddi biçimde farklılaşıyor. Güncel tutarlar için Ticaret Bakanlığı'nın yayımladığı listeye bakmak gerekir — ama küçük bir işletme için bile tek bir ihlalin bedeli, o kampanyanın toplam bütçesini rahatlıkla aşabilir.

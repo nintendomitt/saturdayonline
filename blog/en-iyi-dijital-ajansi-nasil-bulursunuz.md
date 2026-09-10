@@ -10,6 +10,8 @@
 
 Büyük bütçeli bir kurumsal marka için "en iyi" ajans, yerel bir kafe için doğru seçenek olmayabilir. Ajans arama sürecine başlamadan önce şu soruları kendinize sorun:
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 - Birincil hedefiniz ne? (Marka bilinirliği / satış artırma / yeni müşteri kazanımı)
 
 - Hangi platformlarda var olmak istiyorsunuz?
@@ -38,28 +40,22 @@ Bir ajansın "en iyi" olup olmadığını değerlendirmeden önce, hangi kategor
 
 ## Adım Adım Değerlendirme Süreci
 
-- #### Kısa liste oluşturun (3–5 ajans)
-
+- Kısa liste oluşturun (3–5 ajans)
 Google araması, LinkedIn, çevrenizden referanslar ve sektör dizinleri iyi başlangıç noktaları. 10+ ajansı aynı anda değerlendirmeye çalışmak kafa karıştırır — 3–5 ile başlayın.
 
-- #### Web sitesi ve portföyü inceleyin
-
+- Web sitesi ve portföyü inceleyin
 Ajansın kendi dijital varlığı nasıl? Kötü tasarlanmış bir web sitesi veya güncellenmemiş sosyal medya hesapları, ne yaptıklarına inanmadıklarını gösterir. Portföyde benzer sektörden çalışmalar var mı?
 
-- #### Referans ve müşteri yorumlarını araştırın
-
+- Referans ve müşteri yorumlarını araştırın
 Google My Business yorumları, LinkedIn önerileri, Clutch gibi ajans değerlendirme platformları. Sadece yıldız sayısına değil, yorum içeriklerine bakın — özellikle iletişim ve raporlama hakkındaki yorumlar.
 
-- #### Keşif görüşmesi yapın
-
+- Keşif görüşmesi yapın
 İyi ajanslar ücretsiz keşif görüşmesi sunar. Bu görüşmede ajansın sizi ne kadar dinlediğine, hangi soruları sorduğuna ve önceden hazırlanıp hazırlanmadığına bakın. "Her şeyi yaparız" diyen ajanslar yerine "şu alanlarda uzmanız" diyenleri tercih edin.
 
-- #### Teklifi detaylı inceleyin
-
+- Teklifi detaylı inceleyin
 Fiyat değil, kapsam önemli. "20 gönderi" içinde ne var? Kim yapıyor? Revizyon hakkı nedir? Sözleşme süresi ne kadar? Tüm bu detaylar yazılı olmalı.
 
-- #### Küçük bir pilot proje önerin
-
+- Küçük bir pilot proje önerin
 1 aylık deneme ile başlamayı önerin. Değer veren ajans bunu kabul eder. Bu sayede gerçek iş kalitesini, iletişim hızını ve sözünü tutup tutmadığını görmüş olursunuz.
 
 ## Ajans Ücretlendirme Modelleri: Hangisini Seçmelisiniz?

@@ -8,6 +8,8 @@
 
 Çoğu işletme hesabının net bir görevi yok. Bazen satış, bazen bilinirlik, bazen müşteri hizmeti, bazen de sadece "olması gerektiği için" var. Bu belirsizlik doğrudan içeriğe yansıyor ve takipçi ne beklemesi gerektiğini bilemiyor.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Hesabınıza tek bir görev verin: ya satış getirecek, ya güven inşa edecek, ya da talep toplayacak. Üçünü aynı anda yapmaya çalışan hesap hiçbirini iyi yapamıyor.
 
 ## 2. Son 12 Ayın En İyi 5 Paylaşımını Bulun

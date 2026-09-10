@@ -22,6 +22,8 @@ Elit %10'luk dilimin ROAS seviyesi — fark kreatif ve katalog kalitesinde
 
 Meta'daki tüm dinamik reklam sistemi tek bir kaynaktan beslenir: ürün kataloğunuz. Katalog, e-ticaret sitenizdeki ürünlerin başlık, fiyat, görsel, stok ve varyant bilgilerini Meta'ya taşıyan veri akışıdır (feed). Shopify, WooCommerce, Ticimax, İdeasoft ve İkas gibi platformların tamamı bu akışı otomatik kurabiliyor — ama "otomatik kurulmuş" olması "doğru kurulmuş" olduğu anlamına gelmiyor.
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 2026'da feed kalitesi, reklam performansının en az kreatif kadar belirleyicisi. Meta'nın algoritması ürünlerinizi feed'deki verilerden tanır: başlık belirsizse, görsel düşük çözünürlüklüyse veya beden/renk varyantları eksikse, sistem ürününüzü doğru kişiye gösteremez.
 
 ✓

@@ -8,6 +8,8 @@ Sosyal medyada başarısızlığın en yaygın nedeni kötü içerik değil, **d
 
 Takvimsiz çalışan hesaplarda tipik döngü şudur: pazartesi ilham gelir, üç gönderi arka arkaya paylaşılır, sonra iki hafta sessizlik. Algoritma düzensizliği cezalandırmaz ama kitle unutur.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Takvim üç somut sorunu çözer:
 
 - Karar yorgunluğu. Her gün "ne paylaşsam" diye düşünmek, işin kendisinden daha çok enerji tüketir.

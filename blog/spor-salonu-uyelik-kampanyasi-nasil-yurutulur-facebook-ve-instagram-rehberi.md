@@ -8,6 +8,8 @@ Spor salonu reklamlarında en sık görülen tablo şu: bütçe harcanır, yüzl
 
 Kampanyanın amacı "reklam vermek" değil, **belirli bir maliyetle üye kazanmak**. Bu yüzden başlamadan önce iki sayıyı bilmeniz gerekir:
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 - Bir üyenin size yıllık getirisi. Ortalama aylık aidat × ortalama üyelik süresi (ay). Ek gelirleri de katın: PT paketleri, takviye satışı, dolap kirası.
 
 - Kabul edebileceğiniz üye edinme maliyeti. Genel kural: bir üyenin ilk üç aylık gelirinin en fazla bir kısmı. Bunu kendi rakamlarınızla belirlemelisiniz.
@@ -105,7 +107,7 @@ Fitness sektöründe reklam yorgunluğu hızlı gelişir — aynı görsel iki h
 
 ### Metin kurgusu
 
-Üç satırlık bir iskelet çoğu durumda yeterlidir: **durum tespiti** ("Eylülde başlamayı üç kez erteledinizse..."), **çözüm ve fark** ("...programınızı ilk gün eğitmenle birlikte kuruyoruz"), **net eylem** ("Ücretsiz tanışma için formu doldurun, bugün içinde arıyoruz"). Son cümledeki *zaman taahhüdü* dönüşüm oranını belirgin şekilde etkiler.
+Üç satırlık bir iskelet çoğu durumda yeterlidir: **durum tespiti** ("Eylülde başlamayı üç kez erteledinizse..."), **çözüm ve fark** ("...programınızı ilk gün eğitmenle birlikte kuruyoruz"), **net eylem** ("Ücretsiz tanışma için formu doldurun, bugün içinde arıyoruz"). Son cümledeki zaman taahhüdü dönüşüm oranını belirgin şekilde etkiler.
 
 ## Adım 5: Form ve Takip Akışı
 

@@ -8,30 +8,27 @@ SEO, sitenizin Google'da doğru aramalarda çıkması için yapılan çalışmal
 
 Google'ın tek bir işi var: arayan kişiye en faydalı sayfayı göstermek. SEO da bu yüzden "Google'ı kandırmak" değil, "Google'ın işini kolaylaştırmak" olarak düşünülmeli. Sitenizin ne hakkında olduğunu net anlatırsanız ve gerçekten iyi bir cevap sunuyorsanız, sıralama zamanla gelir.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 İki temel fark var. **Ücretli reklam** anında sonuç verir ama para harcamayı bıraktığınız gün biter. **SEO** geç başlar ama bir kez oturduğunda çalışmaya devam eder. İkisi rakip değil; reklam bugünü, SEO gelecek yılı finanse eder.
 
 ⏳ **Beklenti ayarı:** SEO'da ilk anlamlı hareketi görmek genellikle 3–6 ay alır. Bu süreyi kabul edemeyecek durumdaysanız, önce reklamla başlayıp SEO'yu paralelde kurmak daha gerçekçi bir plan.
 
 ## Küçük İşletme İçin Doğru Öncelik Sırası
 
-#### 1. Google İşletme Profili
-
+1. Google İşletme Profili
 Yerel bir işletmeyseniz en yüksek getirili adım budur ve ücretsizdir. "Yakınımdaki" aramalarında Google önce harita kartlarını gösterir; profiliniz eksikse o kutuda yoksunuz demektir.
 
-#### 2. Teknik Temizlik
-
+2. Teknik Temizlik
 Site mobilde hızlı açılıyor mu, her sayfanın kendine ait başlığı var mı, Google sitenizi tarayabiliyor mu? Bunlar sıralama getirmez ama eksikse diğer her şeyi baltalar.
 
-#### 3. Sayfa Yapısı
-
+3. Sayfa Yapısı
 Sattığınız her hizmet için ayrı sayfa. Tek bir "Hizmetlerimiz" sayfasında beş hizmeti anlatmak, beşinde de sıralamaya girememek demek.
 
-#### 4. İçerik
-
+4. İçerik
 Müşterilerinizin size en çok sorduğu soruların cevaplarını yazın. En iyi içerik fikirleri satış görüşmelerinden çıkar, anahtar kelime araçlarından değil.
 
-#### 5. Bağlantılar ve İtibar
-
+5. Bağlantılar ve İtibar
 Başka sitelerin size link vermesi Google için güven sinyali. Yerel işletme dizinleri, ticaret odası sayfaları, iş birliği yaptığınız markalar iyi başlangıç noktaları.
 
 ## Anahtar Kelime: Doğru Soruyu Sormak

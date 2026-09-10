@@ -10,6 +10,8 @@ Moda sektöründe mega influencer anlaşmaları büyük bütçeler gerektiriyor 
 
 500.000 takipçili bir moda influencer'ına 25.000 TL ödeyip yalnızca birkaç satış elde ettiğinizi hayal edin. Bu senaryo, Türkiye'deki pek çok giyim markasının yaşadığı gerçeklik. Çünkü büyük hesaplarda kitle homojen değil: kimileri İstanbul'dan, kimileri yurt dışından, kimileri sadece "beğeni makinesi" olarak geziyor. Satın alma niyetiyle takip eden kullanıcı oranı düşük.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Mikro influencer (10K–100K takipçi) ise genellikle belirli bir nişe hizmet ediyor: "sürdürülebilir moda," "büyük beden giyim," "İzmir street style," "Y2K esintili kombinler" gibi. Bu odak, kitleyi hem bağlı hem de homojen tutuyor. Satın alma olasılığı çok daha yüksek.
 
 **Veri:** Araştırmalar tutarlı biçimde gösteriyor ki mikro influencer'lar, makro influencer'lara kıyasla **%60 daha yüksek** etkileşim oranı ve **%20–30 daha yüksek** dönüşüm oranı üretiyor. Moda sektöründe bu fark özellikle belirgin.

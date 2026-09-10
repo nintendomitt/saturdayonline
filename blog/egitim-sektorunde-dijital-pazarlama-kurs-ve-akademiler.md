@@ -8,9 +8,11 @@ Eğitim, dijital pazarlamanın en zor ve en ödüllendirici kategorilerinden bir
 
 Bir tişört alırken karar tek kişiliktir ve dakikalar sürer. Bir eğitim programına kaydolurken karar çoğu zaman **iki ya da üç kişiliktir** ve haftalar sürer. Bir yabancı dil kursunda kararı veren öğrenci, ödemeyi yapan veli, etkileyen ise arkadaş çevresidir. Bir yetişkin sertifika programında kararı veren kişi, kariyer beklentisi ile taksit tutarı arasında sessizce bir hesap yapar.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Bu iki özellik — **çok aktörlü karar** ve **uzun değerlendirme süresi** — eğitim pazarlamasının bütün mantığını belirler. "Hemen satın al" mantığıyla kurulmuş bir reklam düzeni burada çalışmaz. Çalışan şey, kararın her aşamasına ayrı bir cevap veren bir düzendir.
 
-**Temel ilke:** Eğitimde reklamın işi satmak değil, *görüşme başlatmaktır*. Satışı deneme dersi, tanıtım semineri, ücretsiz ön değerlendirme ya da danışman görüşmesi yapar. Reklam bütçenizi doğrudan satışa değil, bu ilk temasa yönlendirin.
+**Temel ilke:** Eğitimde reklamın işi satmak değil, görüşme başlatmaktır. Satışı deneme dersi, tanıtım semineri, ücretsiz ön değerlendirme ya da danışman görüşmesi yapar. Reklam bütçenizi doğrudan satışa değil, bu ilk temasa yönlendirin.
 
 ## Rakamlarla Eğitim Pazarlaması
 

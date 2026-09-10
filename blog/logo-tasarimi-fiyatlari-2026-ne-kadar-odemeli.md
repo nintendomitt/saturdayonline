@@ -8,6 +8,8 @@ Bir logo için 500 TL de ödeyebilirsiniz, 40.000 TL de. Aradaki fark sadece "ka
 
 Logo tasarımı, görünürde basit bir hizmet gibi dursa da fiyat aralığı şaşırtıcı derecede geniştir. Bunun nedeni, "logo" kelimesinin arkasında çok farklı süreçlerin gizlenebilmesidir: kimi zaman hazır bir vektör şablonunun üzerine isim yazmaktan, kimi zaman haftalar süren marka analizi ve konseptleştirme çalışmasından bahsediyoruz.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 İşte 2026 itibarıyla Türkiye pazarında karşılaşabileceğiniz gerçekçi fiyat aralıkları:
 
 Serbest Çalışan (Giriş)

@@ -8,6 +8,8 @@ Buzdolabı, evdeki tek **7/24 çalışan** cihazdır. Bu yüzden alım kararınd
 
 Buzdolabı iadesi sebeplerinin başında "mutfağa sığmadı" gelir. Ölçmeniz gereken üç şey var:
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 - Niş genişliği: Dolabın gireceği boşluğun genişliği. Yanlarda en az 2–3 cm, arkada 5 cm hava payı bırakın; kompresör ısıyı arkadan atar, sıkışık kurulum tüketimi artırır.
 
 - Yükseklik: Üst dolap veya raf varsa net yüksekliği ölçün. Üstte 5 cm boşluk gerekir.

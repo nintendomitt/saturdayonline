@@ -8,6 +8,8 @@ Reklam bütçenizin ne kadarının çalıştığını gerçekten biliyor musunuz
 
 **A/B testi** (diğer adıyla "split test"), bir reklamın, açılış sayfasının veya e-postanın iki farklı versiyonunu aynı anda, benzer kitlelere göstererek hangisinin daha iyi sonuç verdiğini ölçme yöntemidir.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Mantığı basittir: Elinizde A versiyonu ve B versiyonu vardır. Aralarındaki **tek bir fark** dışında her şey aynıdır. Trafiğin yarısı A'yı, yarısı B'yi görür. Yeterli veri toplandığında hangisinin daha çok satış, form veya tıklama getirdiğini net olarak görürsünüz.
 
 **Neden önemli?** Türkiye'de küçük ve orta ölçekli işletmelerin büyük kısmı reklam bütçesini "hissiyata" göre yönetiyor. Oysa aynı ürünü satan iki farklı reklam metni arasındaki dönüşüm farkı çoğu zaman %30–%80 bandında oluyor. Bu, ayda 20.000 TL reklam harcayan bir işletme için yılda altı haneli bir fark demek.
@@ -16,7 +18,7 @@ Mantığı basittir: Elinizde A versiyonu ve B versiyonu vardır. Aralarındaki 
 
 ### 1. Bir hipotez kurun
 
-Test, rastgele deneme değildir. Bir iddiayla başlar: *"Reklam görselinde ürünün kendisi yerine kullanan bir insan olursa tıklama oranı artar."* Hipoteziniz ne kadar netse sonucu yorumlamanız da o kadar kolay olur.
+Test, rastgele deneme değildir. Bir iddiayla başlar: "Reklam görselinde ürünün kendisi yerine kullanan bir insan olursa tıklama oranı artar." Hipoteziniz ne kadar netse sonucu yorumlamanız da o kadar kolay olur.
 
 ### 2. Tek bir değişken belirleyin
 
@@ -69,7 +71,7 @@ Açılış sayfasıKısa form vs. uzun formÇok yüksek
 
 Meta Reklam Yöneticisi'nde **"A/B Testi"** aracı yerleşik olarak bulunur. Kampanya oluştururken açtığınızda, platform kitleyi otomatik olarak birbirinden ayrıştırır — yani aynı kişi iki varyantı birden görmez. Bu, "kitle çakışması" adı verilen ve sonuçları bozan en yaygın sorunu ortadan kaldırır.
 
-Meta'nın Advantage+ gibi otomatik yerleşim sistemleri kullanılırken bile creative (görsel/metin) testi yapılabilir; sistem zaten varyantlar arasında bütçeyi dinamik dağıtır, ancak *öğrenmek* istiyorsanız kontrollü A/B testi hâlâ daha nettir.
+Meta'nın Advantage+ gibi otomatik yerleşim sistemleri kullanılırken bile creative (görsel/metin) testi yapılabilir; sistem zaten varyantlar arasında bütçeyi dinamik dağıtır, ancak öğrenmek istiyorsanız kontrollü A/B testi hâlâ daha nettir.
 
 ### Google Ads
 

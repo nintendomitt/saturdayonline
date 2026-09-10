@@ -6,7 +6,7 @@
 
 Türkiye'deki giyim markalarının büyük çoğunluğu Meta reklamlarını (Facebook + Instagram) kullanıyor — ama kaçı gerçekten ne kadar harcadığını, kaç satış yaptığını ve ürün başına maliyetin ne olduğunu biliyor? Bu yazıda gerçek rakamları ve hesaplamayı paylaşıyoruz.
 
-#### İçindekiler
+İçindekiler
 
 - Giyim Markası İçin Neden Meta?
 

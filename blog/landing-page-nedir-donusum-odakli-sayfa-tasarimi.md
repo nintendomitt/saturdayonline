@@ -8,6 +8,8 @@ Reklama para harcıyorsunuz ama ziyaretçiler sayfanıza gelip hemen ayrılıyor
 
 Landing page, Türkçesiyle **açılış sayfası**, ziyaretçiyi tek bir hedefe yönlendirmek için özel olarak tasarlanmış bir web sayfasıdır. Ana web sitenizdeki çok sayfalı, menülü, bağlantılı yapının aksine, landing page dikkat dağıtıcı unsurları ortadan kaldırır ve ziyaretçiyi yalnızca bir eyleme — form doldurmaya, satın almaya, telefon açmaya ya da üyeliğe — yönlendirir.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Bir kullanıcı Google reklamınıza tıkladığında, Instagram gönderinizden geldiğinde ya da e-posta kampanyanızdaki butona bastığında ilk karşılaştığı sayfa landing page'dir. Bu buluşma anı son derece kritiktir: doğru tasarlanmış bir açılış sayfası, genel web sitesine kıyasla **3 ila 5 kat daha yüksek [dönüşüm oranı](/blog/donusum-orani-optimizasyonu-trafigi-satisa-cevirin.html)** sunabilir.
 
 💡 **Ana siteden farkı nedir?** Ana siteniz bir vitrin gibidir — her şeyi gösterir ve ziyaretçilerin kendi yolculuklarını çizmesine izin verir. Landing page ise bir satış görevlisi gibidir: tek bir mesaj, tek bir hedef, tek bir karar.

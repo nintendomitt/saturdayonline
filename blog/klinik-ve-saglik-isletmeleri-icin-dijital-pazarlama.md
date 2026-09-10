@@ -8,6 +8,8 @@ Türkiye'de hastaların yüzde sekseninden fazlası bir sağlık hizmeti almadan
 
 Bir kafe veya giyim markasının pazarlaması ile bir diş kliniğinin veya estetik merkezinin pazarlaması aynı kurallarla yürümez. Sağlık sektöründe hem yasal sınırlamalar (Sağlık Bakanlığı reklam yönetmeliği, KVKK) hem de hasta güveni faktörü devreye girer. Hastalar bir ürün değil, kendi sağlıklarıyla ilgili bir karar veriyor — bu yüzden güven inşa eden, şeffaf ve doğru bilgi sunan bir dijital varlık kliniğinizin en değerli varlığı haline gelir.
 
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+
 Aynı zamanda sağlık sektöründe hasta kazanım maliyeti (CAC) genellikle diğer sektörlere göre daha yüksektir, ancak bir hastanın yaşam boyu değeri (LTV) de o kadar yüksek olabilir. Doğru kurulmuş bir dijital pazarlama sistemi, tek seferlik kampanyalar yerine sürekli ve öngörülebilir bir hasta akışı sağlar.
 
 Hasta Araştırma Oranı

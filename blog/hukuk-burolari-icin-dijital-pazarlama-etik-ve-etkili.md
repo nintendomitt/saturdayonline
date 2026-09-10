@@ -8,6 +8,8 @@ Bir avukatlık bürosu için "dijital pazarlama" kelimesi, diğer sektörlerde o
 
 Avukatlık, kamusal niteliği ve güven esasına dayalı yapısı nedeniyle diğer serbest meslek dallarından ayrılıyor. Avukatlık Kanunu'nun 55. maddesi açıkça şunu söylüyor: "Avukatlar, iş elde etmek için, reklam sayılabilecek her türlü teşebbüs ve harekette bulunamazlar." Bu kural; meslek onurunu korumayı, avukatlık faaliyetinin ticarileşmesini önlemeyi ve avukat-müvekkil ilişkisinin güven temelini muhafaza etmeyi amaçlıyor.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 2 Mayıs 2026'da Resmî Gazete'de yayımlanan değişiklikle TBB Reklam Yasağı Yönetmeliği, dijital platformları da kapsayacak şekilde güncellendi. [Sosyal medya](/blog/sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin.html), internet siteleri ve diğer çevrimiçi paylaşımlardaki olası ihlalleri tespit etmek üzere beş kişilik bir "Reklam Yasağı İhlallerini Takip Merkezi" kuruldu. Yani hukuk bürosu dijital pazarlaması artık sadece etik bir tercih değil, aktif olarak denetlenen bir alan.
 
 Yasal Dayanak

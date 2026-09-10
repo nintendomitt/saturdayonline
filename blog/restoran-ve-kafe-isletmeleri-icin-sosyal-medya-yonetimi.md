@@ -10,6 +10,8 @@
 
 [Sosyal medya yönetimi](/blog/sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin.html) paketi, bir ajansın ya da uzmanın belirlenen platformlarda (genellikle Instagram, Facebook, TikTok, LinkedIn) düzenli içerik üretimi, yayınlama, topluluk yönetimi ve raporlama hizmetlerini kapsayan aylık abonelik modelidir.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Paketler; sunulan platform sayısına, aylık yayınlanan içerik miktarına, reklam yönetiminin dahil olup olmadığına ve raporlama sıklığına göre değişir.
 
 ## Standart Bir Pakette Neler Olmalı?

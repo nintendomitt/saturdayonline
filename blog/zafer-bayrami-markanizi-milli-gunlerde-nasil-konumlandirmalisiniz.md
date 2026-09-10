@@ -8,6 +8,8 @@
 
 Sebep basit: **herkes aynı şeyi yapıyor.** Aynı hazır görsel bankası, aynı kalıp cümle, aynı zamanlama. Kullanıcı akışta on beşinci benzer gönderiyi gördüğünde artık okumuyor bile. Markanız orada var, ama hatırlanmıyor.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 İkinci sebep daha önemli: çoğu marka bu günleri bir **iletişim fırsatı** değil, bir **zorunluluk** olarak görüyor. "Paylaşmazsak ayıp olur" düşüncesiyle üretilen içerik, samimiyetsizliğini her zaman ele verir. Kullanıcı bunu fark eder.
 
 Kalıp gönderi

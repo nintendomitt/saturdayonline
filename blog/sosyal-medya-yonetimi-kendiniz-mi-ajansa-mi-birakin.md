@@ -8,6 +8,8 @@
 
 Küçük işletmelerde sosyal medya genellikle birinin asıl işinin yanına eklenir. Sonuç neredeyse her zaman aynıdır: ilk ay düzenli paylaşım, ikinci ay seyrelme, üçüncü ay sessizlik. Bunun sebebi ilgisizlik değil, **işin gerçek yükünün hafife alınmasıdır**.
 
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+
 Tek bir platformu haftada 3 gönderiyle ciddi biçimde yönetmek şu adımları içerir:
 
 - Aylık içerik planı ve konu havuzu çıkarma

@@ -8,6 +8,8 @@ Bugün Dünya Fotoğraf Günü. Bu, fotoğrafın işletmeniz için ne anlama gel
 
 Bir Instagram akışında, bir Google Alışveriş sonucunda ya da bir pazaryeri listesinde ürününüz ortalama bir saniyeden kısa sürede değerlendirilir. Bu sürede kimse başlığınızı okumaz. Sadece **bir kare görür** ve iki karar verir: durayım mı, güvenilir mi?
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Bu iki kararın ikisi de fotoğrafın işidir. Metin, ancak fotoğraf işini yaptıktan sonra devreye girer. Bu nedenle zayıf görselle çalışan bir reklam kampanyasında sorun çoğu zaman hedeflemede veya bütçede değil, karenin kendisindedir.
 
 **Pratik sonuç:** Reklam performansınız düşükse, hedefleme ve bütçeyle oynamadan önce görseli değiştirin. Görsel, bir kampanyada en hızlı ve en ucuz test edilebilen değişkendir.

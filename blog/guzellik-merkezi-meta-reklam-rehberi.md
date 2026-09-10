@@ -1,6 +1,6 @@
-# Güzellik Merkezi Meta Reklam Rehberi 2026 | Saturday Online
+# Güzellik Merkezi Reklamı Nasıl Yapılır? 2026 Rehberi
 
-> Güzellik merkezleri için Meta (Facebook & Instagram) reklam rehberi. Before/after yasağı, yerel hedefleme, lead form kampanyaları ve etkili kreatif örnekleri.
+> Güzellik merkezi ve kuaför reklamları nasıl yapılır? Meta ve Instagram'da before/after yasağı, yerel hedefleme, randevu formu kampanyaları ve kreatif örnekleri.
 
 [← Tüm Yazılar](/blog/index.html)
 
@@ -10,7 +10,21 @@ Meta Reklamları
 
 Kuaför, estetik, cilt bakım ve güzellik merkezleri için Meta (Facebook & Instagram) reklamları harika işe yarıyor — ama doğru yapılmazsa hesabınız kapatılabilir veya bütçeniz boşa gidebilir. İşte 2026'da dikkat etmeniz gereken her şey; gerçek kreatif örnekleriyle.
 
-#### İçindekiler
+**Kısa cevap:** Güzellik merkezi reklamlarında en kritik üç kural:
+(1) **before/after görseli kullanmayın** — Meta bunu sağlık politikası ihlali sayar ve
+hesabı kapatabilir, (2) **yarıçapı 5–10 km ile sınırlayın** — güzellik hizmeti yerel bir
+karardır, geniş hedefleme bütçeyi yakar, (3) **randevu formunu Meta içinde tutun** —
+siteye yönlendirme her adımda müşteri kaybettirir. Detaylar ve kreatif örnekleri aşağıda.
+
+## Güzellik Reklamları Neden Farklı Kurallara Tabi?
+
+Meta, güzellik ve estetik hizmetlerini "sağlık ve kişisel bakım" kategorisinde değerlendiriyor.
+Bu, normal bir e-ticaret reklamına göre çok daha dar bir alan demek: vücut görselleri, kişisel
+özelliklere doğrudan atıf ("kilonuzdan mı şikayetçisiniz?") ve öncesi-sonrası karşılaştırmaları
+politika ihlali sayılıyor. Kuaför, cilt bakım, epilasyon ve estetik merkezlerinin reklam hesabı
+kapatmalarının büyük kısmı bu üç başlıktan çıkıyor.
+
+İçindekiler
 
 - Güzellik Sektöründe Neden Meta?
 
@@ -46,36 +60,28 @@ Türkiye'deki güzellik merkezlerinde Meta reklamlarının işe yaradığına da
 
 Bu bölümü atlamamanızı şiddetle tavsiye ederiz. Güzellik reklamları Meta'nın en sık kısıtlama uyguladığı kategorilerden biri. Aşağıdaki hatalar reklam reddine veya hesap kapatılmasına neden olabilir:
 
-#### ❌ Before / After (Önce / Sonra) Görselleri
-
+❌ Before / After (Önce / Sonra) Görselleri
 Meta, vücut imajına ilişkin karşılaştırmalı görselleri doğrudan yasaklıyor. Yüz, vücut, saç veya cilt için "önce-sonra" kreatifleri reklam reddine yol açar.
 
-#### ❌ "X Günde Görünür Sonuç" İddiaları
-
+❌ "X Günde Görünür Sonuç" İddiaları
 "7 günde pürüzsüz cilt", "3 seansta kalıcı sonuç" gibi abartılı tıbbi veya estetik vaatler Meta tarafından kısıtlanıyor.
 
-#### ❌ Kilo / Vücut Şekli Üzerinden Mesaj
-
+❌ Kilo / Vücut Şekli Üzerinden Mesaj
 "Zayıflama", "yağ eritme", "vücut şekillendirme" gibi ifadeler içeren metinler ve görseller özel onay gerektiriyor veya direkt reddediliyor.
 
-#### ❌ "Mükemmel / Kusursuz" Sonuç Vaadi
-
+❌ "Mükemmel / Kusursuz" Sonuç Vaadi
 Gerçekçi olmayan cilt veya saç sonuçları sunan, abartılı retouch yapılmış görseller Meta politikasına aykırı.
 
-#### ✅ Hizmet Deneyimini Gösterin
-
+✅ Hizmet Deneyimini Gösterin
 Uygulama anı, rahatlamış müşteri, temiz salon ortamı, ürünlerin kullanımı gibi içerikler sorunsuz çalışır.
 
-#### ✅ Fiyat / Kampanya Duyurusu
-
+✅ Fiyat / Kampanya Duyurusu
 "Haziran boyunca ilk seans %20 indirimli" gibi somut teklifler hem izin verilen hem de yüksek dönüşüm sağlayan formattır.
 
-#### ✅ Uzman Kimliği ve Sertifika
-
+✅ Uzman Kimliği ve Sertifika
 Eğitimli uzman, sertifikalı cihaz, yıllık deneyim vurgusu — güven inşa eder ve politikaya uygundur.
 
-#### ✅ Müşteri Yorumu (Deneyim Odaklı)
-
+✅ Müşteri Yorumu (Deneyim Odaklı)
 "Harika bir deneyimdi, kesinlikle geri döneceğim" gibi deneyim yorumları uygundur. Tıbbi iddia içeren yorumlardan kaçının.
 
 **⚠️ Dikkat:** [Meta reklam](/blog/meta-reklam-yonetimi-facebook-ve-instagramda-basarinin-sirlari.html) politikaları otomatik sistemler tarafından denetleniyor. Reddedilen bir reklam tekrar tekrar yayınlanmaya çalışılırsa hesabınız kısıtlanabilir. İlk reddedildiğinde kreatifinizi ve metninizi revize edin; itiraz edin.
@@ -156,52 +162,40 @@ Güzellik merkezleri için üç farklı kampanya tipi işe yarıyor. Hedefe gör
 
 1
 
-#### Lead Generation (Potansiyel Müşteri) — En Çok Önerilen
-
+Lead Generation (Potansiyel Müşteri) — En Çok Önerilen
 Kullanıcı Instagram veya Facebook'tan formu dolduruyor, sizi arıyor ya da siz onu arıyorsunuz. Randevu maliyeti ₺40–120 arası. Aylık ₺5.000–10.000 bütçeyle 50–100 lead alınabilir. Hızlı test ve optimize etme imkânı var.
 
 2
 
-#### Trafik Kampanyası — Web Sitesi veya Instagram Profili
-
+Trafik Kampanyası — Web Sitesi veya Instagram Profili
 Siteye veya randevu sayfasına yönlendirme. Siteniz hızlı ve mobile optimize değilse [dönüşüm oranı](/blog/donusum-orani-optimizasyonu-trafigi-satisa-cevirin.html) düşer. Profil ziyareti için iyi; direkt dönüşüm için lead form daha verimli.
 
 3
 
-#### Etkileşim Kampanyası — Marka Bilinirliği
-
+Etkileşim Kampanyası — Marka Bilinirliği
 Beğeni, yorum ve paylaşım hedefli. Hemen satış getirmez ama hesabınızı büyütür, organik erişimi artırır. Yeni açılan merkezler için marka tanıtımında kullanılabilir.
 
 4
 
-#### WhatsApp Mesajı Kampanyası
-
+WhatsApp Mesajı Kampanyası
 Türkiye'ye özel çok işe yarayan bir format. Reklamdan direkt WhatsApp'a yönlendirme, önceden hazır mesajla ("Merhaba, [X] hizmeti hakkında bilgi almak istiyorum"). Randevu almak için en hızlı yol.
 
 ## Güzellik Sektöründe Sezonluk Fırsatlar
 
 🌸
-
-#### İlkbahar
-
+İlkbahar
 Lazer epilasyon sezonunun başlangıcı. En yoğun lead dönemi. Bütçeyi Mart–Nisan'da artırın.
 
 ☀️
-
-#### Yaz
-
+Yaz
 Epilasyon devam ediyor. Cilt nemlendiricileri ve güneş koruma kreatifleri. Tatil öncesi paketler.
 
 🍂
-
-#### Sonbahar
-
+Sonbahar
 Anti-aging, cilt yenileme, HydraFacial sezonu. "Yaza hazırlandınız, kışa da hazırlanın" mesajı.
 
 ❄️
-
-#### Kış
-
+Kış
 Hediye çeki kampanyaları (Yılbaşı), tırnak ve saç bakımı. Düşük rekabet — CPM daha uygun.
 
 Özellikle **Kurban ve Ramazan Bayramı** öncesinde güzellik merkezlerine olan talep belirgin şekilde artıyor. Bu dönemlerde reklamlarınızı en az 2–3 hafta önceden açın; bayram haftasında CPM fiyatları yükseliyor.
@@ -234,38 +228,32 @@ Bu rakamlar, iyi optimize edilmiş bir kampanya ve yerel hedefleme varsayımıyl
 
 ✓
 
-#### Kreatifde before/after yok, tıbbi iddia yok
-
+Kreatifde before/after yok, tıbbi iddia yok
 Reklam metninizi ve görselinizi Meta politikasına göre son bir kez okuyun.
 
 ✓
 
-#### Yerel hedefleme aktif — 5–10 km yarıçap
-
+Yerel hedefleme aktif — 5–10 km yarıçap
 Şehir veya ülke geneli hedefleme yapmayın; bütçeniz boşa gider.
 
 ✓
 
-#### Lead form 3 soruyla sınırlı
-
+Lead form 3 soruyla sınırlı
 Ad, telefon, ilgili hizmet. Daha fazlası formu terk ettirir.
 
 ✓
 
-#### Pixel veya Conversion API kurulu
-
+Pixel veya Conversion API kurulu
 Meta'nın öğrenebilmesi için web sitenizde pixel aktif olmalı. Yoksa lead form kampanyası kullanın.
 
 ✓
 
-#### Birden fazla kreatif variantı test ediliyor
-
+Birden fazla kreatif variantı test ediliyor
 En az 2–3 farklı görsel ve metin kombinasyonuyla başlayın. Meta en iyisini kendi optimize eder.
 
 ✓
 
-#### Lead'lere 30 dakika içinde dönüş planı var
-
+Lead'lere 30 dakika içinde dönüş planı var
 Reklam ne kadar iyi olursa olsun, geç dönen işletmeler randevuyu kaçırır.
 
 ### Güzellik merkeziniz için Meta reklamlarını birlikte kuralım

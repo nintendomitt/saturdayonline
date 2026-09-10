@@ -8,6 +8,8 @@ Giyim e-ticaretinde iade oranları %30-50 bandında seyrediyor; bazı moda marka
 
 Diğer e-ticaret kategorilerine kıyasla giyim ve ayakkabı, iade oranı en yüksek segmentlerin başında geliyor. Bunun temel nedeni ürünün "denemeden" satın alınması: müşteri bedeni, kumaş hissini ve rengi ancak ürün elinde iken gerçekten değerlendirebiliyor. İade nedenlerinin başında ürünün beklentiyi karşılamaması, yanlış beden veya ölçü seçimi, eksik ürün bilgisi ve kargo sürecinde yaşanan hasarlar geliyor — ve bunların büyük kısmı, doğru önlemlerle önlenebilir.
 
+**İlgili:** [Meta reklam maliyetleri](/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+
 Sektör Ortalaması
 %30–50
 Giyim/ayakkabı iade oranı

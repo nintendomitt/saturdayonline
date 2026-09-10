@@ -23,27 +23,19 @@ Sık Karşılaştığımız Durumlar
 İşletme sahipleriyle yaptığımız görüşmelerin çoğu şu dört başlıktan birinde başlıyor. Hangisi sizin durumunuza yakınsa, görüşmede oradan devam ediyoruz.
 
 💸
-
-#### Reklam parası yanıyor
-
+Reklam parası yanıyor
 Tıklama geliyor ama sipariş veya randevu gelmiyor. Dönüşüm sıfır.
 
 🌀
-
-#### Her ajans farklı bir şey söylüyor
-
+Her ajans farklı bir şey söylüyor
 "SEO yap", "TikTok aç", "e-posta gönder" — hangisi doğru bilmiyorsunuz.
 
 📉
-
-#### Rakipler öne geçiyor
-
+Rakipler öne geçiyor
 Aynı şehirde, aynı sektörde çalışanlar Google'da üstte çıkıyor. Siz yok.
 
 ⏳
-
-#### Zaman yetmiyor
-
+Zaman yetmiyor
 İşletmeyi yönetirken bir de pazarlama stratejisi kurmak imkansız geliyor.
 
 ## Kiminle çalışıyorsunuz?
@@ -141,20 +133,17 @@ Süreç
 
 1
 
-#### Mevcut durumu analiz ediyoruz (10 dk)
-
+Mevcut durumu analiz ediyoruz (10 dk)
 Sitenizi, reklamlarınızı, rakiplerinizi canlı olarak inceliyoruz. Hangi kanalda ne kadar para harcadığınız ve bunun karşılığını alıp almadığınızı bakıyoruz.
 
 2
 
-#### Nerede para kaybettiğinizi söylüyoruz (10 dk)
-
+Nerede para kaybettiğinizi söylüyoruz (10 dk)
 En sık rastladığımız üç noktaya bakıyoruz: hedef kitle, reklam mesajı ve dönüşüm sayfası. Sizde hangisi aksıyorsa açıkça söylüyoruz.
 
 3
 
-#### 90 günlük yol haritası veriyoruz (10 dk)
-
+90 günlük yol haritası veriyoruz (10 dk)
 Önce ne yapmanız gerektiğini, ne kadar bütçeyle başlayabileceğinizi ve ne zaman sonuç beklemeniz gerektiğini anlatıyoruz. Birlikte çalışmak isterseniz teklif sunuyoruz — istemezseniz notlarınızı alıp gidebilirsiniz.
 
 ## Çalıştığımız işletmeler ne diyor?

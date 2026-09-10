@@ -6,7 +6,9 @@ Telefonunuz çaldığında hâlâ bir insan mı cevaplıyor? 2026'da işletmeler
 
 ## Sesli AI Asistan Nedir?
 
-Sesli AI asistan (ya da teknik adıyla *voicebot*), telefon veya VoIP kanalı üzerinden gerçek zamanlı sesli iletişim kuran yapay zeka sistemidir. Geleneksel IVR (tuşlu yönlendirme) sistemlerinden temel farkı şudur: IVR sizi bir menüde gezdirir; sesli AI asistan ise müşterinizle gerçek bir konuşma yapar.
+Sesli AI asistan (ya da teknik adıyla voicebot), telefon veya VoIP kanalı üzerinden gerçek zamanlı sesli iletişim kuran yapay zeka sistemidir. Geleneksel IVR (tuşlu yönlendirme) sistemlerinden temel farkı şudur: IVR sizi bir menüde gezdirir; sesli AI asistan ise müşterinizle gerçek bir konuşma yapar.
+
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
 
 Arka planda üç temel teknoloji birlikte çalışır:
 

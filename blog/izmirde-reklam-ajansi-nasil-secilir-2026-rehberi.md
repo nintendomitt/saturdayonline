@@ -4,12 +4,16 @@
 
 İzmir'de [reklam ajansı](/blog/reklam-ajansi-ile-calismak-ilk-3-ayda-neler-beklemeliyim.html) seçmek, İstanbul'da ajans seçmekten farklı bir problem. Pazar daha küçük, ekipler daha az kişilik, referanslar birbirine daha yakın. Bu bir dezavantaj değil — doğru okunursa **avantaj**. Bu rehber, İzmir pazarına özgü dinamikleri ve sözleşme öncesi netleştirmeniz gereken maddeleri açıklıyor.
 
+**İzmir'de misiniz?** Saturday Online İzmir merkezli bir dijital pazarlama ajansı. Karşıyaka'dan Çeşme'ye tüm ilçelere hizmet veriyoruz — [İzmir hizmetlerimize buradan bakabilirsiniz](/izmir-dijital-pazarlama-ajansi/).
+
 ## İzmir Pazarının Üç Belirleyici Özelliği
 
 1
 Ekipler küçük, erişim kolay
 
 İzmir'deki ajansların büyük kısmı 3–15 kişilik ekiplerden oluşur. Bu, İstanbul'daki büyük ajanslara kıyasla önemli bir fark yaratır: işinizle ilgilenen kişi genellikle doğrudan ulaşabileceğiniz biridir. Toplantıya gelen kişiyle hesabınızı yöneten kişi çoğu zaman aynıdır.
+
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
 
 **Dikkat edilecek nokta:** Küçük ekip aynı zamanda kapasite sınırı demektir. Ajansın kaç müşteriyle çalıştığını ve sizin hesabınıza haftalık kaç saat ayrılacağını sorun.
 

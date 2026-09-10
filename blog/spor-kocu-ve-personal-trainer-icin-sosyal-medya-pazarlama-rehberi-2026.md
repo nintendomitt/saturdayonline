@@ -8,6 +8,8 @@ Spor koçluğu, sosyal medyanın en doğrudan satışa dönen alanlarından biri
 
 Terimler pratikte iç içe geçse de pazarlama açısından ayrımı bilmek önemlidir, çünkü hedef kitle ve satış süreci farklıdır.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Personal Trainer (PT)Spor / Online Koç
 
 Çalışma biçimiSalonda, birebir, seans bazlıUzaktan, program + takip bazlı

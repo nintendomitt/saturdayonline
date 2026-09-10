@@ -8,6 +8,8 @@ Spor salonuna yeni başlayan hemen herkes aynı cümleyi duyar: "PT ile çalış
 
 PT, İngilizce **Personal Trainer** ifadesinin kısaltmasıdır; Türkçede "kişisel antrenör" veya "özel antrenör" olarak karşılanır. Salonda "PT alıyorum" denildiğinde kastedilen şey, antrenmanların bir uzmanla **birebir** planlanması ve yürütülmesidir.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Grup dersinden temel farkı şudur: grup dersinde program herkes için aynıdır, PT'de program **sizin** hedefinize, geçmiş sakatlıklarınıza, hareket kabiliyetinize ve haftada ayırabildiğiniz süreye göre kurulur. Ödediğiniz bedelin karşılığı, salonu kullanma hakkı değil; bu kişiselleştirme ve o saat boyunca size ayrılan dikkat.
 
 ## Bir Personal Trainer Ne Yapar?

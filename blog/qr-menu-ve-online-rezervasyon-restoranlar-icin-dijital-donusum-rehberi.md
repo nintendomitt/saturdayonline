@@ -8,6 +8,8 @@ Kağıt menü çoktan geride kaldı. 2026'da müşteriler masaya oturur oturmaz 
 
 QR menü, müşterilerin masadaki bir kodu telefon kamerasıyla okutarak anında mobil uyumlu dijital menünüze ulaşmasını sağlayan temassız bir sistemdir. Bulut tabanlı altyapı sayesinde fiyat veya ürün değişikliklerini anında güncelleyebilir, yeni menü basımı için beklemek zorunda kalmazsınız.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 Menü Güncelleme Süresi
 Anında
 Basılı menüde günler sürer

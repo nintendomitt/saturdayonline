@@ -8,9 +8,11 @@ Google'ın sıralama kararlarını etkileyen yüzlerce sinyal var, ama bunların
 
 **Backlink** (Türkçe karşılığıyla "geri bağlantı"), başka bir web sitesinden sizin sitenize verilen linktir. Bir haber sitesi makalesinde firmanızın adına tıklanabilir bir link varsa, bu bir backlink'tir.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Google'ın kurucu mantığı buydu: Eğer birçok güvenilir site bir sayfaya link veriyorsa, o sayfa muhtemelen değerlidir. Bu fikir 1998'de "PageRank" olarak ortaya çıktı ve algoritma o günden bugüne yüzlerce kez değişmesine rağmen temel mantık ayakta kaldı.
 
-**Basit benzetme:** Backlink'i bir referans mektubu gibi düşünün. On kişiden gelen sıradan bir "iyi çalışandır" notu ile alanında saygın tek bir profesörün yazdığı detaylı mektup aynı ağırlıkta değildir. Google da böyle düşünür: *kaç tane* değil, *kimden* sorusu daha önemlidir.
+**Basit benzetme:** Backlink'i bir referans mektubu gibi düşünün. On kişiden gelen sıradan bir "iyi çalışandır" notu ile alanında saygın tek bir profesörün yazdığı detaylı mektup aynı ağırlıkta değildir. Google da böyle düşünür: kaç tane değil, kimden sorusu daha önemlidir.
 
 ## Backlink Neden Bu Kadar Önemli?
 
@@ -55,7 +57,7 @@ TürNe anlama gelirSEO değeri
 **Sponsored**Ücretli / reklam bağlantısıOtorite aktarmaz
 **UGC**Kullanıcı üretimi içerik (yorum, forum)Otorite aktarmaz
 
-Google bu etiketleri artık katı kurallar değil, *ipucu* olarak değerlendirdiğini belirtiyor. Yani nofollow bir link tamamen değersiz değildir; doğal bir link profilinin parçası olarak görülür. Zaten hiçbir sitenin link profili %100 dofollow olmaz — bu, doğal olmayan bir örüntüdür.
+Google bu etiketleri artık katı kurallar değil, ipucu olarak değerlendirdiğini belirtiyor. Yani nofollow bir link tamamen değersiz değildir; doğal bir link profilinin parçası olarak görülür. Zaten hiçbir sitenin link profili %100 dofollow olmaz — bu, doğal olmayan bir örüntüdür.
 
 ## Kaliteli Backlink Nasıl Anlaşılır?
 
@@ -129,7 +131,7 @@ Bu sorunun sabit bir cevabı yok, çünkü doğru soru "kaç tane" değil, **"ra
 
 Pratik yaklaşım: hedeflediğiniz anahtar kelimede ilk 5'te çıkan siteleri inceleyin. Onların o sayfaya kaç farklı alan adından link aldığını görün. Hedefiniz sayıyı geçmek değil, benzer kalitede ve daha ilgili kaynaklardan link toplamaktır.
 
-**Küçük işletme için gerçekçi hedef:** Ayda 2–4 *kaliteli* ve farklı alan adından backlink. Bu tempo, bir yıl sonunda çoğu yerel rekabette belirgin fark yaratır ve hiçbir risk taşımaz. "Ayda 300 link" vaadinden çok daha değerlidir.
+**Küçük işletme için gerçekçi hedef:** Ayda 2–4 kaliteli ve farklı alan adından backlink. Bu tempo, bir yıl sonunda çoğu yerel rekabette belirgin fark yaratır ve hiçbir risk taşımaz. "Ayda 300 link" vaadinden çok daha değerlidir.
 
 ## Backlink Profilinizi Nasıl Kontrol Edersiniz?
 

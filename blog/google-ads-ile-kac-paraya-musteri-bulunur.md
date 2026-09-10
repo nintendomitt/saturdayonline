@@ -6,7 +6,7 @@
 
 "Aylık 5.000 TL bütçe ayırsam kaç müşteri gelir?" Bu soruyu duymayan [dijital pazarlama](/blog/dijital-pazarlama-nedir-isletmeler-icin-baslangic-rehberi.html) ajansı yoktur. Cevap basit görünmüyor çünkü her sektör farklı işliyor. Bu yazıda sektör sektör [Google Ads](/blog/google-ads-nedir-isletme-sahipleri-icin-temel-rehber.html) maliyetlerini, gerçekçi beklentileri ve bütçenizi nasıl planlamanız gerektiğini ele alıyoruz.
 
-#### İçindekiler
+İçindekiler
 
 - Temel kavramlar: CPC, CPA, ROAS
 
@@ -21,6 +21,8 @@
 ## Önce Temel Kavramları Anlayalım
 
 Google Ads maliyetlerini konuşmadan önce üç temel metriği netleştirmek gerekiyor. Bu üç sayı, reklam bütçenizin gerçekte ne kadar işe yaradığını anlamanın anahtarıdır.
+
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
 
 **CPC (Tıklama Başına Maliyet):** Birinin reklamınıza tıkladığında ödediğiniz ücrettir. "10 TL CPC" demek, her tıklama için 10 TL ödediğiniz anlamına gelir. CPC, sektöre ve rekabete göre dramatik şekilde değişir; "avukat" gibi rekabetçi kelimelerde 50 TL'yi geçerken "semtinizdeki kuaför" gibi yerel aramalarda 2–3 TL'ye kadar düşebilir.
 

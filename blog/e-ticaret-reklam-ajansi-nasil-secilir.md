@@ -10,6 +10,8 @@ E-ticaret işletmeniz için [reklam ajansı](/blog/reklam-ajansi-ne-is-yapar.htm
 
 E-ticaret reklam yönetimi, genel dijital pazarlamadan farklı uzmanlık gerektiriyor. Ürün kataloğu reklamları, dinamik yeniden hedefleme (dynamic retargeting), alışveriş kampanyaları (Google Shopping, Meta Advantage+), sepet terk etme stratejileri ve dönüşüm hunisi optimizasyonu bu sektöre özgü becerilerdir.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Bir restoranın sosyal medyasını yöneten ajansın e-ticaret reklamlarında aynı başarıyı göstermesi beklenemez. Sektör deneyimi burada belirleyicidir.
 
 ## 7 Kritik Soru

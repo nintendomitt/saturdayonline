@@ -8,6 +8,8 @@ Her yıl birileri "e-posta öldü" diyor, her yıl e-posta hayatta kalıyor. 202
 
 E-posta pazarlama, **izin vermiş kişilere** e-posta yoluyla düzenli olarak değer sunma ve satış yapma yöntemidir. Tanımdaki en kritik kelime "izin". İzin olmadan gönderilen mesaj pazarlama değil, spam'dir — ve Türkiye'de aynı zamanda cezai yaptırımı olan bir eylemdir.
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 E-posta pazarlamayı diğer kanallardan ayıran temel özellik, **kanalın size ait olmasıdır**. Instagram hesabınızın erişimini algoritma belirler; Google'daki sıranızı bir güncelleme bir gecede değiştirebilir. E-posta listeniz ise sizin varlığınızdır. Platform kapansa, algoritma değişse bile o adresler elinizde kalır.
 
 **Kısaca:** [Sosyal medya](/blog/sosyal-medya-reklam-ajansi-secerken-dikkat-edilmesi-gerekenler.html) kiraladığınız bir dükkan, e-posta listesi ise sahip olduğunuz bir dükkandır. İkisi de gerekli — ama sadece kirada oturmak risklidir.

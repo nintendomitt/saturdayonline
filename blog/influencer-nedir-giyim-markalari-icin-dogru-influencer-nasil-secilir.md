@@ -10,6 +10,8 @@ Bu yazıda giyim sektörüne özel olarak influencer'ın ne olduğunu, hangi tü
 
 Influencer, belirli bir kitlenin satın alma kararını etkileyebilen içerik üreticisi. Giyimde etkisinin özellikle yüksek olmasının nedeni basit: kıyafet, üzerinde görülmeden değerlendirilemeyen bir ürün. Bir tişörtün stüdyo fotoğrafı kumaşın nasıl durduğunu anlatmaz; gerçek bir insanın üzerinde görmek anlatır.
 
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+
 Bu yüzden giyimde influencer içeriği reklamdan çok "deneme kabini" işlevi görüyor. Müşteri ürünü kendine benzeyen birinin üzerinde gördüğünde kafasındaki en büyük soru işareti kalkıyor: bu bana nasıl durur?
 
 👕 **Giyime özel not:** Beden çeşitliliği burada teknik bir detay değil, doğrudan satış meselesi. Sadece tek bir beden aralığındaki üreticilerle çalışan markalar, müşterilerinin önemli bir kısmının "bu bana olmaz" diyerek sayfadan çıkmasına neden oluyor.
@@ -110,7 +112,7 @@ En sağlam yöntem küçük bir deneme: ürün göndererek tek bir içerik yapt�
 
 En sık yapılan iki hatadan biri hiç yönlendirme yapmamak, diğeri her kelimeyi dikte etmek. Birincisinde marka mesajı kayboluyor, ikincisinde içerik reklam gibi görünüp etkisini kaybediyor.
 
-Doğru denge şu: *ne* anlatılacağını siz söyleyin, *nasıl* anlatılacağını üreticiye bırakın. Öne çıkması gereken ürün özelliklerini, kaçınılması gereken ifadeleri ve çağrıyı netleştirin; ton ve format konusunda karışmayın. Üretici kendi kitlesinin diline sizden daha hâkim.
+Doğru denge şu: ne anlatılacağını siz söyleyin, nasıl anlatılacağını üreticiye bırakın. Öne çıkması gereken ürün özelliklerini, kaçınılması gereken ifadeleri ve çağrıyı netleştirin; ton ve format konusunda karışmayın. Üretici kendi kitlesinin diline sizden daha hâkim.
 
 ## Sonuçları Nasıl Ölçersiniz?
 

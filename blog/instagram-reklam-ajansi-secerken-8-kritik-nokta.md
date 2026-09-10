@@ -8,6 +8,8 @@ Instagram [reklam ajansı](/blog/izmirde-reklam-ajansi-nasil-secilir-2026-rehber
 
 Her işletmenin ajansa ihtiyacı yoktur. Karar genellikle **aylık [reklam bütçesi](/blog/reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber.html)** ve **kreatif üretim yükü** üzerinden verilir.
 
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+
 Aylık reklam bütçesiGenellikle doğru olan seçim
 
 0 – 10.000 TLKendiniz yönetin, tek seferlik kurulum desteği alın
@@ -26,7 +28,7 @@ Reklam hesabı ve Business Manager kimin adına?
 
 Bu, listedeki en pahalı hatadır. Kampanyalarınız ajansın kendi Business Manager hesabı altında açılırsa, ayrıldığınız gün reklam hesabınızı, piksel verinizi, özel hedef kitlelerinizi ve algoritmanın öğrenme geçmişini geride bırakırsınız.
 
-**Doğru kurulum:** Business Manager sizin adınıza açılır, reklam hesabı ve piksel sizin mülkiyetinizde kalır, ajansa yalnızca *partner erişimi* verilir. İş bittiğinde erişimi tek tıkla kaldırırsınız, varlıklar sizde kalır.
+**Doğru kurulum:** Business Manager sizin adınıza açılır, reklam hesabı ve piksel sizin mülkiyetinizde kalır, ajansa yalnızca partner erişimi verilir. İş bittiğinde erişimi tek tıkla kaldırırsınız, varlıklar sizde kalır.
 
 **Sorulacak soru:** "Business Manager benim adıma mı açılacak, yoksa sizin hesabınız altında mı çalışacağız?"
 
@@ -70,7 +72,7 @@ Restoran ile kuaför reklamı birbirine, mobilya ile klima reklamından çok dah
 5
 Hangi metrikleri raporluyorlar?
 
-Beğeni, erişim ve gösterim sayısı raporun *başlığı* olduğunda dikkatli olun. Bunlar hesap verebilirlik yaratmayan metriklerdir. Anlamlı bir raporda şunlar olur:
+Beğeni, erişim ve gösterim sayısı raporun başlığı olduğunda dikkatli olun. Bunlar hesap verebilirlik yaratmayan metriklerdir. Anlamlı bir raporda şunlar olur:
 
 - ROAS (reklam harcaması getirisi) — e-ticaret için
 

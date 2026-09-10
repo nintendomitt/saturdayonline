@@ -8,7 +8,9 @@
 
 Performans pazarlama, reklam harcamasının belirli ve **ölçülebilir sonuçlara** bağlandığı dijital pazarlama disiplinidir: tıklama, potansiyel müşteri (lead), satış, form doldurma, telefon araması… Geleneksel reklamcılıktan temel farkı şudur: harcanan her kuruşun neye dönüştüğü bilinir ve kampanya bu veri ışığında sürekli optimize edilir.
 
-Bir billboard kiralarsanız kaç kişinin gördüğünü tahmin edersiniz. Bir performans kampanyası yürüttüğünüzde ise hangi reklamın, hangi kitleye, hangi saatte gösterilip kaç satış getirdiğini *kesin olarak* bilirsiniz. İşte bu ölçülebilirlik, pazarlama bütçenizi bir "gider kalemi" olmaktan çıkarıp **yatırım aracına** dönüştürür.
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
+Bir billboard kiralarsanız kaç kişinin gördüğünü tahmin edersiniz. Bir performans kampanyası yürüttüğünüzde ise hangi reklamın, hangi kitleye, hangi saatte gösterilip kaç satış getirdiğini kesin olarak bilirsiniz. İşte bu ölçülebilirlik, pazarlama bütçenizi bir "gider kalemi" olmaktan çıkarıp **yatırım aracına** dönüştürür.
 
 **Özetle:** Performans pazarlama ajansı, "reklamınız yayında" demekle yetinmez; "bu ay reklam bütçenizin her 1 TL'si size 4,2 TL ciro getirdi" der. Fark tam olarak budur.
 
@@ -48,7 +50,7 @@ ROAS = Reklamdan Gelen Ciro ÷ Reklam Harcaması
 
 ROI   = (Net Kâr − Pazarlama Maliyeti) ÷ Pazarlama Maliyeti × 100
 
-Türkiye e-ticaret pazarında **3x–5x ROAS** genellikle sağlıklı kabul edilir. Ancak dikkat: marj hesaba katılmadan ROAS yanıltıcıdır. Kâr marjı %15 olan bir üründe 5x ROAS ile bile zarar edebilirsiniz. Gerçek denklem şudur: *marj × ROAS = kârlılık*. İyi bir performans ajansı size sadece ROAS raporu göndermez; ürün marjlarınızla birlikte gerçek kârlılığınızı hesaplar ve hedef ROAS'ı buna göre belirler.
+Türkiye e-ticaret pazarında **3x–5x ROAS** genellikle sağlıklı kabul edilir. Ancak dikkat: marj hesaba katılmadan ROAS yanıltıcıdır. Kâr marjı %15 olan bir üründe 5x ROAS ile bile zarar edebilirsiniz. Gerçek denklem şudur: marj × ROAS = kârlılık. İyi bir performans ajansı size sadece ROAS raporu göndermez; ürün marjlarınızla birlikte gerçek kârlılığınızı hesaplar ve hedef ROAS'ı buna göre belirler.
 
 "En büyük bütçe değil, en iyi ölçülen ve en hızlı optimize edilen kampanya kazanır."
 

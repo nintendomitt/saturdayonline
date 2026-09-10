@@ -8,6 +8,8 @@ Güzellik sektöründe [sosyal medya](/blog/sosyal-medya-reklam-ajansi-secerken-
 
 Güzellik hizmeti satın alma kararı üç şeye dayanır: **sonucu görebilmek**, **ele güvenmek** ve **yakında olmak**. Bir kuaför ya da güzellik uzmanı seçerken kimse fiyat listesi okuyarak karar vermez; yapılmış işlere bakar, yorumları tarar ve "bu kişi bana da yapabilir mi" sorusuna cevap arar.
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 Sosyal medya bu üç sorunun üçüne birden cevap veren tek yerdir. Çalışmalarınızın arşivi orada, müşteri yorumları orada, konum bilginiz orada. Bu yüzden salonlar için sosyal medya bir "ekstra pazarlama işi" değil, **işletmenin dijital karşılığıdır**. Hesabı boş bir salon, camı gazeteyle kapatılmış bir dükkân gibi görünür.
 
 Randevu öncesi araştırma
@@ -52,7 +54,7 @@ Emeğin ~%15'i
 Randevunun kapandığı yer. Katalog, otomatik yanıt, hatırlatma.
 Emeğin ~%5'i
 
-**Sık atlanan gerçek:** Google İşletme Profili çoğu salon için Instagram'dan daha fazla *ödeme yapan* müşteri getirir. Instagram beğeni üretir; Google, telefonu eline almış ve gitmeye hazır insanı getirir. İkisini birbirinin alternatifi değil, iki farklı huni aşaması olarak düşünün.
+**Sık atlanan gerçek:** Google İşletme Profili çoğu salon için Instagram'dan daha fazla ödeme yapan müşteri getirir. Instagram beğeni üretir; Google, telefonu eline almış ve gitmeye hazır insanı getirir. İkisini birbirinin alternatifi değil, iki farklı huni aşaması olarak düşünün.
 
 ## Randevu Üreten İçerik Düzeni
 

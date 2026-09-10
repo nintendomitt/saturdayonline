@@ -8,6 +8,8 @@
 
 Model Context Protocol (MCP), Anthropic tarafından Kasım 2024'te kamuya açılan bir açık standarttır. Amacı tek cümleyle özetlenebilir: **yapay zeka modellerinin dış araç ve veri kaynaklarıyla güvenli ve tutarlı biçimde iletişim kurmasını sağlamak.**
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Bunu şöyle düşünün: Masaüstü bilgisayarınıza bir yazıcı bağladığınızda, her marka yazıcının bilgisayarla farklı bir dilde konuşması gerekmez — USB standardı sayesinde hepsi aynı dili kullanır. MCP de yapay zeka dünyası için aynı işlevi görüyor: farklı araçlar, farklı veri tabanları, farklı uygulamalar — hepsi artık aynı "dili" konuşarak yapay zeka modellerine bağlanabiliyor.
 
 💡 **Özet:** MCP'den önce her yapay zeka uygulaması, her araçla ayrı ayrı entegrasyon yazmak zorundaydı. MCP bu karmaşayı ortadan kaldırdı — tek standart, sonsuz bağlantı.

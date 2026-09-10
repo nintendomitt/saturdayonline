@@ -8,26 +8,24 @@ Her yıl Haziran'ın üçüncü Pazar günü kutlanan Baba Günü, Türkiye'deki
 
 Sevgililer Günü veya Anneler Günü kadar gündemde yer almasa da Baba Günü, özellikle hediye, yemek-içki, teknoloji, spor ve kişisel bakım kategorilerinde güçlü bir satın alma dalgası yaratıyor. Tüketiciler, babalarına ne alacaklarını genellikle özel günden 5–10 gün önce aramaya başlıyor.
 
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+
 Bu pencereyi iyi kullanan işletmeler hem satışlarını artırıyor hem de yeni müşterilere ulaşıyor. Kampanyanızı rakiplerden önce başlatmak ve doğru kanalları kullanmak, bu rekabette sizi öne taşıyan iki temel faktör.
 
 📅 **Baba Günü 2026:** 21 Haziran Pazar. Kampanyanıza en geç 10–12 Haziran'da başlamanız, arama hacminin zirvesine yetişmenizi sağlar. [Sosyal medya](/blog/sosyal-medya-danismanligi-ajans-mi-freelancer-mi.html) içeriklerini ise 1 hafta önce yayımlamaya başlayın.
 
 ## Kampanya Takvimi: Ne Zaman Ne Yapmalısınız?
 
-#### 10–12 Haziran — Hazırlık ve Duyuru
-
+10–12 Haziran — Hazırlık ve Duyuru
 Baba Günü koleksiyonunuzu veya özel kampanyanızı duyurun. E-posta listenize ilk uyarıyı gönderin. Sosyal medya takvimini oluşturun ve görselleri hazırlayın.
 
-#### 13–17 Haziran — Isınma Dönemi
-
+13–17 Haziran — Isınma Dönemi
 Hediye fikirleri içerikleri paylaşın. "Babam için ne alsam?" tarzı yönlendirici içerikler üretin. Retargeting reklamlarınızı devreye alın. UGC (kullanıcı içeriği) kampanyası başlatın.
 
-#### 18–20 Haziran — Son Hamle
-
+18–20 Haziran — Son Hamle
 "Son gün / son şans" mesajlarını devreye sokun. Hızlı teslimat veya dijital hediye kartı seçeneklerini öne çıkarın. E-posta hatırlatması gönderin.
 
-#### 21 Haziran — Baba Günü
-
+21 Haziran — Baba Günü
 Duygusal, satış odaklı olmayan bir paylaşım yapın. Müşteri fotoğraflarını öne çıkarın. Kampanya performansını ölçün.
 
 ## Kanal Bazında Dijital Pazarlama Fikirleri
@@ -67,27 +65,19 @@ Baba Günü döneminde "babalar günü hediye fikirleri", "babama ne alsam", "[�
 - Dinamik ürün reklamları: Meta kataloğunuzu Baba Günü etiketiyle güncelleyin ve dinamik reklamları en çok görüntülenen ürünlere yönlendirin.
 
 🎯
-
-#### Hedef Kitle
-
+Hedef Kitle
 25–45 yaş arası, yetişkin çocuklar ve eşler. Rakip markaların takipçilerini hedefleyin.
 
 ⏰
-
-#### Zamanlama
-
+Zamanlama
 Özel günden 10 gün önce başlayın. Son 48 saat "hızlı teslimat" mesajına geçin.
 
 💌
-
-#### E-posta
-
+E-posta
 3 e-posta serisi: duyuru → hatırlatma → son gün. Segmente göre kişiselleştirin.
 
 📱
-
-#### Sosyal Medya
-
+Sosyal Medya
 Duygusal içerikler paylaşın. UGC kampanyası başlatın. Stories ile aciliyet yaratın.
 
 ### 4. İçerik Pazarlaması: SEO ve Organik Trafik
@@ -128,7 +118,7 @@ Fiziksel ürün satmıyorsanız da Baba Günü kampanyasından yararlanabilirsin
 
 - Fotoğrafçılık stüdyoları: "Aile fotoğraf çekimi — babalar günü hediyesi" paketi oluşturun ve early-bird fiyatı sunun.
 
-💡 **İpucu:** Ürün veya hizmetiniz doğrudan Baba Günü ile ilgili olmasa bile, kampanyayı bir *duygu bağlantısı* olarak kullanabilirsiniz. "Babalar Günü'nde işletmenizi büyütmeye ne dersiniz?" gibi mesajlar, B2B hizmetler için bile çalışan bir çerçeve sunuyor.
+💡 **İpucu:** Ürün veya hizmetiniz doğrudan Baba Günü ile ilgili olmasa bile, kampanyayı bir duygu bağlantısı olarak kullanabilirsiniz. "Babalar Günü'nde işletmenizi büyütmeye ne dersiniz?" gibi mesajlar, B2B hizmetler için bile çalışan bir çerçeve sunuyor.
 
 ## Kampanya Başarısını Nasıl Ölçersiniz?
 

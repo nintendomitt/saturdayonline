@@ -4,9 +4,13 @@
 
 İzmir'de bir işletme yönetiyorsanız rakibiniz büyük ihtimalle sizden daha iyi bir ürün satmıyor. Sadece arayan kişi tarafından daha önce bulunuyor. Bu rehberde İzmir'e özgü arama davranışını, hangi kanalın hangi sektörde işe yaradığını ve sınırlı bütçeyle nereden başlanacağını anlatıyoruz.
 
+**İzmir'de misiniz?** Saturday Online İzmir merkezli bir dijital pazarlama ajansı. Karşıyaka'dan Çeşme'ye tüm ilçelere hizmet veriyoruz — [İzmir hizmetlerimize buradan bakabilirsiniz](/izmir-dijital-pazarlama-ajansi/).
+
 ## İzmir Pazarını Diğer Şehirlerden Ayıran Üç Şey
 
 Aynı dijital pazarlama planını İstanbul'dan kopyalayıp İzmir'e yapıştırmak, çoğu işletmenin yaptığı ve pahalıya patlayan hata. Üç yapısal fark var.
+
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
 
 **Birincisi rekabet yoğunluğu düşük ama nitelikli.** İzmir'de birçok hizmet kategorisinde Google'ın ilk sayfasında ciddi anlamda optimize edilmiş 3-4 site vardır, İstanbul'da bu sayı 30'u geçer. Yani doğru yapıldığında ilk sayfaya çıkmak burada gerçekten mümkün. Buna karşılık İzmirli tüketici fiyat karşılaştırmasını daha uzun süre yapar; ilk tıkladığı yerden satın almaz.
 
@@ -21,27 +25,19 @@ Aynı dijital pazarlama planını İstanbul'dan kopyalayıp İzmir'e yapıştır
 Bütçeniz sınırlıysa her kanalı aynı anda açmak yerine sırayla ilerleyin. Aşağıdaki sıra, İzmir'de hizmet veren küçük ve orta ölçekli işletmelerde en hızlı geri dönüşü veren düzendir.
 
 1
-
-#### Google İşletme Profili
-
+Google İşletme Profili
 Ücretsiz, en hızlı sonuç veren adım. Kategori, çalışma saatleri, fotoğraf ve yorum yönetimi.
 
 2
-
-#### Site ve Açılış Sayfası
-
+Site ve Açılış Sayfası
 Telefon numarası görünür, form kısa, mobilde hızlı. Aksi halde reklam parası boşa gider.
 
 3
-
-#### Yerel SEO İçeriği
-
+Yerel SEO İçeriği
 İlçe bazlı hizmet sayfaları ve soru odaklı blog yazıları. Sonucu 3-6 ayda verir.
 
 4
-
-#### Ücretli Reklam
-
+Ücretli Reklam
 Google Ads veya Meta. Altyapı hazır olduğunda açılır, önce değil.
 
 ## Google İşletme Profili: İzmir'de En Çok İhmal Edilen Varlık

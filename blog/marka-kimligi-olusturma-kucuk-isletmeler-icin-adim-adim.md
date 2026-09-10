@@ -8,6 +8,8 @@ Marka kimliği, pahalı bir logo değildir. Müşterinizin sizi hatırlama biçi
 
 **Marka kimliği**, işletmenizin kendini dışarıya nasıl gösterdiğinin bütünüdür: adı, logosu, renkleri, yazı tipleri, konuşma tarzı, fotoğraf stili ve müşteriye verdiği söz.
 
+**İlgili:** [güzellik merkezi reklamı rehberi](/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+
 Sık karıştırılan üç kavramı ayıralım:
 
 KavramNe demek
@@ -32,7 +34,7 @@ Pratik egzersiz: En sevdiğiniz üç müşterinizi düşünün. Ortak noktaları
 2
 Konumlandırma cümlenizi yazın
 
-Tek cümlede: *"[Kitle] için [kategori] alanında [fark] sunan işletmeyiz."*
+Tek cümlede: "[Kitle] için [kategori] alanında [fark] sunan işletmeyiz."
 
 Örnek: "İzmir'de yoğun çalışan profesyoneller için akşam saatlerinde de hizmet veren diş kliniğiyiz." Bu cümle, sonraki tüm kararların pusulasıdır. Renk seçerken bile buna dönersiniz.
 

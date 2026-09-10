@@ -8,6 +8,8 @@ B2B'de satış, bir kişinin "beğendim, alıyorum" demesiyle bitmez. Teklifi is
 
 Türkiye'de kurumsal satış yapan şirketlerin dijital pazarlamada takıldığı yer neredeyse hep aynı: perakende mantığıyla kurulmuş bir düzeni kurumsal müşteriye uygulamaya çalışmak. Oysa B2B'nin üç yapısal farkı var ve strateji bu üç farkın üzerine kurulmak zorunda.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 ### 1. Karar veren tek kişi değil
 
 Bir üretim şirketine yazılım, bir zincir markete lojistik hizmeti ya da bir fabrikaya danışmanlık satıyorsanız, karar masasında en az üç kişi vardır: **ihtiyacı yaşayan kullanıcı**, **teknik olarak değerlendiren uzman** ve **bütçeyi onaylayan yönetici**. Üçü aynı şeyi merak etmez. Kullanıcı "işimi kolaylaştırır mı" diye sorar, uzman "mevcut sistemimizle çalışır mı" der, yönetici ise "bu para geri döner mi" ile ilgilenir.
@@ -18,7 +20,7 @@ Tek bir mesajla üçünü birden ikna etmeye çalışan içerik, üçünü de ya
 
 B2B'de ortalama karar süresi sektöre göre değişmekle birlikte çoğu hizmet için üç ilâ altı aya yayılır. Bunun pratik anlamı şu: bu ay yaptığınız reklamın sonucunu bu ay göremezsiniz. Ocak ayında reklamı durdurup "işe yaramadı" diyen şirket, aslında nisan ayının teklif akışını kapatmıştır.
 
-**En sık yapılan hata:** B2B kampanyasını 30 günlük dönüşüm verisiyle değerlendirmek. Satış döngünüz 90 gün ise, kampanyanın gerçek verimi ancak 90–120 gün sonra okunabilir. Kısa vadede bakılacak sayı satış değil, *nitelikli görüşme sayısıdır*.
+**En sık yapılan hata:** B2B kampanyasını 30 günlük dönüşüm verisiyle değerlendirmek. Satış döngünüz 90 gün ise, kampanyanın gerçek verimi ancak 90–120 gün sonra okunabilir. Kısa vadede bakılacak sayı satış değil, nitelikli görüşme sayısıdır.
 
 ### 3. Alıcı, sizinle konuşmadan önce kararının çoğunu vermiştir
 
@@ -34,7 +36,7 @@ LinkedIn Türkiye'de 12 milyonu aşkın kullanıcıya sahip ve B2B pazarlamacıl
 
 - Talep yaratır, talebi yakalamaz. LinkedIn'de kimse "acilen tedarikçi arıyorum" diye gezmez. İhtiyacı olan kişi Google'a yazar. Bu yüzden LinkedIn tek başına bir B2B stratejisi değildir.
 
-**Doğru kurulum şu şekildedir:** LinkedIn ile *tanınırlık ve güven* üretirsiniz, Google ile *hazır talebi* yakalarsınız, e-posta ile *üç aylık kararı* olgunlaştırırsınız. Üçü ayrı işler yapar; biri diğerinin yerine geçmez.
+**Doğru kurulum şu şekildedir:** LinkedIn ile tanınırlık ve güven üretirsiniz, Google ile hazır talebi yakalarsınız, e-posta ile üç aylık kararı olgunlaştırırsınız. Üçü ayrı işler yapar; biri diğerinin yerine geçmez.
 
 ## LinkedIn'i B2B İçin Doğru Kurmak: 5 Adım
 
@@ -61,7 +63,7 @@ Reklamda önce kitleyi daraltın, sonra bütçeyi konuşun
 
 LinkedIn reklamlarında en pahalı hata geniş hedeflemedir. Kitleyi sektör + şirket büyüklüğü + pozisyon üçlüsüyle daraltın. 20–50 bin kişilik bir kitle, 500 binlik bir kitleden çok daha verimlidir.
 
-Yeni başlayan bir şirket için mantıklı sıralama: önce *marka bilinirliği* kampanyasıyla kitleyi ısıtın, ardından bu kitleye *yeniden hedefleme* ile teklif götürün. Soğuk kitleye doğrudan "demo talep edin" demek, LinkedIn'de en düşük dönüşümlü yoldur.
+Yeni başlayan bir şirket için mantıklı sıralama: önce marka bilinirliği kampanyasıyla kitleyi ısıtın, ardından bu kitleye yeniden hedefleme ile teklif götürün. Soğuk kitleye doğrudan "demo talep edin" demek, LinkedIn'de en düşük dönüşümlü yoldur.
 
 4
 Lead form kullanın ama arkasını hazırlayın

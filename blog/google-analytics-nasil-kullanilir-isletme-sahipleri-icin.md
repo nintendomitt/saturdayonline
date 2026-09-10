@@ -8,6 +8,8 @@ Google Analytics kurulu ama kimse açmıyor — bu, karşılaştığımız en ya
 
 Sorun ilgisizlik değil, **çeviri eksikliği**. GA4 size "etkileşim oranı %54,2" der; siz "bu ay neden daha az telefon geldi" sorusunun cevabını arıyorsunuz. İkisi arasındaki köprü kurulmadığında panel açılmaz.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 Çözüm basit: metriklerin tamamını öğrenmeye çalışmayın. İşletmeniz için anlam taşıyan üç soruyu belirleyin ve yalnızca onları cevaplayan raporlara bakın.
 
 **Temel prensip:** Analytics bir rapor aracı değil, **karar aracıdır**. Baktığınız sayı bir kararı değiştirmiyorsa, o sayıya bakmayı bırakın. Ayda 20 dakika, doğru üç rapora bakmak; haftada bir saat rastgele gezinmekten çok daha değerlidir.
@@ -97,7 +99,7 @@ Bu tabloyu **dönüşüm sayısıyla birlikte** okuyun. 5.000 ziyaretçi getiren
 
 ### 3. Açılış sayfaları
 
-**Raporlar → Etkileşim → Açılış sayfası.** Ziyaretçinin siteye *girdiği* ilk sayfayı gösterir. Bu rapor, hangi içeriğin yeni kişi getirdiğini anlamanın en net yolu. Blog yazılarınızdan biri sürekli listenin başındaysa, o konuda daha fazla içerik üretmek net bir fırsattır.
+**Raporlar → Etkileşim → Açılış sayfası.** Ziyaretçinin siteye girdiği ilk sayfayı gösterir. Bu rapor, hangi içeriğin yeni kişi getirdiğini anlamanın en net yolu. Blog yazılarınızdan biri sürekli listenin başındaysa, o konuda daha fazla içerik üretmek net bir fırsattır.
 
 ### 4. Dönüşümler (Anahtar etkinlikler)
 

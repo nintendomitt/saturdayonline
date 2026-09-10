@@ -8,6 +8,8 @@ Yanlış ajans seçiminin faturası sadece ödediğiniz hizmet bedeli değildir.
 
 Ajans görüşmelerine "sosyal medyamızı yönetsin" cümlesiyle giden işletmelerin çoğu, altı ay sonra beklediğinden farklı bir hizmet aldığını fark ediyor. Çünkü "sosyal medya" başlığı altında birbirinden çok farklı üç iş var ve bunlar aynı ekip tarafından aynı kalitede yapılmıyor:
 
+**İlgili:** [TikTok reklam fiyatları rehberi](/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+
 - İçerik ve topluluk yönetimi: Gönderi üretimi, tasarım, yorum ve mesaj yanıtlama. Marka görünürlüğüne hizmet eder, doğrudan satışa değil.
 
 - Performans reklamcılığı: Meta ve TikTok reklam hesabının kurulumu, hedefleme, bütçe yönetimi, dönüşüm optimizasyonu. Satış ve lead üretir.

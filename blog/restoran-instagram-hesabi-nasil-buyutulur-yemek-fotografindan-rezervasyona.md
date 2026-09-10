@@ -22,9 +22,11 @@ Reels ve kısa video, organik erişimde fotoğrafın önüne geçti
 
 Biri restoranınızı Instagram'da bulduğunda 3 saniye içinde karar veriyor: kalacak mı, gidecek mi? Bu yüzden profil sayfanız bir vitrin gibi düzenlenmiş olmalı.
 
+**İlgili:** [İzmir dijital pazarlama hizmetlerimiz](/izmir-dijital-pazarlama-ajansi/)
+
 ✓
 
-**Kullanıcı adı:** İşletme adınız ile birebir eşleşmeli. Kısa, akılda kalıcı ve arama dostu olsun. Örneğin *@leylameyhane* veya *@burgerciizmit* gibi yer adıyla birleşik isimler yerel aramalar için çok değerli.
+**Kullanıcı adı:** İşletme adınız ile birebir eşleşmeli. Kısa, akılda kalıcı ve arama dostu olsun. Örneğin @leylameyhane veya @burgerciizmit gibi yer adıyla birleşik isimler yerel aramalar için çok değerli.
 
 ✓
 

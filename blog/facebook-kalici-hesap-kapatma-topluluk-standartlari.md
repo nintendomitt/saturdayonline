@@ -31,6 +31,8 @@ başarı oranı
 
 Meta iki farklı kapatma türü uygular. Bunları birbirinden ayırt etmek, hangi yolu izleyeceğinizi belirler:
 
+**İlgili:** [sosyal medya yönetimi fiyatları](/blog/sosyal-medya-yonetimi-fiyat.html)
+
 - Geçici devre dışı bırakma: Hesabınız erişime kapanır ama veriler korunur. Genellikle uyarıdan sonra gelen kısa süreli askıya almadır. Çoğunlukla itiraz veya bekleme süresi sonunda çözülür.
 
 - Kalıcı kapatma (Permanent Disable): Hesap silinmez; ama erişim tamamen kaldırılır ve Meta'nın otomatik sistemleri itirazı reddeder. Topluluk standartları ihlali gerekçesiyle uygulanan bu kapatma türü, standart yollarla neredeyse hiç çözülmüyor. Çözüm yolu farklı.
@@ -47,7 +49,7 @@ Meta, topluluk standartları ihlalini tespit eden sistemi ağırlıklı olarak y
 
 - Yanlış pozitif oranı yüksektir: Meta'nın kendi Gözetim Kurulu (Oversight Board) raporları, otomatik sistemin itiraz edilen kararların önemli bir bölümünü hatalı verdiğini teyit ediyor.
 
-Bu yüzden kalıcı kapatma kararının büyük çoğunluğu *gerçek bir ihlale dayanmıyor.* Ama sistemin otomatik reddini aşmak için doğru kanalı kullanmak şart.
+Bu yüzden kalıcı kapatma kararının büyük çoğunluğu gerçek bir ihlale dayanmıyor. Ama sistemin otomatik reddini aşmak için doğru kanalı kullanmak şart.
 
 ## İşe Yaramayan 4 Yöntem ve Neden Yaramıyor
 

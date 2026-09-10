@@ -19,39 +19,27 @@ Geleneksel pazarlamadan (TV reklamı, gazete ilanı, billboard) farkı şudur: d
 Dijital pazarlama tek bir kanal değil; birbirini tamamlayan birden fazla kanalın bütünüdür. İşte en önemli dijital pazarlama kanalları:
 
 🔍
-
-#### SEO (Arama Motoru Optimizasyonu)
-
+SEO (Arama Motoru Optimizasyonu)
 Google'da üst sıralarda organik olarak görünmek için yapılan teknik ve içerik çalışmalarının bütünü.
 
 🎯
-
-#### SEM / Arama Reklamları
-
+SEM / Arama Reklamları
 [Google Ads](/blog/google-ads-ile-kac-paraya-musteri-bulunur.html) ile arama sonuçlarının üstünde ücretli reklam gösterimi. Anlık görünürlük sağlar.
 
 📱
-
-#### Sosyal Medya Pazarlama
-
+Sosyal Medya Pazarlama
 Instagram, Facebook, TikTok, LinkedIn gibi platformlarda organik içerik ve ücretli reklam yönetimi.
 
 ✉️
-
-#### E-posta Pazarlama
-
+E-posta Pazarlama
 Mevcut ve potansiyel müşterilere kişiselleştirilmiş mesajlar göndererek dönüşüm sağlama.
 
 📝
-
-#### İçerik Pazarlaması
-
+İçerik Pazarlaması
 Blog, video, podcast ve infografik gibi değerli içeriklerle güven inşa etme ve SEO güçlendirme.
 
 🤝
-
-#### Influencer Pazarlama
-
+Influencer Pazarlama
 Ürününüzü hedef kitlenize ulaşan içerik üreticilerle tanıtma ve marka güvenilirliği artırma.
 
 ## Her Kanalın Güçlü Olduğu Alan Farklıdır
