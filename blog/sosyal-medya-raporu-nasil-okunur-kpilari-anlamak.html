@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sosyal Medya Raporu Nasıl Okunur? KPI'ları Anlamak</title>
+  <meta name="description" content="Ajansınızdan gelen sosyal medya raporunu doğru okuyun: hangi KPI gerçekten iş üretir, vanity metrikler nasıl ayıklanır ve 2026 kıyaslama değerleri neler?" />
+  <link rel="canonical" href="https://saturdayonline.co/blog/sosyal-medya-raporu-nasil-okunur-kpilari-anlamak.html" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://saturdayonline.co/blog/sosyal-medya-raporu-nasil-okunur-kpilari-anlamak.html" />
+  <meta property="og:title" content="Sosyal Medya Raporu Nasıl Okunur? KPI'ları Anlamak" />
+  <meta property="og:description" content="Beğeni sayısı iş üretmez. Raporunuzdaki hangi metriğin karar değeri taşıdığını ve 2026 kıyaslama değerlerini adım adım anlatıyoruz." />
+  <meta property="og:image" content="https://saturdayonline.co/og-image.jpg" />
+  <meta property="og:locale" content="tr_TR" />
+  <meta property="og:site_name" content="Saturday Online" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Sosyal Medya Raporu Nasıl Okunur? KPI'ları Anlamak" />
+  <meta name="twitter:description" content="Raporun hangi satırı karar verdirir, hangisi sadece iyi görünür? İşletme sahipleri için KPI okuma rehberi." />
+  <meta name="twitter:image" content="https://saturdayonline.co/og-image.jpg" />
+
+  <!-- Schema.org Article -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Sosyal Medya Raporu Nasıl Okunur? KPI'ları Anlamak",
+    "description": "İşletme sahipleri için sosyal medya raporu okuma rehberi: anlamlı KPI'lar, vanity metrikler, 2026 kıyaslama değerleri ve ajansa sorulacak sorular.",
+    "author": {"@type": "Organization", "name": "Saturday Online"},
+    "publisher": {"@type": "Organization", "name": "Saturday Online", "logo": {"@type": "ImageObject", "url": "https://saturdayonline.co/logo.png"}},
+    "datePublished": "2026-09-18",
+    "dateModified": "2026-09-18",
+    "mainEntityOfPage": "https://saturdayonline.co/blog/sosyal-medya-raporu-nasil-okunur-kpilari-anlamak.html"
+  }
+  </script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0W1TTHEJFZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-0W1TTHEJFZ');
+  </script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --orange: #FF6B2B;
+      --dark: #0f0f0f;
+      --card-bg: #1a1a1a;
+      --border: #2a2a2a;
+      --text: #e0e0e0;
+      --muted: #888;
+    }
+    body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--dark); color: var(--text); line-height: 1.8; }
+
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(15,15,15,.95); backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 24px; display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo { font-size: 1.1rem; font-weight: 800; color: white; text-decoration: none; letter-spacing: -.5px; }
+    .nav-logo span { color: var(--orange); }
+    .nav-links { display: flex; gap: 24px; }
+    .nav-links a { color: var(--muted); text-decoration: none; font-size: .9rem; transition: color .2s; }
+    .nav-links a:hover { color: white; }
+    @media (max-width: 600px) { .nav-links { display: none; } }
+
+    article { max-width: 780px; margin: 0 auto; padding: 48px 24px 80px; }
+    .meta { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 24px; }
+    .cat {
+      background: rgba(255,107,43,.15); color: var(--orange);
+      border: 1px solid rgba(255,107,43,.3);
+      padding: 3px 12px; border-radius: 20px; font-size: .8rem; font-weight: 600;
+    }
+    .date, .read-time { color: var(--muted); font-size: .85rem; }
+
+    h1 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); font-weight: 800; color: white; line-height: 1.25; margin-bottom: 20px; }
+    .lead { font-size: 1.1rem; color: #bbb; margin-bottom: 36px; line-height: 1.7; border-left: 3px solid var(--orange); padding-left: 16px; }
+
+    h2 { font-size: 1.35rem; font-weight: 700; color: white; margin: 40px 0 14px; }
+    h3 { font-size: 1.1rem; font-weight: 700; color: #ddd; margin: 28px 0 10px; }
+    p { margin-bottom: 18px; color: var(--text); }
+    ul, ol { margin: 0 0 18px 24px; }
+    li { margin-bottom: 10px; }
+    strong { color: white; }
+    article a { color: var(--orange); }
+
+    .highlight-box {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-left: 4px solid var(--orange);
+      border-radius: 8px; padding: 20px 24px; margin: 28px 0;
+    }
+    .highlight-box p { margin: 0; }
+
+    .stat-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 14px; margin: 26px 0;
+    }
+    .stat {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: 10px; padding: 18px 16px; text-align: center;
+    }
+    .stat .val { font-size: 1.5rem; font-weight: 800; color: var(--orange); line-height: 1.2; }
+    .stat .lbl { font-size: .82rem; color: var(--muted); margin-top: 6px; display: block; }
+
+    .tip-card {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: 12px; padding: 22px 24px; margin: 20px 0;
+      display: flex; gap: 18px; align-items: flex-start;
+    }
+    .tip-card .num {
+      flex: 0 0 34px; height: 34px; border-radius: 50%;
+      background: rgba(255,107,43,.15); border: 1px solid rgba(255,107,43,.35);
+      color: var(--orange); font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .tip-card h3 { margin: 0 0 6px; color: white; font-size: 1.05rem; }
+    .tip-card p:last-child { margin-bottom: 0; }
+
+    table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: .92rem; }
+    th, td { border: 1px solid var(--border); padding: 10px 12px; text-align: left; }
+    th { background: var(--card-bg); color: white; font-weight: 700; }
+
+    .cta-box {
+      background: linear-gradient(135deg, rgba(255,107,43,.12), rgba(255,107,43,.04));
+      border: 1px solid rgba(255,107,43,.35);
+      border-radius: 12px; padding: 32px 28px;
+      display: flex; gap: 24px; align-items: center; flex-wrap: wrap;
+      margin: 40px 0;
+    }
+    .cta-box > div { flex: 1; min-width: 200px; }
+    .cta-box h3 { font-size: 1.15rem; font-weight: 700; color: white; margin-bottom: 8px; margin-top: 0; }
+    .cta-box p { color: #bbb; margin: 0; font-size: .95rem; }
+    .cta-btn {
+      display: inline-block; background: var(--orange); color: white;
+      padding: 13px 26px; border-radius: 8px; text-decoration: none;
+      font-weight: 700; font-size: .95rem; white-space: nowrap; transition: opacity .2s;
+    }
+    .cta-btn:hover { opacity: .85; }
+
+    footer { text-align: center; padding: 32px 24px; border-top: 1px solid var(--border); color: var(--muted); font-size: .85rem; }
+    footer a { color: var(--orange); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo" aria-label="Saturday Online ana sayfa">Saturday<span>.</span></a>
+  <div class="nav-links">
+    <a href="/#hizmetler">Hizmetler</a>
+    <a href="/#referanslar">Referanslar</a>
+    <a href="/blog/index.html">Blog</a>
+    <a href="https://calendly.com/saturdayonlinesolutions/30min" target="_blank" rel="noopener">İletişim</a>
+  </div>
+</nav>
+
+<article>
+  <div class="meta">
+    <span class="cat">Eğitici</span>
+    <span class="date">18 Eylül 2026</span>
+    <span class="read-time">9 dk okuma</span>
+  </div>
+
+  <h1>Sosyal Medya Raporu Nasıl Okunur? KPI'ları Anlamak</h1>
+
+  <p class="lead">
+    Her ay gelen o PDF'te on beş farklı sayı var ve hepsi yukarı bakıyor. Ama işletmenizde hiçbir şey
+    değişmemiş gibi hissediyorsanız, rapor yanlış değil; okuma sıranız yanlış. Bu yazıda bir sosyal medya
+    raporundaki hangi satırın karar değeri taşıdığını, hangisinin sadece iyi göründüğünü ve 2026'da
+    hangi rakamların normal sayıldığını anlatıyoruz.
+  </p>
+
+  <p>
+    Sosyal medya raporu okumak, bilanço okumaya benzer: sayıların kendisi bir şey söylemez, aralarındaki
+    ilişki söyler. Erişimi bilmeden beğeni sayısı, takipçi sayısını bilmeden erişim, dönüşümü bilmeden de
+    trafik anlamsızdır. İşletme sahiplerinin en sık düştüğü hata, raporu yukarıdan aşağı okumaktır.
+    Doğru yöntem, <strong>sondan başa okumaktır</strong>: önce iş sonucuna, sonra o sonucu üreten
+    davranışa, en son da gösterime bakılır.
+  </p>
+
+  <h2>Raporu Üç Katmana Ayırın</h2>
+
+  <p>
+    Karmaşık görünen her rapor aslında üç katmandan oluşur. Hangi sayının hangi katmana ait olduğunu
+    ayırdığınız anda rapor okunur hale gelir.
+  </p>
+
+  <div class="tip-card">
+    <div class="num">1</div>
+    <div>
+      <h3>Görünürlük katmanı</h3>
+      <p>Erişim, gösterim, takipçi sayısı. Kaç kişiye ulaştığınızı söyler, hiçbir şey kanıtlamaz.
+      Bu katman sadece diğer iki katmanın paydası olduğu için önemlidir.</p>
+    </div>
+  </div>
+
+  <div class="tip-card">
+    <div class="num">2</div>
+    <div>
+      <h3>İlgi katmanı</h3>
+      <p>Etkileşim oranı, kaydetme, paylaşma, profil ziyareti, video izlenme süresi. İçeriğin işe
+      yarayıp yaramadığını burası söyler. Algoritmanın da baktığı katman burasıdır.</p>
+    </div>
+  </div>
+
+  <div class="tip-card">
+    <div class="num">3</div>
+    <div>
+      <h3>İş katmanı</h3>
+      <p>Site tıklaması, form doldurma, WhatsApp mesajı, rezervasyon, satış. Bütçenin gerekçesi
+      bu katmandır. Rapor bu katmanla başlamıyorsa, rapor değil sunumdur.</p>
+    </div>
+  </div>
+
+  <div class="highlight-box">
+    <p><strong>Pratik kural:</strong> Üçüncü katmanda hareket yoksa, birinci katmandaki artış size hiçbir
+    şey kazandırmaz. Erişimi iki katına çıkan ama talep sayısı sabit kalan bir hesap, iki kat daha
+    verimsiz çalışıyor demektir.</p>
+  </div>
+
+  <h2>Gerçekten Bakmanız Gereken Altı Metrik</h2>
+
+  <h3>1. Erişime göre etkileşim oranı</h3>
+  <p>
+    Etkileşim oranı iki farklı şekilde hesaplanır ve aradaki fark büyüktür: takipçiye göre ve erişime
+    göre. Takipçiye göre hesap, takipçi sayınız arttıkça otomatik olarak düşer; bu yüzden performansınız
+    aynı kalsa bile rapor kötüleşiyormuş gibi görünür. <strong>Erişime göre etkileşim oranı</strong>
+    ise içeriği gören kaç kişinin tepki verdiğini gösterir ve içerik kalitesinin en dürüst ölçüsüdür.
+    Ajansınızın raporunda hangisinin kullanıldığı yazmıyorsa, ilk sorunuz bu olsun.
+  </p>
+
+  <h3>2. Kaydetme ve paylaşma</h3>
+  <p>
+    Beğeni bir refleks, kaydetme bir niyettir. Bir kullanıcı gönderinizi kaydettiğinde "buna sonra
+    ihtiyacım olacak" demiş olur; paylaştığında ise itibarını sizin içeriğinize yatırır. Platformlar bu
+    iki sinyali beğeniden belirgin biçimde daha ağır tartar; özellikle mesaj yoluyla yapılan paylaşımlar
+    sıralama algoritmasında beğeninin birkaç katı değer taşır. Fiyat listesi, kontrol listesi, "nasıl
+    yapılır" içerikleri kaydetme üretir. Raporunuzda kaydetme sayısı hiç yer almıyorsa, ölçüm eksik
+    demektir.
+  </p>
+
+  <h3>3. Profil ziyareti ve profilden tıklama</h3>
+  <p>
+    Bu iki sayı arasındaki oran, biyografinizin ve vitrininizin ne kadar iyi çalıştığını söyler. Yüz
+    kişi profilinize geliyor ama ikisi linke tıklıyorsa, sorun içerikte değil profildedir. Bu genellikle
+    en hızlı düzeltilen ve en hızlı sonuç veren alandır.
+  </p>
+
+  <h3>4. Takipçi artış hızı</h3>
+  <p>
+    Ham takipçi sayısı değil, artış hızı anlamlıdır. Sağlıklı organik büyümede aylık yüzde 1 ile 2
+    arasındaki bir artış normal kabul edilir; küçük hesaplarda bu oran çok daha yüksek olabilir ve hesap
+    büyüdükçe kaçınılmaz olarak yavaşlar. Bir ayda ani sıçrama görüyorsanız sebebini sorun: viral olan
+    tek bir içerik mi, kampanya mı, yoksa satın alınmış takipçi mi?
+  </p>
+
+  <h3>5. Tek gönderi değil, format performansı</h3>
+  <p>
+    "Bu ay en iyi performans gösteren gönderi" satırı tek başına bir şey öğretmez. Öğretici olan,
+    formatların birbirine göre nasıl performans gösterdiğidir. 2026 verilerinde karusel içeriklerin
+    Instagram'da reels'in yaklaşık iki katı etkileşim oranı ürettiği, Facebook'ta ise albüm formatının
+    öne çıktığı görülüyor. Raporunuz format kırılımı vermiyorsa, gelecek ayın içerik planını neye göre
+    yapacağınız belirsiz kalır.
+  </p>
+
+  <h3>6. Sosyal medyadan gelen trafiğin davranışı</h3>
+  <p>
+    Kaç tıklama geldiğinden çok, gelen kişinin ne yaptığı önemlidir. Sitede üç saniye kalıp çıkan yüz
+    tıklama, iki dakika kalan yirmi tıklamadan değersizdir. Bu veri sosyal medya panelinde değil, site
+    analitiğinizde durur; ikisini birlikte okumak gerekir.
+    <a href="/blog/google-analytics-nasil-kullanilir-isletme-sahipleri-icin.html">Google Analytics kurulum
+    rehberimiz</a> bu bağlantıyı kurmak için yeterli bir başlangıç sunuyor.
+  </p>
+
+  <h2>2026 Kıyaslama Değerleri</h2>
+
+  <p>
+    Rakamınızın iyi mi kötü mü olduğunu anlamak için bir referans gerekir. Aşağıdaki değerler global
+    ortalamalardır; Türkiye'de sektöre ve hesap büyüklüğüne göre sapma gösterir, ancak
+    <strong>büyüklük sırası korunur</strong>.
+  </p>
+
+  <div class="stat-grid">
+    <div class="stat">
+      <div class="val">~0,45%</div>
+      <span class="lbl">Instagram genel etkileşim oranı</span>
+    </div>
+    <div class="stat">
+      <div class="val">~0,07%</div>
+      <span class="lbl">Facebook organik etkileşim medyanı</span>
+    </div>
+    <div class="stat">
+      <div class="val">8-15%</div>
+      <span class="lbl">10 binin altı hesaplarda erişim oranı</span>
+    </div>
+    <div class="stat">
+      <div class="val">1-2%</div>
+      <span class="lbl">Sağlıklı aylık takipçi artışı</span>
+    </div>
+  </div>
+
+  <p>
+    Bu tabloyu okurken dikkat edilecek nokta şu: Facebook'un etkileşim oranının düşük olması hesabınızın
+    kötü olduğu anlamına gelmez, platformun organik erişimi daraltmış olması anlamına gelir. İki platformu
+    aynı eşikle değerlendiren bir rapor, baştan hatalıdır. Sektör de belirleyicidir; perakende ve eğitim
+    gibi alanlarda Instagram etkileşimi yüzde 1,5'in üzerine çıkabilirken kurumsal hizmet sektörlerinde
+    yüzde 0,5 gayet normaldir.
+  </p>
+
+  <div class="cta-box">
+    <div>
+      <h3>Raporunuzu birlikte okuyalım</h3>
+      <p>Mevcut ajans raporunuzu inceleyip hangi metriğin eksik olduğunu ve hangi sayının yanıltıcı olduğunu ücretsiz çıkaralım.</p>
+    </div>
+    <a class="cta-btn" href="https://calendly.com/saturdayonlinesolutions/30min" target="_blank" rel="noopener">Ücretsiz görüşme ayarla</a>
+  </div>
+
+  <h2>Dikkat Edilmesi Gereken Sunum Oyunları</h2>
+
+  <p>
+    Kötü niyet şart değil; alışkanlık da aynı sonucu doğurur. Raporlarda en sık görülen dört yanıltıcı
+    anlatım şöyle:
+  </p>
+
+  <h3>Yüzdeyi verip tabanı vermemek</h3>
+  <p>
+    "Etkileşim yüzde 300 arttı" cümlesi, geçen ay 4 olan sayının bu ay 16 olduğu anlamına geliyor
+    olabilir. Yüzde artışının yanında mutlak sayı yoksa, cümle bilgi değil ambalajdır.
+  </p>
+
+  <h3>Gösterimi erişim gibi sunmak</h3>
+  <p>
+    Gösterim, içeriğin kaç kez ekranda göründüğüdür; erişim ise kaç farklı kişiye ulaştığıdır. Aynı
+    kişiye beş kez görünen bir gönderi, beş gösterim ve bir erişim üretir. Raporlarda büyük görünsün
+    diye gösterim öne çıkarılır, erişim ise küçük punto ile geçilir.
+  </p>
+
+  <h3>Reklam ve organik performansı karıştırmak</h3>
+  <p>
+    Bütçe harcanarak elde edilen erişim ile organik erişimin aynı grafikte toplanması, hesabın organik
+    olarak büyüdüğü izlenimi yaratır. İkisi ayrı raporlanmalıdır; ayrılmadığı sürece reklam bütçesinin
+    verimini ölçmek mümkün değildir.
+    <a href="/blog/meta-reklam-yonetimi-facebook-ve-instagramda-basarinin-sirlari.html">Meta reklam
+    yönetimi yazımız</a> bu ayrımı nasıl kuracağınızı ayrıntılandırıyor.
+  </p>
+
+  <h3>Kıyas dönemini seçmek</h3>
+  <p>
+    Bu ayı geçen ayla değil de yılın en kötü ayıyla karşılaştırmak, grafiği güzelleştirir. Kıyas her
+    zaman aynı mantıkla yapılmalıdır: bir önceki ay ve geçen yılın aynı ayı. Mevsimsel işlerde ikincisi
+    daha anlamlıdır.
+  </p>
+
+  <h2>Ajansınıza Sorulacak Beş Soru</h2>
+
+  <p>
+    Rapor toplantısını verimli kılan şey, doğru sorulardır. Bu beş soru teknik bilgi gerektirmez ama
+    cevapları raporun ne kadar sağlam olduğunu hemen gösterir.
+  </p>
+
+  <ul>
+    <li><strong>Bu ay hangi kararı bu veriye dayanarak değiştirdiniz?</strong> Cevap yoksa, veri
+    toplanıyor ama kullanılmıyor demektir.</li>
+    <li><strong>Etkileşim oranını takipçiye göre mi erişime göre mi hesaplıyorsunuz?</strong> Tereddüt
+    ediliyorsa, yöntem standart değildir.</li>
+    <li><strong>Gelen taleplerin kaçı sosyal medyadan geldi, nasıl biliyoruz?</strong> Ölçüm
+    altyapısının kurulu olup olmadığını bu soru açığa çıkarır.</li>
+    <li><strong>Hangi içerik beklentinin altında kaldı ve neden?</strong> Sadece iyi sonuçların
+    raporlandığı bir sistem öğrenmez.</li>
+    <li><strong>Önümüzdeki ay neyi farklı yapacaksınız?</strong> Rapor geçmişi anlatmakla kalmamalı,
+    bir sonraki adımı tanımlamalıdır.</li>
+  </ul>
+
+  <h2>Raporu Okurken Doğru Zaman Aralığı</h2>
+
+  <p>
+    Aylık rapor yönetim için uygundur, karar için çoğu zaman kısadır. Sosyal medyada tek bir içeriğin
+    beklenmedik performansı ay ortalamasını kolayca bozar. Bu yüzden içerik stratejisiyle ilgili
+    kararları üç aylık trend üzerinden vermek daha sağlıklıdır. Aylık raporda bakılacak şey trend değil,
+    <strong>sapma</strong>dır: normalden belirgin şekilde ayrılan bir sayı varsa sebebi araştırılır.
+  </p>
+  <p>
+    Haftalık bakış ise sadece kampanya dönemlerinde anlamlıdır. Kampanya dışı haftalarda haftalık
+    dalgalanmaya tepki vermek, içerik planını gereksiz yere savurur. Planı istikrarlı tutmanın yolu için
+    <a href="/blog/sosyal-medya-icerik-takvimi-nasil-olusturulur.html">içerik takvimi oluşturma
+    rehberimize</a> göz atabilirsiniz.
+  </p>
+
+  <h2>Sık Sorulan Sorular</h2>
+
+  <h3>Takipçi sayım artmıyor, rapor kötü mü?</h3>
+  <p>
+    Zorunlu olarak değil. Talep sayısı artıyorsa hesap işini yapıyor demektir. Takipçi sayısı,
+    satış yapan hesaplarda büyümenin nedeni değil sonucudur. Kaydetme, profil ziyareti ve mesaj
+    sayılarına bakın; bunlar artıyorsa takipçi de zamanla gelir.
+  </p>
+
+  <h3>Etkileşim oranım düştü ama erişimim arttı, bu kötü mü?</h3>
+  <p>
+    Genellikle hayır. Erişim yeni ve sizi tanımayan kişilere açıldıkça oran doğal olarak düşer. Önemli
+    olan mutlak etkileşim sayısının artıp artmadığıdır. Erişim iki kat artmış, oran üçte bir düşmüşse,
+    toplam etkileşim yine de artmıştır.
+  </p>
+
+  <h3>Rapor kaç sayfa olmalı?</h3>
+  <p>
+    Sayfa sayısı bir kalite göstergesi değildir. İyi bir rapor, ilk sayfada iş sonucunu, ikinci sayfada
+    o sonucu üreten davranışı, ekinde ise ham veriyi verir. Otuz sayfalık ekran görüntüsü derlemesi,
+    genellikle ilk sayfada söylenecek bir şey olmadığı anlamına gelir.
+  </p>
+
+  <h3>Hangi metrik en önemlisi?</h3>
+  <p>
+    Tek bir metrik yoktur, ama işletmenizin hedefine en yakın olanı seçmelisiniz. Randevu ile çalışan
+    bir işletmede mesaj sayısı, e-ticarette site tıklaması ve dönüşüm oranı, marka bilinirliği
+    hedefleyen bir işletmede ise erişim ve paylaşma öne çıkar. Ölçütü hedef belirler.
+  </p>
+
+  <h2>Özetle</h2>
+
+  <p>
+    İyi bir sosyal medya raporu, sayı sunmaz; bir sonraki kararı kolaylaştırır. Raporu sondan başa okuyun:
+    önce iş sonucu, sonra ilgi, en son görünürlük. Erişime göre hesaplanmış etkileşim oranına, kaydetme
+    ve paylaşma sayılarına, profilden tıklama oranına bakın. Yüzde artışlarının yanında mutlak sayıyı,
+    reklam performansının yanında organik performansı ayrı görün.
+  </p>
+  <p>
+    Bu alışkanlığı kurduğunuzda rapor bir zorunluluk olmaktan çıkar, bütçenizi nereye yönlendireceğinizi
+    söyleyen bir araca dönüşür. Trafiğin gelip satışa dönmediği noktaları ayıklamak içinse
+    <a href="/blog/donusum-orani-optimizasyonu-trafigi-satisa-cevirin.html">dönüşüm oranı optimizasyonu
+    yazımız</a> ayrı bir kontrol listesi sunuyor.
+  </p>
+  <p>
+    Elinizdeki raporu birlikte inceleyip hangi metriklerin eksik olduğunu ve hangi sayıların yanıltıcı
+    okunduğunu çıkarabiliriz.
+  </p>
+</article>
+
+<footer>
+  <p>Saturday Online &mdash; İzmir merkezli dijital pazarlama ajansı &middot; <a href="/blog/index.html">Tüm yazılar</a></p>
+</footer>
+
+</body>
+</html>
