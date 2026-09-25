@@ -402,6 +402,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/icerik-uretimini-dis-kaynak-mi-kullansam.html" class="card" data-cat="Karar">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Karar</span>
+          <span class="card-date">25 Eylül 2026</span>
+        </div>
+        <h2>İçerik Üretimini Dış Kaynak mı Kullansam?</h2>
+        <div class="card-kw">🔍 içerik dış kaynak kullanımı</div>
+      </div>
+    </a>
     <a href="/blog/perakende-magazalar-icin-dijital-pazarlama-online-offline-entegrasyon.html" class="card" data-cat="Niş">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1288,6 +1299,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "icerik-uretimini-dis-kaynak-mi-kullansam",
+    title: "İçerik Üretimini Dış Kaynak mı Kullansam?",
+    category: "Karar",
+    date: "2026-09-25",
+    keyword: "içerik dış kaynak kullanımı",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "perakende-magazalar-icin-dijital-pazarlama-online-offline-entegrasyon",
     title: "Perakende Mağazalar İçin Dijital Pazarlama: Online-Offline Entegrasyon",
