@@ -1,6 +1,6 @@
 # B2B Şirketler İçin Dijital Pazarlama: LinkedIn ve Ötesi
 
-> B2B dijital pazarlama rehberi: LinkedIn şirket sayfası ve reklam kurulumu, karar verici haritası, içerik takvimi, uzun satış döngüsünü yönetme, e-posta ve SEO ile talep üretme.
+> B2B dijital pazarlama rehberi: LinkedIn sayfası ve reklamları, karar verici haritası, uzun satış döngüsü, e-posta ve SEO ile talep üretme.
 
 B2B'de satış, bir kişinin "beğendim, alıyorum" demesiyle bitmez. Teklifi isteyen kişi ile parayı onaylayan kişi genellikle farklıdır, araya teknik ekip girer, süreç aylara yayılır. Bu yüzden B2C'de işleyen "gör, tıkla, satın al" mantığı B2B'de çalışmaz. Bu yazı, LinkedIn'i merkeze alan ama ona sıkışmayan bir **B2B dijital pazarlama** düzeninin nasıl kurulacağını anlatıyor.
 

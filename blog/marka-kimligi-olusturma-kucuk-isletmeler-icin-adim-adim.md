@@ -1,6 +1,6 @@
 # Marka Kimliği Oluşturma: Küçük İşletmeler İçin Adım Adım
 
-> Marka kimliği oluşturma sürecini 8 adımda öğrenin. Konumlandırma, ton, renk paleti, tipografi, logo ve marka rehberi — küçük işletmeler için pratik ve bütçe dostu bir yol haritası.
+> Marka kimliği 8 adımda: konumlandırma, ton, renk, tipografi, logo ve marka rehberi. Küçük işletmeler için bütçe dostu yol haritası.
 
 Marka kimliği, pahalı bir logo değildir. Müşterinizin sizi hatırlama biçimidir. Ve iyi haber şu: küçük bir işletme, doğru sırayla ilerlediğinde büyük bütçelere ihtiyaç duymadan çok tutarlı bir marka kurabilir. Bu rehber, o sırayı adım adım anlatıyor.
 

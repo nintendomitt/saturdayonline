@@ -1,6 +1,6 @@
 # Yazlık Sezonu Pazarlama: Turizm ve Konaklama İşletmeleri
 
-> 2026 yaz sezonunda turizm ve konaklama işletmeleri için dijital pazarlama rehberi: güven odaklı kanal stratejisi, erken rezervasyon, influencer ve sürdürülebilirlik.
+> 2026 yaz sezonunda turizm ve konaklama işletmeleri için dijital pazarlama: kanal stratejisi, erken rezervasyon, influencer ve sürdürülebilirlik.
 
 2026 yazı, Türkiye turizm sektörü için hem fırsat hem de belirsizlik dolu geçiyor. Temmuz ayında oteller neredeyse tam dolulığa ulaşırken, Mayıs'ta doluluk oranı %49'da kalmıştı — arz artışı talebin önüne geçti. Aynı zamanda erken rezervasyon avantajları giderek azalıyor, son dakika rezervasyonları öne çıkıyor. Bu dalgalı tabloda turizm ve konaklama işletmelerinin yaz sezonu pazarlamasını nasıl kurması gerektiğini, hangi kanala ne kadar bütçe ayırması gerektiğini ve 2026'nın öne çıkan "güven odaklı" yaklaşımını bu rehberde ele alıyoruz.
 

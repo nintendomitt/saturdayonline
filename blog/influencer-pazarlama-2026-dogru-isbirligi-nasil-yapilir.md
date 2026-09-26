@@ -1,6 +1,6 @@
 # Influencer Pazarlama 2026: Doğru İşbirliği Nasıl Yapılır?
 
-> Influencer pazarlama 2026 rehberi. Türkiye'de mikro ve makro influencer seçimi, işbirliği brief'i hazırlama, ROI ölçümü ve yasal zorunluluklar hakkında kapsamlı bilgi.
+> Influencer pazarlama 2026: Türkiye'de mikro ve makro influencer seçimi, brief hazırlama, ROI ölçümü ve yasal zorunluluklar.
 
 Türkiye'de influencer pazarlama artık "deneyelim mi?" sorusunu geçti; "nasıl doğru yaparız?" sorusuna geçildi. Küçük ve orta ölçekli işletmeler bile artık sosyal medyada içerik üreticileriyle işbirliği yapıyor — ama büyük çoğunluğu bütçesini yanlış yerde harcıyor.
 

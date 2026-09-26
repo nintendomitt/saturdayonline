@@ -1,6 +1,6 @@
 # Sosyal Medya Danışmanlığı: Ajans mı, Freelancer mı?
 
-> Sosyal medya danışmanlığı için ajans mı freelancer mı seçmelisiniz? 2026 fiyat karşılaştırması, avantaj-dezavantaj analizi ve işletmenize uygun kararı vermenizi sağlayacak rehber.
+> Sosyal medya danışmanlığında ajans mı freelancer mı? 2026 fiyat karşılaştırması, artı-eksi analizi ve işletmenize uygun karar rehberi.
 
 [Sosyal medya](/blog/sosyal-medya-yonetimi-kendiniz-mi-ajansa-mi-birakin.html) hesaplarınızı artık kendiniz yönetemeyeceğinize karar verdiniz. Doğru karar — işletme sahibi olarak sizin işiniz içerik üretmek değil, işinizi büyütmek. Ama şimdi ikinci ve daha zor soru geliyor: bu işi bir ajansa mı vermelisiniz, yoksa bir freelancer ile mi çalışmalısınız?
 

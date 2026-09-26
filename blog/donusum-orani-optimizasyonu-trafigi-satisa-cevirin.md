@@ -1,6 +1,6 @@
 # Dönüşüm Oranı Optimizasyonu: Trafiği Satışa Çevirin
 
-> Dönüşüm oranı optimizasyonu (CRO) nedir, nasıl yapılır? Huni analizi, hipotez yazımı, A/B testi kurulumu ve en sık karşılaşılan 6 dönüşüm engeli — 90 günlük CRO programı.
+> Dönüşüm oranı optimizasyonu (CRO) nasıl yapılır? Huni analizi, hipotez, A/B testi, en sık 6 dönüşüm engeli ve 90 günlük CRO programı.
 
 Trafik almak pahalıdır; o trafiği satışa çevirmek ise büyük ölçüde bedavadır. Dönüşüm oranı optimizasyonu (CRO), aynı ziyaretçi sayısıyla daha fazla satış üretme disiplinidir. Bu rehber, CRO'yu "buton rengini değiştirmek" seviyesinden çıkarıp **ölçülebilir bir sürece** dönüştürmenin adımlarını anlatıyor.
 

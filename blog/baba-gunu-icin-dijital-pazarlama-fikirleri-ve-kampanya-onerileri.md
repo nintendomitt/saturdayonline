@@ -1,6 +1,6 @@
 # Baba Günü Dijital Pazarlama Fikirleri | Saturday Online
 
-> Baba Günü 2026 için işletmenizde uygulayabileceğiniz en etkili dijital pazarlama kampanya fikirleri. Sosyal medya, e-posta, reklam stratejileri ve içerik önerileri.
+> Baba Günü 2026 için uygulanabilir dijital kampanya fikirleri: sosyal medya, e-posta ve reklam stratejileri, içerik önerileri.
 
 Her yıl Haziran'ın üçüncü Pazar günü kutlanan Baba Günü, Türkiye'deki işletmeler için ciddi bir satış ve marka bilinirliği fırsatı sunuyor. Bu rehberde, kampanyanızı sıfırdan planlamanıza yardımcı olacak somut [dijital pazarlama](/blog/dijital-pazarlama-nedir-isletmeler-icin-baslangic-rehberi.html) fikirlerini, platform bazlı taktikleri ve zamanlama stratejilerini bulacaksınız.
 

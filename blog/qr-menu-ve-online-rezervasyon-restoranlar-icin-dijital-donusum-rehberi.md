@@ -1,6 +1,6 @@
 # QR Menü ve Online Rezervasyon
 
-> QR menü ve online rezervasyon sistemleri restoranlarda artık standart. 2026'da yasal durum, maliyetler, avantajlar ve doğru kurulum adımlarını bu rehberde bulun.
+> Restoranlar için QR menü ve online rezervasyon: 2026'da yasal durum, maliyetler, avantajlar ve doğru kurulum adımları.
 
 Kağıt menü çoktan geride kaldı. 2026'da müşteriler masaya oturur oturmaz QR kod okutup menüye bakmayı, birkaç tıkla rezervasyon yapmayı bekliyor. Bu rehberde QR menünün yasal durumunu, maliyetlerini, online rezervasyon entegrasyonunu ve restoranınız için doğru dijital dönüşüm stratejisini anlatıyoruz.
 

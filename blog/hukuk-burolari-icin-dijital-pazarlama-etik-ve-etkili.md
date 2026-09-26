@@ -1,6 +1,6 @@
 # Hukuk Büroları İçin Dijital Pazarlama: Etik ve Etkili
 
-> Avukatlık Kanunu ve TBB Reklam Yasağı Yönetmeliği sınırları içinde hukuk bürosu dijital pazarlama rehberi: yasal çerçeve, organik SEO, içerik ve yerel görünürlük 2026.
+> Avukatlık Kanunu ve TBB reklam yasağı sınırları içinde hukuk bürosu dijital pazarlaması: yasal çerçeve, SEO, içerik ve yerel görünürlük.
 
 Bir avukatlık bürosu için "dijital pazarlama" kelimesi, diğer sektörlerde olduğu gibi serbestçe kullanılamaz. 1136 sayılı Avukatlık Kanunu'nun 55. maddesi ve Türkiye Barolar Birliği'nin (TBB) reklam yasağına ilişkin düzenlemeleri, avukatların iş elde etmek amacıyla reklam sayılabilecek her türlü girişimde bulunmasını yasaklıyor. Peki bu sınırlar içinde hukuk bürosu dijital pazarlama nasıl yapılır, hangi kanallar tamamen serbest, hangileri kesinlikle yasak? Bu rehberde 2026 güncel mevzuatı ve etik sınırlar içinde kalarak görünürlük kazanmanın yollarını ele alıyoruz.
 

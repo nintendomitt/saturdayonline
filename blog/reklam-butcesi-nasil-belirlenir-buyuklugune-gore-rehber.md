@@ -1,6 +1,6 @@
 # Reklam Bütçesi Nasıl Belirlenir? Büyüklüğüne Göre Rehber
 
-> Reklam bütçesi nasıl hesaplanır? Ciro yüzdesi, hedeften geriye hesaplama ve müşteri yaşam boyu değeri yöntemleri, kanal dağılımı, sezonluk planlama ve 6 yaygın hata.
+> Reklam bütçesi nasıl hesaplanır? Ciro yüzdesi, hedeften geriye hesap, müşteri yaşam boyu değeri, kanal dağılımı ve 6 yaygın hata.
 
 "Reklama ne kadar ayırmalıyım?" sorusunun tek bir doğru cevabı yok — ama **yanlış cevaplama yöntemi** var: rakibe bakarak, geçen yılın rakamını tekrarlayarak veya "elimizde bu kadar var" diyerek. Bu rehber, bütçeyi işletme büyüklüğüne ve hedefe göre hesaplamanın üç yöntemini ve bütçenin kanallar arasında nasıl dağıtılacağını anlatıyor.
 

@@ -1,6 +1,6 @@
 # Eğitim Sektöründe Dijital Pazarlama: Kurs ve Akademiler
 
-> Kurs, akademi ve özel eğitim kurumları için dijital pazarlama rehberi: kayıt sezonu takvimi, öğrenci başına maliyet, veli hedefleme, Meta ve Google reklamları, e-posta ve yerel SEO.
+> Kurs ve akademiler için dijital pazarlama: kayıt sezonu takvimi, öğrenci başına maliyet, veli hedefleme, Meta ve Google reklamları, yerel SEO.
 
 Eğitim, dijital pazarlamanın en zor ve en ödüllendirici kategorilerinden biri. Zor, çünkü kimse bir kursa tıkladığı gibi kaydolmuyor. Ödüllendirici, çünkü bir kez kazandığınız öğrenci hem uzun süre kalıyor hem de yeni öğrenci getiriyor. Bu yazı, kurs merkezleri, özel akademiler ve online eğitim markaları için işleyen bir dijital pazarlama düzeninin nasıl kurulacağını anlatıyor.
 

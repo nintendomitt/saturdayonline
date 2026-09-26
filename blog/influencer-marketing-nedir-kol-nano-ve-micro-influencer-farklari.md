@@ -1,6 +1,6 @@
 # Influencer Marketing Nedir?
 
-> Influencer marketing nedir? KOL, nano, micro, macro ve mega influencer farkları, 2026 Türkiye fiyatları, moda markaları için işbirliği stratejileri ve bütçe rehberi.
+> Influencer marketing nedir? KOL, nano, micro ve macro influencer farkları, 2026 Türkiye fiyatları ve moda markaları için işbirliği rehberi.
 
 Bir giyim markası kurdunuz, ürünleriniz güzel, Instagram sayfanız düzenli — ama satışlar istediğiniz seviyede değil. Rakipleriniz ise sürekli influencer'larla içerik yayınlıyor ve stokları eriyor. İşte tam bu noktada karşınıza çıkan soru: **influencer marketing nedir**, gerçekten işe yarar mı ve KOL, nano, micro gibi kavramlar arasındaki fark bütçenizi nasıl etkiler? Bu rehberde 2026 Türkiye pazarının güncel rakamlarıyla hepsini masaya yatırıyoruz.
 

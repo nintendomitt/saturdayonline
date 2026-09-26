@@ -1,6 +1,6 @@
 # İzmir Dijital Pazarlama Ajansı | Saturday Online
 
-> İzmir'de Meta reklamları, Google Ads ve sosyal medya yönetimi. Karşıyaka'dan Çeşme'ye tüm ilçelere hizmet. Google'da 5.0 puan, 21 değerlendirme. Ücretsiz görüşme.
+> İzmir'de Meta reklamları, Google Ads ve sosyal medya yönetimi. Karşıyaka'dan Çeşme'ye tüm ilçeler. Google'da 5.0 puan. Ücretsiz görüşme.
 
 [Ana Sayfa](/) › İzmir Dijital Pazarlama Ajansı
 

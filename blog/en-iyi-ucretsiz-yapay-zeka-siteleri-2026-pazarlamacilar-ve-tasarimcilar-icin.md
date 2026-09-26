@@ -1,6 +1,6 @@
 # En İyi Ücretsiz Yapay Zeka Siteleri 2026
 
-> Pazarlamacılar ve tasarımcılar için 2026'nın en iyi ücretsiz yapay zeka siteleri: metin, görsel, video ve tasarım araçları. ChatGPT, Gemini, Canva AI, Higgsfield ve daha fazlası.
+> Pazarlamacı ve tasarımcılar için 2026'nın en iyi ücretsiz yapay zeka siteleri: metin, görsel, video ve tasarım araçları bir arada.
 
 Yapay Zeka
 Ücretsiz Araçlar

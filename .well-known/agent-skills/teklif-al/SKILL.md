@@ -38,7 +38,7 @@ Bu soruları soran hazır akış: https://saturdayonline.co/teklif.html
 
 - Web: https://saturdayonline.co
 - WhatsApp: https://wa.me/905548847178
-- E-posta: saturdayonlinesolutions@gmail.com
+- E-posta: hello@saturdayonline.co
 - Konum: İzmir, Türkiye (Türkiye geneline uzaktan hizmet)
 
 ## Hizmet kapsamı

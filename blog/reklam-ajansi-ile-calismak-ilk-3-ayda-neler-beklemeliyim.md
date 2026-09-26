@@ -1,6 +1,6 @@
 # Reklam Ajansı ile Çalışmak: İlk 3 Ayda Neler Beklemeliyim?
 
-> Reklam ajansı ile çalışmanın ilk 90 günü: ay ay ne olur, hangi metrikler ne zaman düzelir, öğrenme aşaması ne kadar sürer ve ajansı ne zaman değerlendirmelisiniz?
+> Reklam ajansıyla ilk 90 gün: ay ay neler olur, metrikler ne zaman düzelir, öğrenme aşaması ne sürer ve ajansı ne zaman değerlendirmeli?
 
 Sözleşme imzalandı, ilk fatura kesildi ve şimdi sessiz bir bekleme dönemi başladı. **Reklam ajansı ile çalışmak** konusunda en çok yaşanan hayal kırıklığı, ajansın kötü olmasından değil; ilk 90 günde neyin ne zaman olacağının hiç konuşulmamış olmasından kaynaklanıyor. Bu yazı, bir ajansla çalışmanın ilk üç ayını ay ay açıyor: hangi hafta ne teslim edilir, hangi metrik ne zaman anlam kazanır ve hangi noktada endişelenmeniz gerekir.
 

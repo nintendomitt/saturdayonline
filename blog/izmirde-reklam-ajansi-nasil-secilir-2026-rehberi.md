@@ -1,6 +1,6 @@
 # İzmir'de Reklam Ajansı Nasıl Seçilir? 2026 Rehberi
 
-> İzmir'de reklam ajansı seçerken nelere dikkat edilmeli? Yerel pazar dinamikleri, fiyat karşılaştırma tablosu, yerel SEO kontrol listesi ve ilk görüşmede sorulacak 10 soru.
+> İzmir'de reklam ajansı nasıl seçilir? Yerel pazar, fiyat karşılaştırma tablosu, yerel SEO kontrol listesi ve ilk görüşmede sorulacak 10 soru.
 
 İzmir'de [reklam ajansı](/blog/reklam-ajansi-ile-calismak-ilk-3-ayda-neler-beklemeliyim.html) seçmek, İstanbul'da ajans seçmekten farklı bir problem. Pazar daha küçük, ekipler daha az kişilik, referanslar birbirine daha yakın. Bu bir dezavantaj değil — doğru okunursa **avantaj**. Bu rehber, İzmir pazarına özgü dinamikleri ve sözleşme öncesi netleştirmeniz gereken maddeleri açıklıyor.
 

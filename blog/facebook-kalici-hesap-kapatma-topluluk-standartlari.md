@@ -1,6 +1,6 @@
 # Facebook Kalıcı Hesap Kapatma
 
-> Facebook hesabınız topluluk standartları gerekçesiyle kalıcı olarak kapatıldıysa standart itiraz formları işe yaramıyor. Saturday Online olarak Türkiye'de bu vakalarla bizzat ilgileniyor, hesapları kurtarıyoruz.
+> Facebook hesabınız topluluk standartları gerekçesiyle kalıcı kapatıldıysa itiraz formu yetmez. Türkiye'de bu vakalarla bizzat ilgileniyoruz.
 
 Facebook hesabınız kalıcı olarak kapatıldı. Topluluk standartlarına aykırı davrandığınız söyleniyor; ama hangi paylaşım, hangi yorum, hangi eylem — bunu bile göremiyorsunuz. İtiraz formunu doldurdunuz, otomatik bir yanıt geldi. Yeni hesap açtınız, o da kapandı. Arkadaşlarınıza sordunuz, kimse çözemedi. Google'da aradınız, aynı genel bilgiler.
 

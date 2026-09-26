@@ -1,6 +1,6 @@
 # Backlink Nedir? SEO'da Neden Bu Kadar Önemli?
 
-> Backlink nedir, nasıl kazanılır ve SEO sıralamalarını neden bu kadar etkiler? Dofollow-nofollow farkı, kaliteli backlink kriterleri, güvenli link kazanma yöntemleri ve satın alınan linklerin riskleri.
+> Backlink nedir, nasıl kazanılır? Dofollow-nofollow farkı, kaliteli link kriterleri, güvenli link kazanma yolları ve satın alınan linklerin riskleri.
 
 Google'ın sıralama kararlarını etkileyen yüzlerce sinyal var, ama bunların içinde en eskisi ve en dirençlisi hâlâ aynı: başka siteler sizden bahsediyor mu? Backlink, internetin referans mektubudur — ve doğru kazanıldığında yıllarca çalışır, yanlış kazanıldığında sitenizi cezalandırır.
 

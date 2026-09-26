@@ -1,6 +1,6 @@
 # Ürün Fotoğrafçılığı: Dijital Pazarlamada Görsel Gücü
 
-> Ürün fotoğrafçılığı dijital pazarlamada dönüşümü nasıl etkiler? Çoklu açı, 360 görsel, stüdyo ve yaşam tarzı çekimi, telefonla profesyonel çekim ve iade oranı üzerine pratik rehber.
+> Ürün fotoğrafı dönüşümü nasıl etkiler? Çoklu açı, 360 görsel, stüdyo ve yaşam tarzı çekimi, telefonla profesyonel çekim ve iade oranı.
 
 Bugün Dünya Fotoğraf Günü. Bu, fotoğrafın işletmeniz için ne anlama geldiğini konuşmak için iyi bir bahane — çünkü dijital pazarlamada ürün fotoğrafı bir "süsleme" değil, **satış konuşmanızın ilk cümlesi**. Müşteri metninizi okumadan önce görselinize bakar ve kararının önemli bir kısmını orada verir.
 

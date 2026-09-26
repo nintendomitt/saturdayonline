@@ -1,6 +1,6 @@
 # E-posta Pazarlama Nedir? 2026'da Hala Çalışıyor mu?
 
-> E-posta pazarlama nedir, nasıl kurulur ve 2026'da hala işe yarıyor mu? İYS ve KVKK uyumu, liste kurma, segmentasyon, otomasyon akışları ve gerçekçi açılma oranı hedefleri.
+> E-posta pazarlama 2026'da hâlâ işe yarıyor mu? İYS ve KVKK uyumu, liste kurma, segmentasyon, otomasyon akışları ve gerçekçi açılma oranları.
 
 Her yıl birileri "e-posta öldü" diyor, her yıl e-posta hayatta kalıyor. 2026'da durum şu: **toplu gönderim öldü, e-posta pazarlama yaşıyor.** Aradaki fark, listeyi nasıl kurduğunuz ve kime ne gönderdiğinizle ilgili. Bu rehber, e-posta pazarlamanın ne olduğunu, Türkiye'deki yasal çerçevesini ve sıfırdan nasıl kurulacağını anlatıyor.
 

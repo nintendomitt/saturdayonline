@@ -1,6 +1,6 @@
 # Instagram Reklam Ajansı Seçerken 8 Kritik Nokta
 
-> Instagram reklam ajansı seçerken nelere dikkat edilmeli? Ücret modelleri, hesap sahipliği, raporlama, kreatif üretim ve sözleşme maddeleri — 2026 için 8 kritik kontrol noktası.
+> Instagram reklam ajansı seçerken 8 kritik nokta: ücret modeli, hesap sahipliği, raporlama, kreatif üretim ve sözleşme maddeleri.
 
 Instagram [reklam ajansı](/blog/izmirde-reklam-ajansi-nasil-secilir-2026-rehberi.html) seçimi, aslında bir tasarım tercihinden çok bir **risk yönetimi** kararıdır. Yanlış ajansla çalışan bir işletme sadece bütçe kaybetmez; reklam hesabını, piksel verisini ve aylarca biriktirdiği öğrenme geçmişini de kaybedebilir. Bu rehber, sözleşmeyi imzalamadan önce netleştirmeniz gereken 8 noktayı sıralıyor.
 

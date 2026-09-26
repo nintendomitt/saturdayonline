@@ -1,6 +1,6 @@
 # A/B Testi Nedir? Reklam Optimizasyonunun Temeli
 
-> A/B testi nedir, nasıl kurulur ve reklam bütçenizi nasıl korur? Google Ads ve Meta reklamlarında doğru A/B testi kurulumunu, örnek senaryoları ve sık yapılan hataları bu rehberde bulun.
+> A/B testi nedir, nasıl kurulur? Google Ads ve Meta reklamlarında doğru test kurulumu, örnek senaryolar ve bütçeyi boşa harcatan sık hatalar.
 
 Reklam bütçenizin ne kadarının çalıştığını gerçekten biliyor musunuz? "Bence bu görsel daha iyi" cümlesi bir strateji değil, bir tahmindir. A/B testi, tahmini veriye çeviren en basit ve en güçlü yöntemdir — ve doğru kurulduğunda aynı bütçeyle çok daha fazla müşteri getirir.
 

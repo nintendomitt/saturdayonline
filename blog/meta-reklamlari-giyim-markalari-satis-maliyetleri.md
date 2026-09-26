@@ -1,6 +1,6 @@
 # Giyim Markası Meta Reklam Maliyeti 2026 | Saturday Online
 
-> Giyim markası olarak Meta reklamlarına ne kadar bütçe ayırmalısınız? Facebook ve Instagram reklam maliyetleri, ROAS, CPA ve ürün başına düşen ortalama maliyetler.
+> Giyim markası Meta reklamlarına ne kadar bütçe ayırmalı? Facebook ve Instagram reklam maliyetleri, ROAS, CPA ve ürün başına maliyet.
 
 [← Tüm Yazılar](/blog/index.html)
 

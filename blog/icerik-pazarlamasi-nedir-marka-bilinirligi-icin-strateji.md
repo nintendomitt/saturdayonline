@@ -1,6 +1,6 @@
 # İçerik Pazarlaması Nedir? Marka Bilinirliği İçin Strateji
 
-> İçerik pazarlaması nedir, hangi formatları kapsar ve marka bilinirliğinizi nasıl artırır? Küçük ve orta ölçekli işletmeler için adım adım içerik stratejisi rehberi.
+> İçerik pazarlaması nedir, hangi formatları kapsar? KOBİ'ler için marka bilinirliğini artıran adım adım içerik stratejisi rehberi.
 
 [Reklam bütçesi](/blog/reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber.html) her yıl daha da pahalılaşırken, işletmelerin dikkatini çeken bir şey var: kaliteli içerik hâlâ ücretsiz ve kalıcı bir güven inşa ediyor. Bu rehberde **içerik pazarlaması nedir**, hangi formatları kapsar ve küçük bir işletme bunu nasıl sistematik bir stratejiye dönüştürür, adım adım anlatıyoruz.
 

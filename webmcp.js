@@ -97,7 +97,7 @@
             ad: 'Saturday Online',
             tanim: 'İzmir merkezli, performans odaklı dijital pazarlama ajansı',
             web: 'https://saturdayonline.co',
-            eposta: 'saturdayonlinesolutions@gmail.com',
+            eposta: 'hello@saturdayonline.co',
             whatsapp: 'https://wa.me/905548847178',
             telefon: '+905548847178',
             konum: 'İzmir, Türkiye',

@@ -9,6 +9,7 @@ Her HTML sayfasının yanında Markdown sürümü vardır: `/blog/ornek.html` �
 - Unvan: Saturday Online Dijital Hizmetler A.Ş.
 - Adres: Atatürk Mah. 26/43, Seferihisar, İzmir, Türkiye
 - Telefon / WhatsApp: +90 554 884 71 78
+- E-posta: hello@saturdayonline.co
 - Web: https://saturdayonline.co
 - Hizmet alanı: İzmir (yüz yüze) ve Türkiye geneli (uzaktan)
 - Çalışma saatleri: Hafta içi 09:00–18:00

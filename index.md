@@ -1,6 +1,6 @@
 # Saturday Online | Dijital Pazarlama Ajansı — İzmir
 
-> İzmir'in performans odaklı dijital pazarlama ajansı. Meta reklamları, sosyal medya yönetimi ve pazarlama otomasyonuyla markanızı büyütüyoruz. Ücretsiz teklif alın.
+> İzmir dijital pazarlama ajansı Saturday Online: Meta ve Google reklamları, sosyal medya yönetimi ve pazarlama otomasyonu. Ücretsiz teklif alın.
 
 İzmir'in Dijital Ajansı
 

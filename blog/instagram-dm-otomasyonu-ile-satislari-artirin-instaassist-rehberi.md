@@ -1,6 +1,6 @@
 # Instagram DM Otomasyonu ile Satış Artırma | Saturday Online
 
-> Instagram DM otomasyonu ile 7/24 satış yapın. InstaAssist ile otomatik mesaj akışları kurun, potansiyel müşterileri anında yakalayın. Türkiye'deki işletmeler için tam rehber.
+> Instagram DM otomasyonu ile 7/24 satış: InstaAssist ile otomatik mesaj akışları kurun, potansiyel müşteriyi anında yakalayın.
 
 [← Blog'a Dön](/blog/)
 

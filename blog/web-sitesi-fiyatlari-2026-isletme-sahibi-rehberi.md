@@ -1,6 +1,6 @@
 # Web Sitesi Fiyatları 2026: İşletme Sahibi Rehberi
 
-> 2026'da web sitesi ne kadara mal olur? Tanıtım sitesinden kurumsal ve e-ticaret projelerine kadar güncel fiyat aralıkları, gizli maliyetler ve bütçe planlama rehberi.
+> 2026'da web sitesi ne kadara mal olur? Tanıtım, kurumsal ve e-ticaret siteleri için güncel fiyat aralıkları, gizli maliyetler ve bütçe planı.
 
 "Web sitesi ne kadar tutar?" sorusunun tek bir doğru cevabı yok. 2026'da basit bir tanıtım sitesi 10.000 TL'ye mal olabilirken, stratejik kurumsal bir proje 250.000 TL'yi bulabiliyor. Bu rehberde fiyatı belirleyen faktörleri, gizli maliyetleri ve bütçenizi doğru planlamanın yollarını anlatıyoruz.
 

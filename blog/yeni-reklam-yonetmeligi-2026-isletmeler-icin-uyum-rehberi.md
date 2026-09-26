@@ -1,6 +1,6 @@
 # Yeni Reklam Yönetmeliği 2026: İşletmeler İçin Uyum Rehberi
 
-> 1 Ağustos 2026'da yürürlüğe giren Ticari Reklam Yönetmeliği değişiklikleri: influencer etiketleri, yapay zeka reklamları, indirim kuralları ve tüketici yorumları. İşletmeler için madde madde uyum rehberi.
+> 1 Ağustos 2026'da yürürlüğe giren Ticari Reklam Yönetmeliği: influencer etiketleri, yapay zeka reklamları, indirim kuralları. Uyum rehberi.
 
 1 Temmuz 2026 tarihli Resmî Gazete'de yayımlanan **Ticari Reklam ve Haksız Ticari Uygulamalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik**, 1 Ağustos 2026 itibarıyla yürürlüğe girdi. Influencer etiketlerinden yapay zeka ile üretilen reklamlara, indirim fiyatlandırmasından tüketici yorumlarına kadar 14 maddede kapsamlı değişiklik var. Bu rehber, kuralları hukuk diliyle değil işletme diliyle anlatıyor.
 

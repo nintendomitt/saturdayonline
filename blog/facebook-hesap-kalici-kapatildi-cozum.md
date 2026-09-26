@@ -1,6 +1,6 @@
 # Facebook Hesabı Kalıcı Kapatıldıysa Çözüm | Saturday Online
 
-> Facebook hesabınız kalıcı olarak devre dışı mı bırakıldı? Standart yollar işe yaramıyor mu? Meta Verified ile Meta destek ekibine ulaşmanın adım adım yolu burada.
+> Facebook hesabınız kalıcı olarak kapatıldı ve standart itirazlar işe yaramadı mı? Meta Verified ile destek ekibine ulaşmanın adım adım yolu.
 
 Facebook
 Hesap Güvenliği

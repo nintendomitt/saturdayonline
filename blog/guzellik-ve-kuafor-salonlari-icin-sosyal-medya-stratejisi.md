@@ -1,6 +1,6 @@
 # Güzellik ve Kuaför Salonları İçin Sosyal Medya Stratejisi
 
-> Güzellik salonu ve kuaförler için sosyal medya rehberi: öncesi-sonrası içerik kuralları, Reels planı, randevu dönüşümü, Google İşletme Profili, yerel reklam ve yasal sınırlar.
+> Güzellik salonu ve kuaförler için sosyal medya: öncesi-sonrası kuralları, Reels planı, randevu dönüşümü, Google İşletme Profili ve yasal sınırlar.
 
 Güzellik sektöründe [sosyal medya](/blog/sosyal-medya-reklam-ajansi-secerken-dikkat-edilmesi-gerekenler.html) bir vitrin değil, randevu defterinin uzantısıdır. Müşteri sizi önce Instagram'da görür, sonra Google'da yorumlarınıza bakar, en son telefonu eline alır. Bu yazı, salon sahipleri için takipçi değil **randevu** üreten bir sosyal medya düzeninin nasıl kurulacağını anlatıyor.
 

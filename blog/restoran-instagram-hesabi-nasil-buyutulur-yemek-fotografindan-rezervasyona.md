@@ -1,6 +1,6 @@
 # Restoran Instagram Hesabı Nasıl Büyütülür?
 
-> Restoran Instagram hesabı büyütme rehberi 2026. Yemek fotoğrafı çekimi, Reels stratejisi, yerel influencer işbirlikleri ve Instagram'dan rezervasyon almanın yolları.
+> Restoran Instagram hesabı nasıl büyütülür? Yemek fotoğrafı, Reels stratejisi, yerel influencer işbirlikleri ve Instagram'dan rezervasyon.
 
 Müşterilerinizin yüzde yetmişinden fazlası restoranınıza gelmeden önce Instagram'ınıza bakıyor. Bu artık bir tahmin değil, araştırmaların ortaya koyduğu bir gerçek. Peki restoranınızın Instagram hesabı bu bakışı rezervasyona çevirebiliyor mu?
 

@@ -1,6 +1,6 @@
 # Sosyal Medya Yönetimi: Kendiniz mi, Ajansa mı Bırakın?
 
-> Sosyal medya yönetimini kendiniz mi yapmalısınız, ajansa mı vermelisiniz? Zaman maliyeti, hibrit model, ajans seçimi ve 2026 fiyat bantları — karar için net bir çerçeve.
+> Sosyal medyayı kendiniz mi yönetmeli, ajansa mı vermeli? Zaman maliyeti, hibrit model, ajans seçimi ve 2026 fiyat bantları.
 
 [Sosyal medya](/blog/sosyal-medya-icerik-takvimi-nasil-olusturulur.html) yönetimi için ajansa mı vereceksiniz, kendiniz mi yapacaksınız? Bu soru genellikle "bütçem var mı?" diye sorulur — oysa doğru soru **"zamanım ve üretim kapasitem var mı?"** sorusudur. Bu rehber, kararı duyguyla değil rakamla vermeniz için basit bir çerçeve sunuyor.
 
