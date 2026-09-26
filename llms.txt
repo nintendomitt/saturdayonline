@@ -1,64 +1,81 @@
 # Saturday Online
 
-> İzmir merkezli, performans odaklı dijital pazarlama ajansı. Meta ve Google reklam yönetimi, sosyal medya pazarlaması, içerik üretimi ve pazarlama otomasyon sistemleriyle işletmelerin online büyümesini sağlıyoruz.
+> İzmir merkezli dijital pazarlama ajansı. Meta (Facebook/Instagram) ve Google reklam yönetimi, sosyal medya yönetimi, içerik üretimi ve pazarlama otomasyonu hizmetleri veriyor. İzmir'deki ve Türkiye genelindeki KOBİ'lerle, özellikle güzellik merkezi, restoran-kafe, giyim/e-ticaret ve yerel hizmet işletmeleriyle çalışıyor. Fiyatlarını açıkça yayınlar.
 
-## Hizmetler
+Her HTML sayfasının yanında Markdown sürümü vardır: `/blog/ornek.html` → `/blog/ornek.md`.
 
-- Meta Reklam Yönetimi (Facebook & Instagram reklamları, hedef kitle optimizasyonu, ROAS takibi)
-- Google Ads Yönetimi (Arama, Display, Shopping kampanyaları)
-- Sosyal Medya Yönetimi (İçerik takvimi, görsel tasarım, yorum ve mesaj yönetimi, aylık raporlama)
-- İçerik Pazarlaması (Blog yazıları, SEO içerikleri, copywriting)
-- E-posta Pazarlaması
-- Pazarlama Otomasyonu (CRM entegrasyonu, lead nurturing, otomasyon akışları)
-- Performans Pazarlaması ve ROAS Optimizasyonu
+## Künye
 
-## Hizmet Verilen Sektörler
-
-E-ticaret, güzellik & estetik merkezleri, restoran & kafe, giyim markaları, yerel işletmeler, B2B şirketler
-
-## Konum ve İletişim
-
+- Unvan: Saturday Online Dijital Hizmetler A.Ş.
+- Adres: Atatürk Mah. 26/43, Seferihisar, İzmir, Türkiye
+- Telefon / WhatsApp: +90 554 884 71 78
 - Web: https://saturdayonline.co
-- Konum: İzmir, Türkiye
-- Hizmet Alanı: İzmir ve Türkiye geneli (uzaktan)
+- Hizmet alanı: İzmir (yüz yüze) ve Türkiye geneli (uzaktan)
+- Çalışma saatleri: Hafta içi 09:00–18:00
+- Başlangıç: 30 dakikalık ücretsiz strateji görüşmesi — https://saturdayonline.co/randevu/
 
-## Sık Sorulan Sorular
+## Fiyatlar (2026, reklam bütçesi ayrı)
 
-**Saturday Online hangi hizmetleri sunuyor?**
-Meta (Facebook/Instagram) reklam yönetimi, Google Ads, sosyal medya yönetimi, içerik üretimi, e-posta pazarlaması ve pazarlama otomasyon sistemleri.
+- Sosyal medya yönetimi: aylık 8.000 TL'den başlar (içerik takvimi, tasarım, yayınlama, yorum/mesaj yönetimi, aylık rapor)
+- Meta reklam yönetimi: aylık 5.000 TL'den başlar
+- Toplam başlangıç (yönetim + reklam bütçesi): aylık yaklaşık 16.000–20.000 TL
+- Meta reklam bütçesi: tek şubeli yerel işletme için aylık 5.000–10.000 TL anlamlı sonuç verir; 3.000 TL altında öğrenme aşaması tamamlanmaz
+- Detaylı fiyat rehberi: https://saturdayonline.co/blog/sosyal-medya-yonetimi-fiyat.html
+
+## Hizmet sayfaları
+
+- [İzmir Dijital Pazarlama Ajansı](https://saturdayonline.co/izmir-dijital-pazarlama-ajansi/): İzmir'deki işletmeler için hizmetler, ilçeler, SSS
+- [Meta Reklam Yönetimi](https://saturdayonline.co/meta-reklam-yonetimi/)
+- [Google Ads Yönetimi](https://saturdayonline.co/google-ads-yonetimi/)
+- [Sosyal Medya Yönetimi](https://saturdayonline.co/sosyal-medya-yonetimi/)
+- [Pazarlama Otomasyonu](https://saturdayonline.co/pazarlama-otomasyonu/)
+- [İzmir Güzellik Merkezi Sosyal Medya Yönetimi](https://saturdayonline.co/izmir-guzellik-merkezi-sosyal-medya/): sektöre özel fiyatlar ve Meta sağlık politikası notları
+- [Portföy](https://saturdayonline.co/portfolio/): Dunno Coffee, Guff Cocktails, Siemens, Zénith Studio, Köşk Alsancak ve diğer markalar için çalışmalar
+
+## Fiyat ve maliyet rehberleri
+
+- [Sosyal Medya Yönetimi Fiyatları 2026](https://saturdayonline.co/blog/sosyal-medya-yonetimi-fiyat.html)
+- [Sosyal Medya Yönetimi Paketleri 2026](https://saturdayonline.co/blog/sosyal-medya-yonetimi-paketleri.html)
+- [TikTok Reklam Fiyatları 2026](https://saturdayonline.co/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html)
+- [Google Reklam Fiyatları 2026](https://saturdayonline.co/blog/google-reklam-fiyatlari-2026-butcenizi-nasil-planlamalisiniz.html)
+- [Giyim Markası Meta Reklam Maliyeti 2026](https://saturdayonline.co/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html)
+- [Web Sitesi Fiyatları 2026](https://saturdayonline.co/blog/web-sitesi-fiyatlari-2026-isletme-sahibi-rehberi.html)
+- [Logo Tasarımı Fiyatları 2026](https://saturdayonline.co/blog/logo-tasarimi-fiyatlari-2026-ne-kadar-odemeli.html)
+- [Reklam Bütçesi Nasıl Belirlenir?](https://saturdayonline.co/blog/reklam-butcesi-nasil-belirlenir-buyuklugune-gore-rehber.html)
+
+## Özgün veri
+
+- [Türkiye Dijital Reklam Harcaması Haritası (81 il)](https://saturdayonline.co/blog/turkiye-dijital-reklam-il-haritasi-2026.html): il bazlı tahmini harcama, CSV/JSON indirilebilir, CC BY 4.0. Yöntem: IAB Türkiye 2024 ulusal toplamı TÜİK il göstergeleriyle dağıtıldı; rakamlar modellenmiş tahmindir.
+- [Saturday Online Vaka Analizleri](https://saturdayonline.co/blog/sosyal-medya-basari-hikayeleri-saturday-online-case-study.html)
+
+## Sektör rehberleri
+
+- [Güzellik Merkezi Reklamı Nasıl Yapılır?](https://saturdayonline.co/blog/guzellik-merkezi-meta-reklam-rehberi.html)
+- [Restoran ve Kafeler İçin Sosyal Medya Yönetimi](https://saturdayonline.co/blog/restoran-ve-kafe-isletmeleri-icin-sosyal-medya-yonetimi.html)
+- [Klinik ve Sağlık İşletmeleri İçin Dijital Pazarlama](https://saturdayonline.co/blog/klinik-ve-saglik-isletmeleri-icin-dijital-pazarlama.html)
+- [İzmir Turizm İşletmeleri İçin Dijital Pazarlama](https://saturdayonline.co/blog/izmir-turizm-isletmeleri-icin-dijital-pazarlama-rehberi.html)
+- [Gayrimenkul Sektöründe Dijital Pazarlama](https://saturdayonline.co/blog/gayrimenkul-sektorunde-dijital-pazarlama-stratejileri.html)
+- [E-Ticaret Reklam Ajansı Nasıl Seçilir?](https://saturdayonline.co/blog/e-ticaret-reklam-ajansi-nasil-secilir.html)
+
+## Temel rehberler
+
+- [Reklam Ajansı Ne İş Yapar?](https://saturdayonline.co/blog/reklam-ajansi-ne-is-yapar.html)
+- [İzmir'de Reklam Ajansı Nasıl Seçilir?](https://saturdayonline.co/blog/izmirde-reklam-ajansi-nasil-secilir-2026-rehberi.html)
+- [Google Ads vs Meta Ads: 2026'da Hangisi Daha Etkili?](https://saturdayonline.co/blog/google-ads-vs-meta-ads-2026da-hangisi-daha-etkili.html)
+- [Facebook Kalıcı Hesap Kapatma ve Çözüm](https://saturdayonline.co/blog/facebook-kalici-hesap-kapatma-topluluk-standartlari.html)
+- [Dijital Pazarlama Nedir?](https://saturdayonline.co/blog/dijital-pazarlama-nedir-isletmeler-icin-baslangic-rehberi.html)
+- [Tüm blog yazıları](https://saturdayonline.co/blog/)
+
+## Sık sorulan sorular
+
+**Saturday Online nerede?**
+İzmir, Seferihisar'da kayıtlı. İzmir'deki müşterilerle yüz yüze, Türkiye genelinde uzaktan çalışıyor.
+
+**Sosyal medya yönetimi ne kadar?**
+Aylık 8.000 TL'den başlıyor; reklam bütçesi buna dahil değil.
 
 **Meta reklamlarına ne kadar bütçe gerekir?**
-Minimum aylık 3.000 TL reklam bütçesiyle başlanabilir. Hedef kitle ve sektöre göre önerilen bütçe ücretsiz danışmanlık görüşmesinde belirlenir.
+Tek şubeli yerel bir işletme için aylık 5.000–10.000 TL reklam bütçesi anlamlı sonuç verir; 3.000 TL altı verimsizdir. Reklam yönetim ücreti ayrıca 5.000 TL'den başlıyor.
 
-**Sosyal medya yönetimi neleri kapsar?**
-Aylık içerik takvimi, görsel ve video tasarımı, caption yazımı, yayınlama, yorum ve mesaj yönetimi, aylık performans raporu ve rakip analizi. Instagram, Facebook, LinkedIn ve TikTok platformları.
-
-**Çalışmaya nasıl başlanır?**
-Web sitesindeki form doldurulur veya iletişime geçilir; 30 dakikalık ücretsiz strateji görüşmesi yapılır.
-
-## Blog İçerikleri
-
-Dijital pazarlama, sosyal medya, reklam yönetimi ve e-ticaret konularında Türkçe rehberler:
-
-- Reklam Ajansı Ne İş Yapar?: https://saturdayonline.co/blog/reklam-ajansi-ne-is-yapar.html
-- Google Ads ile Kaç Paraya Müşteri Bulunur?: https://saturdayonline.co/blog/google-ads-ile-kac-paraya-musteri-bulunur.html
-- Sosyal Medya Yönetimi Fiyatları 2026: https://saturdayonline.co/blog/sosyal-medya-yonetimi-fiyat.html
-- Sosyal Medya Yönetimi Paketleri 2026: https://saturdayonline.co/blog/sosyal-medya-yonetimi-paketleri.html
-- E-Ticaret Reklam Ajansı Nasıl Seçilir?: https://saturdayonline.co/blog/e-ticaret-reklam-ajansi-nasil-secilir.html
-- Güzellik Merkezi Meta Reklam Rehberi 2026: https://saturdayonline.co/blog/guzellik-merkezi-meta-reklam-rehberi.html
-- Giyim Markası Meta Reklam Maliyeti 2026: https://saturdayonline.co/blog/meta-reklamlari-giyim-markalari-satis-maliyetleri.html
-- TikTok Reklam Maliyetleri 2026 Türkiye: https://saturdayonline.co/blog/tiktok-reklam-fiyatlari-maliyetleri-2026.html
-- Instagram DM Otomasyonu ile Satış Artırma: https://saturdayonline.co/blog/instagram-dm-otomasyonu-ile-satislari-artirin-instaassist-rehberi.html
-- Dijital Pazarlama Nedir? İşletme Rehberi: https://saturdayonline.co/blog/dijital-pazarlama-nedir-isletmeler-icin-baslangic-rehberi.html
-- En İyi Dijital Ajansı Nasıl Bulursunuz?: https://saturdayonline.co/blog/en-iyi-dijital-ajansi-nasil-bulursunuz.html
-- Facebook Hesabı Kalıcı Kapatıldıysa Çözüm: https://saturdayonline.co/blog/facebook-hesap-kalici-kapatildi-cozum.html
-- Facebook Reklamcı Hesabı Neden Kapatılır?: https://saturdayonline.co/blog/facebook-reklamci-hesabi-neden-kalici-kapatilir-topluluk-standartlari-rehberi.html
-- Baba Günü Dijital Pazarlama Fikirleri: https://saturdayonline.co/blog/baba-gunu-icin-dijital-pazarlama-fikirleri-ve-kampanya-onerileri.html
-- MCP Nedir? Model Context Protocol Rehberi: https://saturdayonline.co/blog/mcp-nedir-model-context-protocol-ile-yapay-zekayi-araclariniza-baglayin.html
-- AI Video Araçları 2026 Karşılaştırması: https://saturdayonline.co/blog/yapay-zeka-video-olusturma-araclari-2026-higgsfield-runway-kling-karsilastirmasi.html
-- Gemini Flash Nedir? Google'ın Multimodal AI Modeli: https://saturdayonline.co/blog/gemini-omni-flash-nedir.html
-- Spotify Peloton Fitness Ortaklığı 2026: https://saturdayonline.co/blog/spotify-peloton-fitness-ortakligi.html
-
-## Tam Sitemap
-
-https://saturdayonline.co/sitemap.xml
+**Nasıl başlanır?**
+30 dakikalık ücretsiz strateji görüşmesiyle: https://saturdayonline.co/randevu/ ya da WhatsApp +90 554 884 71 78.
