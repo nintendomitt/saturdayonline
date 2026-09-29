@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/satisa-donusen-instagram-profili-nasil-olusturulur.html" class="card" data-cat="Pratik">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Pratik</span>
+          <span class="card-date">29 Eylül 2026</span>
+        </div>
+        <h2>Satışa Dönüşen Instagram Profili Nasıl Oluşturulur?</h2>
+        <div class="card-kw">🔍 instagram profil optimizasyon</div>
+      </div>
+    </a>
     <a href="/blog/icerik-uretimini-dis-kaynak-mi-kullansam.html" class="card" data-cat="Karar">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1212,6 +1223,15 @@ async function loadPosts() {
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
   {
+    slug: "satisa-donusen-instagram-profili-nasil-olusturulur",
+    title: "Satışa Dönüşen Instagram Profili Nasıl Oluşturulur?",
+    category: "Pratik",
+    date: "2026-09-29",
+    keyword: "instagram profil optimizasyon",
+    image: "",
+    img_alt: ""
+  },
+  {
     slug: "icerik-uretimini-dis-kaynak-mi-kullansam",
     title: "İçerik Üretimini Dış Kaynak mı Kullansam?",
     category: "Karar",
@@ -1804,7 +1824,7 @@ const INLINE_POSTS = [
     keyword: "reklam ajansı ne iş yapar",
     image: "/blog-gorseller/baslikli/ajans-ne-is-yapar.jpg",
     img_alt: "Reklam Ajansı Ne İş Yapar 2026 Kapsamlı Rehberi"
-  },
+  }
 ];
 
 function formatDate(iso) {
