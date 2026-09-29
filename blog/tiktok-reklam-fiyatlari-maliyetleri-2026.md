@@ -1,13 +1,11 @@
 # TikTok Reklam Fiyatları 2026: Ne Kadar Tutar?
 
-> TikTok reklam fiyatları 2026: CPM ₺35-85, CPC ₺2,5-12, günlük minimum ₺100. Sektöre göre gerçek maliyet tablosu ve Meta ile karşılaştırma.
+> TikTok reklam fiyatları 2026: CPM ₺35-90, CPC ₺2,5-12, reklam grubu başına günlük en az 20$ (~₺980). Sektör bazlı maliyet tablosu.
 
 TikTok, Türkiye'de 18 milyonu aşkın aktif kullanıcıyla artık sadece eğlence değil ciddi bir reklam platformu. Peki TikTok reklamı gerçekten ne kadar tutar? CPM, CPC, format maliyetleri ve Meta ile karşılaştırmalı 2026 rehberi.
 
-**Kısa cevap:** Türkiye'de TikTok reklam fiyatları 2026 itibarıyla **CPM ₺35–85**,
-**CPC ₺2,50–12** aralığında. Kampanya başlatmak için **günlük minimum ₺100**,
-reklam grubu düzeyinde **günlük ₺50** bütçe gerekiyor. Anlamlı veri toplamak için
-önerilen başlangıç bütçesi **aylık ₺9.000–15.000**. Maliyet; sektöre, reklam formatına,
+**Kısa cevap:** Türkiye'de TikTok reklam fiyatları 2026 itibarıyla **CPM ₺35–90**,
+**CPC ₺2,50–12** aralığında. TikTok reklam grubu başına **günlük en az 20 $** ister (29 Eylül 2026 kuruyla yaklaşık **₺980**); kampanya düzeyinde alt sınır 50 $'dır. Tek reklam grubunu bir ay kesintisiz yayınlamak en az **aylık ~₺30.000** eder. Maliyet; sektöre, reklam formatına,
 hedef kitle darlığına ve sezona göre bu aralıkta değişiyor — detaylı tablolar aşağıda.
 
 ## TikTok Reklamı Ne Kadar Tutar? Kısa Özet
@@ -39,7 +37,7 @@ CTR Ortalaması
 Meta'dan %60 daha yüksek
 
 Min. Günlük Bütçe
-₺650+
+₺980+
 Reklam grubu seviyesi
 
 Dönüşüm Oranı
@@ -50,7 +48,7 @@ CPA Ortalaması
 ₺150–600
 Sektöre göre değişir
 
-**⚠️ Önemli Not:** TikTok Ads Manager, Meta'dan farklı olarak minimum günlük bütçe zorunluluğu getirir. Kampanya seviyesinde minimum günlük bütçe **₺650 (~$20)**, reklam grubu seviyesinde ise **₺325 (~$10)**'dır. Bu nedenle TikTok, çok küçük bütçelerle verimli kullanılamaz.
+**⚠️ Önemli Not:** TikTok Ads Manager, Meta'dan farklı olarak minimum günlük bütçe zorunluluğu getirir. Reklam grubu seviyesinde minimum günlük bütçe **20 $ (~₺980)**, kampanya seviyesinde bütçe belirlerseniz **50 $ (~₺2.450)**'dır. Bu nedenle TikTok, çok küçük bütçelerle verimli kullanılamaz.
 
 ## TikTok Reklam Formatları ve Maliyetleri
 
@@ -152,7 +150,7 @@ CTR Ortalaması
 %0,8–2,5
 
 Min. Günlük Bütçe
-₺650
+₺980 (20 $)
 ₺100+
 
 Hedefleme Hassasiyeti
@@ -236,7 +234,7 @@ Shopping, Spark
 ## TikTok Reklam Bütçe Seviyeleri
 
 🌱 Başlangıç
-₺15.000–25.000 / ay
+₺30.000–40.000 / ay
 
 - 1–2 In-Feed kampanyası
 
@@ -249,7 +247,7 @@ Shopping, Spark
 - Aylık ~300–500K gösterim
 
 🚀 Büyüme
-₺30.000–60.000 / ay
+₺40.000–80.000 / ay
 
 - In-Feed + Spark Ads
 
@@ -264,7 +262,7 @@ Shopping, Spark
 - Aylık ~700K–1,5M gösterim
 
 🏆 Ölçekleme
-₺75.000+ / ay
+₺100.000+ / ay
 
 - Tüm format kombinasyonu
 
@@ -278,7 +276,7 @@ Shopping, Spark
 
 - Aylık 2M+ gösterim
 
-**💡 Neden TikTok daha yüksek minimum bütçe ister?** TikTok'un algoritması öğrenme aşamasında yeterli veri toplaması için günlük minimum bütçeye ihtiyaç duyar. Çok düşük bütçeyle kampanya açmak öğrenme sürecini uzatır ve maliyetleri yükseltir. Bu nedenle aylık ₺15.000 altında TikTok reklamcılığı genellikle verimli sonuç vermez.
+**💡 Neden TikTok daha yüksek minimum bütçe ister?** TikTok'un algoritması öğrenme aşamasında yeterli veri toplaması için günlük minimum bütçeye ihtiyaç duyar. Çok düşük bütçeyle kampanya açmak öğrenme sürecini uzatır ve maliyetleri yükseltir. Bu nedenle aylık ~₺30.000 altında kesintisiz TikTok kampanyası yürütmek mümkün değil; daha düşük bütçeyle ancak kısa süreli testler yapılabilir.
 
 ## Sezonsal Maliyet Değişimleri
 
@@ -336,7 +334,7 @@ TikTok'un algoritması dar hedeflemeyle öğrenme sürecini tamamlayamaz. Başla
 
 - Video içerik üretme kapasiteniz var: Fotoğraf tabanlı kampanyalar TikTok'ta çalışmaz
 
-- Aylık en az ₺15.000 reklam bütçeniz var: Daha düşük bütçe verimli sonuç vermez
+- Aylık en az ₺30.000 reklam bütçeniz var: Daha düşük bütçe verimli sonuç vermez
 
 - Marka bilinirliği artırmak birincil hedefiniz: Anlık dönüşüm yerine uzun vadeli marka inşası
 
