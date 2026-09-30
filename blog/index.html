@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/influencer-secim-rehberi-mikro-mu-makro-mu.html" class="card" data-cat="Eğitici">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Eğitici</span>
+          <span class="card-date">30 Eylül 2026</span>
+        </div>
+        <h2>Influencer Seçim Rehberi: Mikro mu, Makro mu?</h2>
+        <div class="card-kw">🔍 influencer seçim rehberi</div>
+      </div>
+    </a>
     <a href="/blog/satisa-donusen-instagram-profili-nasil-olusturulur.html" class="card" data-cat="Pratik">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1226,6 +1237,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "influencer-secim-rehberi-mikro-mu-makro-mu",
+    title: "Influencer Seçim Rehberi: Mikro mu, Makro mu?",
+    category: "Eğitici",
+    date: "2026-09-30",
+    keyword: "influencer seçim rehberi",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "satisa-donusen-instagram-profili-nasil-olusturulur",
     title: "Satışa Dönüşen Instagram Profili Nasıl Oluşturulur?",
