@@ -18,8 +18,8 @@ Her HTML sayfasının yanında Markdown sürümü vardır: `/blog/ornek.html` �
 ## Fiyatlar (2026, reklam bütçesi ayrı)
 
 - Sosyal medya yönetimi: aylık 8.000 TL'den başlar (içerik takvimi, tasarım, yayınlama, yorum/mesaj yönetimi, aylık rapor)
-- Meta reklam yönetimi: aylık 5.000 TL'den başlar
-- Toplam başlangıç (yönetim + reklam bütçesi): aylık yaklaşık 16.000–20.000 TL
+- Meta reklam yönetimi: aylık 10.000 TL'den başlar
+- Sosyal medya + Meta reklam birlikte, reklam bütçesi dahil: aylık yaklaşık 23.000–28.000 TL
 - Meta reklam bütçesi: tek şubeli yerel işletme için aylık 5.000–10.000 TL anlamlı sonuç verir; 3.000 TL altında öğrenme aşaması tamamlanmaz
 - Detaylı fiyat rehberi: https://saturdayonline.co/blog/sosyal-medya-yonetimi-fiyat.html
 
@@ -76,7 +76,7 @@ Her HTML sayfasının yanında Markdown sürümü vardır: `/blog/ornek.html` �
 Aylık 8.000 TL'den başlıyor; reklam bütçesi buna dahil değil.
 
 **Meta reklamlarına ne kadar bütçe gerekir?**
-Tek şubeli yerel bir işletme için aylık 5.000–10.000 TL reklam bütçesi anlamlı sonuç verir; 3.000 TL altı verimsizdir. Reklam yönetim ücreti ayrıca 5.000 TL'den başlıyor.
+Tek şubeli yerel bir işletme için aylık 5.000–10.000 TL reklam bütçesi anlamlı sonuç verir; 3.000 TL altı verimsizdir. Reklam yönetim ücreti ayrıca 10.000 TL'den başlıyor.
 
 **Nasıl başlanır?**
 30 dakikalık ücretsiz strateji görüşmesiyle: https://saturdayonline.co/randevu/ ya da WhatsApp +90 554 884 71 78.

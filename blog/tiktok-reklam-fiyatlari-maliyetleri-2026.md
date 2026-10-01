@@ -1,10 +1,10 @@
 # TikTok Reklam Fiyatları 2026: Ne Kadar Tutar?
 
-> TikTok reklam fiyatları 2026: CPM ₺35-90, CPC ₺2,5-12, reklam grubu başına günlük en az 20$ (~₺980). Sektör bazlı maliyet tablosu.
+> TikTok reklam ücretleri 2026: CPM ₺35-90, CPC ₺2,5-12, reklam grubu başına günlük en az 20$ (~₺980). Sektöre göre TikTok reklam maliyeti.
 
 TikTok, Türkiye'de 18 milyonu aşkın aktif kullanıcıyla artık sadece eğlence değil ciddi bir reklam platformu. Peki TikTok reklamı gerçekten ne kadar tutar? CPM, CPC, format maliyetleri ve Meta ile karşılaştırmalı 2026 rehberi.
 
-**Kısa cevap:** Türkiye'de TikTok reklam fiyatları 2026 itibarıyla **CPM ₺35–90**,
+**Kısa cevap:** Türkiye'de TikTok reklam fiyatları (reklam ücretleri) 2026 itibarıyla **CPM ₺35–90**,
 **CPC ₺2,50–12** aralığında. TikTok reklam grubu başına **günlük en az 20 $** ister (29 Eylül 2026 kuruyla yaklaşık **₺980**); kampanya düzeyinde alt sınır 50 $'dır. Tek reklam grubunu bir ay kesintisiz yayınlamak en az **aylık ~₺30.000** eder. Maliyet; sektöre, reklam formatına,
 hedef kitle darlığına ve sezona göre bu aralıkta değişiyor — detaylı tablolar aşağıda.
 

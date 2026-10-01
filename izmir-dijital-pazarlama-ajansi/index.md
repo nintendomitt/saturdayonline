@@ -87,7 +87,7 @@ Anlaşırsak kampanyaları kuruyor, içerikleri üretiyor ve aylık raporlarla s
 
 ### İzmir'de dijital pazarlama ajansı ücretleri ne kadar?
 
-Hizmet kapsamına göre değişir. Sosyal medya yönetimi aylık 8.000 TL'den, reklam yönetimi 5.000 TL'den başlar; reklam bütçesi bunun dışındadır. Kesin fiyat ücretsiz görüşmede işletmenizin ihtiyacına göre belirlenir.
+Hizmet kapsamına göre değişir. Sosyal medya yönetimi aylık 8.000 TL'den, Meta reklam yönetimi 10.000 TL'den başlar; reklam bütçesi bunun dışındadır. Kesin fiyat ücretsiz görüşmede işletmenizin ihtiyacına göre belirlenir.
 
 ### Hangi İzmir ilçelerine hizmet veriyorsunuz?
 

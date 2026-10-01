@@ -107,6 +107,10 @@ Yalnızca satış mesajı vermek yerine, hedef kitlenizin sorularını yanıtlay
 - Ölçün ve optimize edin
 Google Analytics, Meta Business Suite ve benzeri araçlarla verileri düzenli takip edin. Neyin işe yaradığına daha fazla, neyin işe yaramadığına daha az bütçe ayırın.
 
+## Sektöre Göre Dijital Pazarlama: Salon Örneği
+
+Dijital pazarlama her sektörde aynı kanalları kullanır ama ağırlıklar değişir. **Salon dijital pazarlamasında**, yani güzellik salonu ve kuaförlerde, karar görsele ve yakınlığa dayanır: müşteri önce Instagram'da yapılmış işlere bakar, sonra Google İşletme Profili'ndeki yorumları okur, en son randevu için mesaj atar. Salonlar için adım adım plan: [Salon Dijital Pazarlama Rehberi](https://saturdayonline.co/blog/guzellik-ve-kuafor-salonlari-icin-sosyal-medya-stratejisi.html)
+
 ## 2026'da Dijital Pazarlamada Öne Çıkan Trendler
 
 Dijital pazarlama durağan değil — her yıl yeni trendler şekilleniyor. İşte 2026'da dikkat etmeniz gereken başlıklar:
