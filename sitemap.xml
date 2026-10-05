@@ -521,4 +521,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/black-friday-hazirligi-e-ticaret-markalarina-30-gunluk-plan.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

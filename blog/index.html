@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/black-friday-hazirligi-e-ticaret-markalarina-30-gunluk-plan.html" class="card" data-cat="Sezonsal">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Sezonsal</span>
+          <span class="card-date">5 Ekim 2026</span>
+        </div>
+        <h2>Black Friday Hazırlığı: E-Ticaret Markalarına 30 Günlük Plan</h2>
+        <div class="card-kw">🔍 black friday e-ticaret hazırlığı</div>
+      </div>
+    </a>
     <a href="/blog/influencer-secim-rehberi-mikro-mu-makro-mu.html" class="card" data-cat="Eğitici">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1237,6 +1248,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "black-friday-hazirligi-e-ticaret-markalarina-30-gunluk-plan",
+    title: "Black Friday Hazırlığı: E-Ticaret Markalarına 30 Günlük Plan",
+    category: "Sezonsal",
+    date: "2026-10-05",
+    keyword: "black friday e-ticaret hazırlığı",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "influencer-secim-rehberi-mikro-mu-makro-mu",
     title: "Influencer Seçim Rehberi: Mikro mu, Makro mu?",
