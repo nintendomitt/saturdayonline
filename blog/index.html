@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/e-ticaret-donusum-oranini-artirmanin-10-yolu.html" class="card" data-cat="Pratik">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Pratik</span>
+          <span class="card-date">13 Ekim 2026</span>
+        </div>
+        <h2>E-Ticaret Dönüşüm Oranını Artırmanın 10 Yolu</h2>
+        <div class="card-kw">🔍 e-ticaret dönüşüm oranı artırma</div>
+      </div>
+    </a>
     <a href="/blog/kis-sezonu-pazarlama-isletmeler-icin-q4-stratejisi.html" class="card" data-cat="Sezonsal">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1259,6 +1270,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "e-ticaret-donusum-oranini-artirmanin-10-yolu",
+    title: "E-Ticaret Dönüşüm Oranını Artırmanın 10 Yolu",
+    category: "Pratik",
+    date: "2026-10-13",
+    keyword: "e-ticaret dönüşüm oranı artırma",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "kis-sezonu-pazarlama-isletmeler-icin-q4-stratejisi",
     title: "Kış Sezonu Pazarlama: İşletmeler İçin Q4 Stratejisi",
