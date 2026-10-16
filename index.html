@@ -1035,6 +1035,28 @@
     /* ─── RESPONSIVE ─── */
     @media(max-width:900px){ #hakkimizda{grid-template-columns:1fr;gap:3rem;} }
     @media(max-width:600px){ .nav-links{display:none;} .form-row{grid-template-columns:1fr;} .hero-stats{gap:2.5rem;} .svc-item{grid-template-columns:50px 1fr auto;gap:1rem;} }
+
+    /* ─── IKAS PARTNER ─── */
+    .ikas-pill { display:inline-flex; align-items:center; gap:.55rem; margin-top:1.4rem; background:var(--black); color:#fff; text-decoration:none; border-radius:50px; padding:.5rem 1.1rem; font-size:.82rem; font-weight:600; }
+    .ikas-pill b { color:var(--orange); }
+    #ikas { background:var(--light); padding:6rem 5%; }
+    .ikas-top { display:flex; align-items:flex-end; justify-content:space-between; gap:2rem; margin-bottom:3rem; flex-wrap:wrap; }
+    .ikas-top .section-title { max-width:620px; }
+    .ikas-top p { max-width:380px; color:var(--gray); font-size:.95rem; line-height:1.7; }
+    .ikas-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1.4rem; }
+    .ikas-card { background:var(--white); border:1px solid var(--border); border-radius:24px; padding:2rem; display:flex; flex-direction:column; }
+    .ikas-card.pro { border:2px solid var(--orange); }
+    .ikas-card .lbl { font-size:.7rem; font-weight:700; letter-spacing:2px; text-transform:uppercase; color:var(--orange); }
+    .ikas-card h3 { font-family:'Poppins',sans-serif; font-size:1.6rem; font-weight:800; margin:.4rem 0 .2rem; }
+    .ikas-card .ikas-price { font-family:'Poppins',sans-serif; font-size:1.3rem; font-weight:800; }
+    .ikas-card .ikas-price small { font-size:.8rem; font-weight:600; color:var(--gray); }
+    .ikas-card .ikas-year { font-size:.82rem; color:var(--gray); margin:.15rem 0 1.2rem; }
+    .ikas-card ul { list-style:none; padding:0; margin:0 0 1.5rem; flex:1; }
+    .ikas-card li { position:relative; padding:.5rem 0 .5rem 1.7rem; border-bottom:1px dashed var(--border); font-size:.92rem; }
+    .ikas-card li::before { content:"\2713"; position:absolute; left:0; color:var(--orange); font-weight:800; }
+    .ikas-card .ikas-btn { display:inline-block; text-align:center; background:var(--orange); color:#fff; font-weight:700; text-decoration:none; border-radius:50px; padding:.8rem 1.4rem; }
+    .ikas-note { margin-top:1.4rem; font-size:.8rem; color:var(--gray); }
+    .ikas-note a { color:var(--black); }
   </style>
   <script src="/webmcp.js" defer></script>
   <script src="/takip.js" defer></script>
@@ -1051,6 +1073,7 @@
     <li><a href="#galeri">Çalışmalar</a></li>
     <li><a href="#hizmetler">Hizmetler</a></li>
     <li><a href="#hakkimizda">Hakkımızda</a></li>
+    <li><a href="/ikas-partner/">ikas Partner</a></li>
     <li><a href="/blog/">Blog</a></li>
     <li><a href="#iletisim">İletişim</a></li>
   </ul>
@@ -1098,6 +1121,7 @@
     </a>
     <a href="https://wa.me/905548847178?text=Merhaba%2C%20dijital%20pazarlama%20stratejim%20hakkında%20görüşmek%20istiyorum." target="_blank" rel="noopener" class="btn-ghost">WhatsApp'tan Yaz →</a>
   </div>
+  <a class="ikas-pill" href="/ikas-partner/">Resmi <b>ikas Partner</b> &middot; Scale alana 1 ay SEO + Meta reklam yönetimi hediye &rarr;</a>
   <div class="hero-adspend-wrap">
     <div class="hero-adspend" id="adspend">10.000.000 USD+</div>
     <p class="hero-adspend-label">Yönetilen Reklam Harcaması</p>
@@ -1136,6 +1160,46 @@
     <span class="marquee-item"><span class="marquee-dot"></span>Dijital Büyüme</span>
   </div>
 </div>
+
+<!-- IKAS PARTNER -->
+<section id="ikas" aria-labelledby="ikas-baslik">
+  <div class="ikas-top">
+    <div>
+      <span class="section-label">Resmi ikas Partneri</span>
+      <h2 class="section-title" id="ikas-baslik">ikas ile mağazanızı açın,<br />ilk ayın pazarlaması bizden.</h2>
+    </div>
+    <p>ikas Scale veya Scale Plus paketini Saturday Online üzerinden alın: kurulumu ücretsiz yapalım, ilk ay SEO ve Meta reklamlarınızı biz yönetelim. Paket ücreti ikas'a ödenir, fiyat değişmez.</p>
+  </div>
+  <div class="ikas-grid">
+    <div class="ikas-card">
+      <span class="lbl">En çok tercih edilen</span>
+      <h3>ikas Scale</h3>
+      <div class="ikas-price">6.998 TL <small>/ay karşılığı</small></div>
+      <div class="ikas-year">Yıllık 83.983 TL &middot; 6 taksit</div>
+      <ul>
+        <li>Ücretsiz profesyonel kurulum desteği</li>
+        <li>1 ay ücretsiz SEO hizmeti</li>
+        <li>1 ay ücretsiz Meta reklam yönetimi</li>
+      </ul>
+      <a class="ikas-btn" href="https://wa.me/905548847178?text=Merhaba%2C%20ikas%20Scale%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">Scale için yazın &rarr;</a>
+    </div>
+    <div class="ikas-card pro">
+      <span class="lbl">En kapsamlı</span>
+      <h3>ikas Scale Plus</h3>
+      <div class="ikas-price">11.618 TL <small>/ay karşılığı</small></div>
+      <div class="ikas-year">Yıllık 139.423 TL &middot; 9 taksit</div>
+      <ul>
+        <li>Ücretsiz profesyonel kurulum desteği</li>
+        <li>1 ay ücretsiz SEO hizmeti</li>
+        <li>1 ay ücretsiz Meta reklam yönetimi</li>
+        <li>1 ay ücretsiz InstaAssist (Instagram DM otomasyonu)</li>
+        <li>Sosyal medya içerik planlama</li>
+      </ul>
+      <a class="ikas-btn" href="https://wa.me/905548847178?text=Merhaba%2C%20ikas%20Scale%20Plus%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">Scale Plus için yazın &rarr;</a>
+    </div>
+  </div>
+  <p class="ikas-note">Fiyatlar ikas fiyat sayfasından 14 Ekim 2026'da alınmıştır; ikas paketleri yıllık satılır ve fiyatlar ikas tarafından değiştirilebilir. Reklam bütçesi hediyeye dahil değildir. <a href="/ikas-partner/">Kampanya detayları ve sık sorulan sorular &rarr;</a></p>
+</section>
 
 <!-- GALERI -->
 <section id="galeri">
@@ -1364,6 +1428,14 @@
     <p>İşletme sahipleri için pratik, uygulanabilir içerikler.</p>
   </div>
   <div class="blog-grid">
+      <a class="blog-card" href="/blog/izmirde-sosyal-medya-ajansi-neden-yerel-ajans-tercih-etmeli.html">
+        <div class="blog-card-img blog-card-img-placeholder" aria-hidden="true"></div>
+        <div class="blog-card-body">
+          <span class="blog-card-cat">Yerel SEO</span>
+          <h3 class="blog-card-title">İzmir&#x27;de Sosyal Medya Ajansı: Neden Yerel Ajans Tercih Etmeli?</h3>
+          <span class="blog-card-date">15 Ekim 2026</span>
+        </div>
+      </a>
       <a class="blog-card" href="/blog/dijital-pazarlama-trendleri-2027-neler-geliyor.html">
         <div class="blog-card-img blog-card-img-placeholder" aria-hidden="true"></div>
         <div class="blog-card-body">
@@ -1402,14 +1474,6 @@
           <span class="blog-card-cat">Eğitici</span>
           <h3 class="blog-card-title">Influencer Seçim Rehberi: Mikro mu, Makro mu?</h3>
           <span class="blog-card-date">30 Eylül 2026</span>
-        </div>
-      </a>
-      <a class="blog-card" href="/blog/satisa-donusen-instagram-profili-nasil-olusturulur.html">
-        <div class="blog-card-img blog-card-img-placeholder" aria-hidden="true"></div>
-        <div class="blog-card-body">
-          <span class="blog-card-cat">Pratik</span>
-          <h3 class="blog-card-title">Satışa Dönüşen Instagram Profili Nasıl Oluşturulur?</h3>
-          <span class="blog-card-date">29 Eylül 2026</span>
         </div>
       </a>
   </div>
@@ -1590,6 +1654,7 @@ function submitMSF(e) {
     <a href="#galeri">Projeler</a>
     <a href="#hizmetler">Hizmetler</a>
     <a href="#referanslar">Referanslar</a>
+    <a href="/ikas-partner/">ikas Partner</a>
     <a href="/blog/">Blog</a>
     <a href="#iletisim">İletişim</a>
   </div>

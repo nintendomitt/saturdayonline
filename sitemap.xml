@@ -458,6 +458,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://saturdayonline.co/ikas-partner/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
   <url>
     <loc>https://saturdayonline.co/blog/sosyal-medya-basari-hikayeleri-saturday-online-case-study.html</loc>
@@ -546,6 +552,13 @@
   <url>
     <loc>https://saturdayonline.co/blog/dijital-pazarlama-trendleri-2027-neler-geliyor.html</loc>
     <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/izmirde-sosyal-medya-ajansi-neden-yerel-ajans-tercih-etmeli.html</loc>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
