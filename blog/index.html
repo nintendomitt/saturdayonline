@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/retargeting-nedir-kaybolan-musteriyi-geri-kazanin.html" class="card" data-cat="Eğitici">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Eğitici</span>
+          <span class="card-date">21 Ekim 2026</span>
+        </div>
+        <h2>Retargeting Nedir? Kaybolan Müşteriyi Geri Kazanın</h2>
+        <div class="card-kw">🔍 retargeting nedir</div>
+      </div>
+    </a>
     <a href="/blog/google-adsde-kalite-puani-nedir-reklaminizi-optimize-edin.html" class="card" data-cat="Eğitici">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1303,6 +1314,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "retargeting-nedir-kaybolan-musteriyi-geri-kazanin",
+    title: "Retargeting Nedir? Kaybolan Müşteriyi Geri Kazanın",
+    category: "Eğitici",
+    date: "2026-10-21",
+    keyword: "retargeting nedir",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "google-adsde-kalite-puani-nedir-reklaminizi-optimize-edin",
     title: "Google Ads'de Kalite Puanı Nedir? Reklamınızı Optimize Edin",
