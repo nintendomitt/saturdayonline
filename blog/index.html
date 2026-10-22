@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/pazarlama-otomasyonu-nedir-isletmeler-zamandan-nasil-kazanir.html" class="card" data-cat="Hizmet">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Hizmet</span>
+          <span class="card-date">22 Ekim 2026</span>
+        </div>
+        <h2>Pazarlama Otomasyonu Nedir? İşletmeler Zamandan Nasıl Kazanır?</h2>
+        <div class="card-kw">🔍 pazarlama otomasyonu nedir</div>
+      </div>
+    </a>
     <a href="/blog/retargeting-nedir-kaybolan-musteriyi-geri-kazanin.html" class="card" data-cat="Eğitici">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1314,6 +1325,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "pazarlama-otomasyonu-nedir-isletmeler-zamandan-nasil-kazanir",
+    title: "Pazarlama Otomasyonu Nedir? İşletmeler Zamandan Nasıl Kazanır?",
+    category: "Hizmet",
+    date: "2026-10-22",
+    keyword: "pazarlama otomasyonu nedir",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "retargeting-nedir-kaybolan-musteriyi-geri-kazanin",
     title: "Retargeting Nedir? Kaybolan Müşteriyi Geri Kazanın",
