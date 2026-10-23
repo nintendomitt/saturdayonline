@@ -3,6 +3,7 @@
 
 User-agent: *
 Allow: /
+Disallow: /ig/
 
 # Content Signals — https://contentsignals.org/
 # search:   arama motorları ve AI arama sonuçlarında gösterilebilir
@@ -14,4 +15,3 @@ Content-Signal: search=yes, ai-input=yes, ai-train=no
 # Ornek: /blog/seo-nedir-...html  ->  /blog/seo-nedir-....md
 
 Sitemap: https://saturdayonline.co/sitemap.xml
-Disallow: /ig/
