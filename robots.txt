@@ -14,3 +14,4 @@ Content-Signal: search=yes, ai-input=yes, ai-train=no
 # Ornek: /blog/seo-nedir-...html  ->  /blog/seo-nedir-....md
 
 Sitemap: https://saturdayonline.co/sitemap.xml
+Disallow: /ig/
