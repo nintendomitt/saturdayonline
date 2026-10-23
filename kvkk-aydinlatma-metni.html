@@ -10,48 +10,104 @@
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f5f5f7;color:#0f0f0f;line-height:1.75}
-.wrap{max-width:720px;margin:0 auto;padding:3rem 5%}
-h1{font-size:1.7rem;font-weight:800;margin-bottom:1.2rem}
-h2{font-size:1.1rem;font-weight:700;margin:1.8rem 0 .5rem}
+.wrap{max-width:760px;margin:0 auto;padding:3rem 5%}
+h1{font-size:1.7rem;font-weight:800;margin-bottom:.4rem}
+.tarih{font-size:.88rem;color:#6b7280;margin-bottom:1.6rem}
+h2{font-size:1.1rem;font-weight:700;margin:2rem 0 .6rem}
 p{margin-bottom:1rem;color:#374151}
-.uyari{background:#fff4ed;border:1px solid #ffd4bd;border-radius:12px;padding:1.2rem;margin-bottom:2rem;color:#9a3412}
-.uyari strong{display:block;margin-bottom:.4rem}
+ul{margin:0 0 1rem 1.2rem;color:#374151}
+li{margin-bottom:.35rem}
+table{width:100%;border-collapse:collapse;margin:0 0 1rem;font-size:.92rem;background:#fff;border-radius:12px;overflow:hidden}
+th,td{text-align:left;padding:.7rem .8rem;border-bottom:1px solid #e5e7eb;vertical-align:top;color:#374151}
+th{font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;color:#6b7280;background:#fafafa}
+.kutu{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:1.1rem 1.2rem;margin-bottom:1rem}
+.kutu p:last-child{margin-bottom:0}
 a{color:#FF6B2B}
 footer{text-align:center;padding:2rem 5%;font-size:.82rem;color:#6b7280;border-top:1px solid rgba(0,0,0,.08);margin-top:2rem}
+@media (max-width:560px){table,thead,tbody,tr,th,td{display:block}thead{display:none}td{border:0;padding:.3rem .8rem}tr{border-bottom:1px solid #e5e7eb;padding:.5rem 0}td::before{content:attr(data-b);display:block;font-size:.74rem;font-weight:700;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <div class="uyari">
-    <strong>Bu sayfa henüz tamamlanmadı.</strong>
-    Aydınlatma metni hazırlanıyor. Metin yayınlanana kadar bu sayfa üzerinden
-    kişisel veri toplanmamalıdır. Sorularınız için
-    <a href="mailto:hello@saturdayonline.co">hello@saturdayonline.co</a>
-    adresinden bize ulaşabilirsiniz.
+  <h1>Kişisel Verilerin Korunması Aydınlatma Metni</h1>
+  <p class="tarih">Son güncelleme: 23 Ekim 2026</p>
+
+  <p>Saturday Online (veri sorumlusu: Mithatcan Mıdık) olarak kişisel verilerinize önem veriyoruz. Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ uyarınca, <a href="https://saturdayonline.co">saturdayonline.co</a> üzerindeki formlar, ücretsiz rehber ve testler aracılığıyla topladığımız kişisel verilerin nasıl işlendiğini açıklamak için hazırlanmıştır.</p>
+
+  <h2>1. Veri sorumlusu</h2>
+  <div class="kutu">
+    <p><strong>Mithatcan Mıdık</strong> (Saturday Online)<br />
+    Adres: Atatürk Mah. 26/43, Seferihisar / İzmir<br />
+    E-posta: <a href="mailto:hello@saturdayonline.co">hello@saturdayonline.co</a><br />
+    Telefon: <a href="tel:+905548847178">+90 554 884 71 78</a></p>
   </div>
 
-  <h1>KVKK Aydınlatma Metni</h1>
+  <h2>2. Hangi kişisel verileri işliyoruz?</h2>
+  <ul>
+    <li><strong>Kimlik ve iletişim:</strong> adınız ve e-posta adresiniz.</li>
+    <li><strong>Mesleki bilgi:</strong> isteğe bağlı olarak paylaştığınız işletme adı veya sektörünüz.</li>
+    <li><strong>Form ve test yanıtları:</strong> testlerde verdiğiniz cevaplar, hesaplanan sonuçlar ve testi tamamlama süresi.</li>
+    <li><strong>Onay kayıtları:</strong> aydınlatma metnini okuduğunuza ve ticari elektronik ileti almak isteyip istemediğinize ilişkin tercihleriniz, tarih ve saatiyle.</li>
+    <li><strong>Pazarlama ve kaynak bilgisi:</strong> siteye hangi kampanya veya kanaldan geldiğiniz (ör. UTM parametreleri).</li>
+    <li><strong>İşlem güvenliği ve kullanım verisi:</strong> çerezler ve benzeri teknolojiler aracılığıyla toplanan IP adresi, tarayıcı ve cihaz bilgisi, ziyaret edilen sayfalar ve site içi etkileşimler.</li>
+  </ul>
 
-  <h2>Veri Sorumlusu</h2>
-  <p>[Doldurulacak: unvan, adres, iletişim bilgileri]</p>
+  <h2>3. Kişisel verilerinizi hangi amaçlarla ve hangi hukuki sebeplere dayanarak işliyoruz?</h2>
+  <table>
+    <thead><tr><th>Amaç</th><th>Hukuki sebep (KVKK m. 5)</th></tr></thead>
+    <tbody>
+      <tr><td data-b="Amaç">Talep ettiğiniz rehberin, test sonucunun veya içeriğin size sunulması</td><td data-b="Hukuki sebep">Bir sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması (m. 5/2-c)</td></tr>
+      <tr><td data-b="Amaç">Sorularınızın yanıtlanması, görüşme taleplerinizin planlanması ve sizinle iletişim kurulması</td><td data-b="Hukuki sebep">Sözleşmenin kurulması veya ifası (m. 5/2-c); temel hak ve özgürlüklerinize zarar vermemek kaydıyla meşru menfaatimiz (m. 5/2-f)</td></tr>
+      <tr><td data-b="Amaç">Pazarlama ipuçları, rehberler, kampanya ve duyuruların e-posta ile gönderilmesi</td><td data-b="Hukuki sebep">Açık rızanız (m. 5/1) ve 6563 sayılı Kanun uyarınca vereceğiniz ticari elektronik ileti onayı. Onay vermemeniz rehbere veya teste erişiminizi engellemez.</td></tr>
+      <tr><td data-b="Amaç">Hizmetlerimizin ve içeriklerimizin hangi kanallardan ilgi gördüğünün ölçülmesi, sitenin iyileştirilmesi</td><td data-b="Hukuki sebep">Meşru menfaatimiz (m. 5/2-f)</td></tr>
+      <tr><td data-b="Amaç">Analitik ve reklam çerezleri aracılığıyla reklam performansının ölçülmesi ve size ilgili reklamların gösterilmesi</td><td data-b="Hukuki sebep">Açık rızanız (m. 5/1)</td></tr>
+      <tr><td data-b="Amaç">Onay kayıtlarının saklanması, yasal yükümlülüklerin yerine getirilmesi ve olası uyuşmazlıklarda hakların korunması</td><td data-b="Hukuki sebep">Kanunlarda açıkça öngörülmesi ve hukuki yükümlülüğün yerine getirilmesi (m. 5/2-a, ç); bir hakkın tesisi, kullanılması veya korunması (m. 5/2-e)</td></tr>
+    </tbody>
+  </table>
 
-  <h2>İşlenen Kişisel Veriler</h2>
-  <p>[Doldurulacak: ad, e-posta adresi, işletme bilgisi, form yanıtları]</p>
+  <h2>4. Kişisel verileriniz nasıl toplanıyor?</h2>
+  <p>Kişisel verileriniz; sitemizdeki formları ve testleri doldurmanız, ücretsiz rehber indirmeniz, randevu bağlantılarımızı kullanmanız ve sitemizi ziyaret etmeniz sırasında, elektronik ortamda, kısmen otomatik yollarla (çerezler) ve otomatik olmayan yollarla (formlara sizin girdiğiniz bilgiler) toplanır.</p>
 
-  <h2>İşleme Amacı</h2>
-  <p>[Doldurulacak: test sonucunun iletilmesi, pazarlama iletişimi]</p>
+  <h2>5. Kişisel verileriniz kimlere aktarılıyor?</h2>
+  <p>Kişisel verilerinizi satmıyor ve pazarlama amacıyla üçüncü kişilere vermiyoruz. Hizmetlerimizi sunabilmek için aşağıdaki hizmet sağlayıcılarla, yalnızca ilgili amaçla sınırlı olarak paylaşıyoruz:</p>
+  <ul>
+    <li><strong>Google LLC / Google Ireland Ltd.:</strong> form kayıtlarının saklanması (Google Workspace / Google Sheets), e-posta altyapısı, site analitiği (Google Analytics) ve reklam ölçümü (Google Ads).</li>
+    <li><strong>Meta Platforms Ireland Ltd.:</strong> reklam ölçümü ve hedefleme (Meta Pixel).</li>
+    <li><strong>Calendly LLC:</strong> görüşme randevusu almayı seçmeniz halinde randevu planlaması.</li>
+    <li><strong>E-posta gönderim hizmeti sağlayıcıları:</strong> ticari elektronik ileti onayı vermeniz halinde pazarlama e-postalarının gönderilmesi.</li>
+    <li><strong>İleti Yönetim Sistemi A.Ş. (İYS):</strong> ticari elektronik ileti onaylarınızın 6563 sayılı Kanun ve ilgili yönetmelik uyarınca kaydedilmesi.</li>
+    <li><strong>Yetkili kamu kurum ve kuruluşları:</strong> hukuken yetkili olmaları ve talep etmeleri halinde, kanuni yükümlülüklerimiz kapsamında.</li>
+  </ul>
+  <p>Bu hizmet sağlayıcıların bir kısmının sunucuları yurt dışında bulunduğundan, kişisel verileriniz yurt dışına aktarılabilmektedir. Bu aktarımlar KVKK'nın 9. maddesinde öngörülen şartlara ve güvencelere uygun olarak gerçekleştirilir.</p>
 
-  <h2>Hukuki Sebep</h2>
-  <p>[Doldurulacak: açık rıza — KVKK md. 5/1]</p>
+  <h2>6. Kişisel verilerinizi ne kadar süre saklıyoruz?</h2>
+  <ul>
+    <li><strong>Rehber ve test kayıtları:</strong> talebinizin karşılanmasından itibaren en fazla 2 yıl.</li>
+    <li><strong>Pazarlama iletişimi verileri:</strong> ticari elektronik ileti onayınızı geri alana kadar; onayın geri alınmasından sonra ise ilgili mevzuat gereği onay kayıtları 3 yıl süreyle.</li>
+    <li><strong>Çerez ve analitik verileri:</strong> ilgili hizmet sağlayıcının ayarlarında belirlenen süre boyunca (Google Analytics için en fazla 14 ay).</li>
+  </ul>
+  <p>Bu sürelerin sonunda kişisel verileriniz silinir, yok edilir veya anonim hale getirilir.</p>
 
-  <h2>Aktarım</h2>
-  <p>[Doldurulacak: hangi hizmet sağlayıcılarla paylaşıldığı]</p>
+  <h2>7. Haklarınız</h2>
+  <p>KVKK'nın 11. maddesi uyarınca veri sorumlusuna başvurarak:</p>
+  <ul>
+    <li>Kişisel verilerinizin işlenip işlenmediğini öğrenme,</li>
+    <li>İşlenmişse buna ilişkin bilgi talep etme,</li>
+    <li>İşlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,</li>
+    <li>Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme,</li>
+    <li>Eksik veya yanlış işlenmişse düzeltilmesini isteme,</li>
+    <li>KVKK'nın 7. maddesindeki şartlar çerçevesinde silinmesini veya yok edilmesini isteme,</li>
+    <li>Düzeltme, silme ve yok etme işlemlerinin verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,</li>
+    <li>İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme,</li>
+    <li>Kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız halinde zararın giderilmesini talep etme</li>
+  </ul>
+  <p>haklarına sahipsiniz.</p>
 
-  <h2>Saklama Süresi</h2>
-  <p>[Doldurulacak]</p>
+  <h2>8. Ticari e-postalardan nasıl çıkarım?</h2>
+  <p>Pazarlama e-postalarına verdiğiniz onayı dilediğiniz zaman, gerekçe göstermeden ve ücretsiz olarak geri alabilirsiniz: her e-postanın altındaki "abonelikten çık" bağlantısını kullanarak, <a href="mailto:hello@saturdayonline.co">hello@saturdayonline.co</a> adresine yazarak veya <a href="https://www.iys.org.tr" target="_blank" rel="noopener">İYS</a> üzerinden. Onayınızı geri almanız, daha önce indirdiğiniz içeriklere erişiminizi etkilemez.</p>
 
-  <h2>Haklarınız</h2>
-  <p>[Doldurulacak: KVKK md. 11 kapsamındaki haklar ve başvuru yöntemi]</p>
+  <h2>9. Başvuru yöntemi</h2>
+  <p>Haklarınıza ilişkin taleplerinizi, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ'e uygun olarak; kimliğinizi doğrulayacak bilgilerle birlikte yukarıdaki adrese yazılı olarak veya sistemimizde kayıtlı e-posta adresinizden <a href="mailto:hello@saturdayonline.co">hello@saturdayonline.co</a> adresine iletebilirsiniz. Başvurunuz, niteliğine göre en kısa sürede ve en geç 30 gün içinde ücretsiz olarak sonuçlandırılır. İşlemin ayrıca bir maliyet gerektirmesi halinde Kişisel Verileri Koruma Kurulu'nca belirlenen tarifedeki ücret alınabilir. Başvurunuzun reddedilmesi, verilen cevabı yetersiz bulmanız veya süresinde cevap verilmemesi halinde Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsiniz.</p>
 </div>
 <footer><a href="/">Saturday Online</a> &middot; İzmir Dijital Pazarlama Ajansı</footer>
 </body>
