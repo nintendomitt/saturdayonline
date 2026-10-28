@@ -28,7 +28,7 @@ Her HTML sayfasının yanında Markdown sürümü vardır: `/blog/ornek.html` �
 Saturday Online resmi ikas partneri. ikas paketini Saturday Online üzerinden alanlara (paket ücreti ikas'a ödenir, fiyat değişmez):
 - ikas Scale (yıllık 83.983 TL, aylık 6.998 TL karşılığı): ücretsiz profesyonel kurulum desteği + 1 ay ücretsiz SEO + 1 ay ücretsiz Meta reklam yönetimi
 - ikas Scale Plus (yıllık 139.423 TL, aylık 11.618 TL karşılığı): Scale hediyelerinin tümü + 1 ay ücretsiz InstaAssist (Instagram DM otomasyonu) + sosyal medya içerik planlama
-- ikas fiyatları 14 Ekim 2026'da ikas.com'dan alındı; ikas değiştirebilir. Reklam bütçesi hediyeye dahil değil.
+- ikas fiyatları 28 Ekim 2026'da ikas.com'dan alındı; ikas değiştirebilir. Reklam bütçesi hediyeye dahil değil.
 - Detay: https://saturdayonline.co/ikas-partner/
 
 ## Hizmet sayfaları

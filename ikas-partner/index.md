@@ -11,7 +11,7 @@ Saturday Online resmi ikas partneri. ikas Scale veya Scale Plus paketini Saturda
 | ikas Scale | Yıllık 83.983 TL (aylık 6.998 TL karşılığı), vade farksız 6 taksit | Ücretsiz profesyonel kurulum desteği; 1 ay ücretsiz SEO; 1 ay ücretsiz Meta reklam yönetimi (normalde 10.000 TL/ay) |
 | ikas Scale Plus | Yıllık 139.423 TL (aylık 11.618 TL karşılığı), vade farksız 9 taksit | Scale hediyelerinin tümü + 1 ay ücretsiz InstaAssist (Instagram DM otomasyonu) + sosyal medya içerik planlama |
 
-Fiyatlar ikas fiyat sayfasından 14 Ekim 2026'da alınmıştır; ikas paketleri yalnızca yıllık satılır, fiyatlar ikas tarafından değiştirilebilir. Reklam bütçesi hediyeye dahil değildir.
+Fiyatlar ikas fiyat sayfasından 28 Ekim 2026'da alınmıştır; ikas paketleri yalnızca yıllık satılır, fiyatlar ikas tarafından değiştirilebilir. Reklam bütçesi hediyeye dahil değildir.
 
 ## Sık sorulan sorular
 
@@ -19,10 +19,10 @@ Fiyatlar ikas fiyat sayfasından 14 Ekim 2026'da alınmıştır; ikas paketleri 
 Saturday Online, ikas'ın resmi partner ajansıdır. ikas altyapısıyla e-ticaret sitesi kurmak isteyen işletmelere paket seçimi, kurulum ve kurulum sonrası pazarlama desteği veriyoruz. Partner bağlantımızla ikas paketi aldığınızda ikas fiyatı değişmez; ek hizmetleri biz hediye ediyoruz.
 
 **ikas Scale paketi ne kadar?**
-ikas'ın fiyat sayfasına göre (14 Ekim 2026) Scale paketi yıllık 83.983 TL, aylık karşılığı 6.998 TL. Paketler yalnızca yıllık alınabiliyor ve Scale'de vade farksız 6 taksit var. Güncel fiyat ve kampanyalar ikas tarafından değiştirilebilir.
+ikas'ın fiyat sayfasına göre (28 Ekim 2026) Scale paketi yıllık 83.983 TL, aylık karşılığı 6.998 TL. Paketler yalnızca yıllık alınabiliyor ve Scale'de vade farksız 6 taksit var. Güncel fiyat ve kampanyalar ikas tarafından değiştirilebilir.
 
 **ikas Scale Plus paketi ne kadar?**
-ikas'ın fiyat sayfasına göre (14 Ekim 2026) Scale Plus paketi yıllık 139.423 TL, aylık karşılığı 11.618 TL. Vade farksız 9 taksit seçeneği var.
+ikas'ın fiyat sayfasına göre (28 Ekim 2026) Scale Plus paketi yıllık 139.423 TL, aylık karşılığı 11.618 TL. Vade farksız 9 taksit seçeneği var.
 
 **Scale paketi alınca Saturday Online ne hediye ediyor?**
 Ücretsiz profesyonel kurulum desteği, 1 ay ücretsiz SEO hizmeti ve 1 ay ücretsiz Meta reklam yönetimi. Meta reklam yönetimi normalde aylık 10.000 TL'den başlıyor. Reklam bütçesi bu hediyeye dahil değildir, doğrudan Meta'ya ödenir.
