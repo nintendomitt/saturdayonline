@@ -7,7 +7,7 @@ Her HTML sayfasının yanında Markdown sürümü vardır: `/blog/ornek.html` �
 ## Künye
 
 - Unvan: Mithatcan Mıdık (Saturday Online)
-- Adres: Atatürk Mah. 26/43, Seferihisar, İzmir, Türkiye
+- Adres: Atatürk Mah. 5752 Sk. Artemis No: 26/43, Seferihisar / İzmir, Türkiye
 - Telefon / WhatsApp: +90 554 884 71 78
 - E-posta: hello@saturdayonline.co
 - Web: https://saturdayonline.co
