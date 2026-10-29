@@ -446,6 +446,17 @@
 
 <div class="grid" id="post-grid">
   <!-- SEO: statik kartlar sync_html.py ile uretilir; JS yuklendiginde yenilenir -->
+    <a href="/blog/yemek-sektorunde-dijital-pazarlama-delivery-ve-otesi.html" class="card" data-cat="Niş">
+      <div class="card-img-placeholder" aria-hidden="true"></div>
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-cat">Niş</span>
+          <span class="card-date">29 Ekim 2026</span>
+        </div>
+        <h2>Yemek Sektöründe Dijital Pazarlama: Delivery ve Ötesi</h2>
+        <div class="card-kw">🔍 yemek sektörü dijital pazarlama</div>
+      </div>
+    </a>
     <a href="/blog/cumhuriyet-bayrami-2026-markalar-nasil-konumlanmali.html" class="card" data-cat="Özel Gün">
       <div class="card-img-placeholder" aria-hidden="true"></div>
       <div class="card-body">
@@ -1359,6 +1370,15 @@ async function loadPosts() {
 
 // Fallback: JSON yokken kullanılır, publish.py her çalıştığında güncellenir
 const INLINE_POSTS = [
+  {
+    slug: "yemek-sektorunde-dijital-pazarlama-delivery-ve-otesi",
+    title: "Yemek Sektöründe Dijital Pazarlama: Delivery ve Ötesi",
+    category: "Niş",
+    date: "2026-10-29",
+    keyword: "yemek sektörü dijital pazarlama",
+    image: "",
+    img_alt: ""
+  },
   {
     slug: "cumhuriyet-bayrami-2026-markalar-nasil-konumlanmali",
     title: "Cumhuriyet Bayramı 2026: Markalar Nasıl Konumlanmalı?",
