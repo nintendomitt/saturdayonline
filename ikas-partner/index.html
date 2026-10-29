@@ -232,6 +232,44 @@ section.alt .plan{background:var(--light)}
 .partner{display:inline-flex;align-items:center;gap:.5rem;background:#111;color:#fff;border-radius:50px;padding:.4rem 1rem;font-size:.82rem;font-weight:700;margin-bottom:1.2rem}
 .partner span{color:var(--orange)}
 .not{font-size:.8rem;color:var(--gray)}
+
+    /* ─── IKAS PAKET KARTLARI (ikas fiyat sayfası düzeni) ─── */
+    .ik-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.2rem;max-width:920px;margin:0 auto;text-align:left}
+    @media(max-width:760px){.ik-grid{grid-template-columns:1fr}}
+    .ik-card{background:#fff;border:1px solid rgba(0,0,0,.09);border-radius:22px;padding:1.7rem 1.6rem;display:flex;flex-direction:column}
+    .ik-card.ik-pro{border:2px solid var(--orange);box-shadow:0 14px 40px rgba(0,0,0,.08)}
+    .ik-head{display:flex;justify-content:space-between;align-items:center;gap:.6rem;flex-wrap:wrap}
+    .ik-name{font-family:inherit;font-size:1.25rem;font-weight:800;margin:0}
+    .ik-tag{font-size:.7rem;font-weight:700;border-radius:50px;padding:.28rem .7rem;background:#EEF9C9;color:#3f5a00;white-space:nowrap}
+    .ik-pro .ik-tag{background:#111;color:#fff}
+    .ik-sub{color:#6b7280;font-size:.88rem;margin:.35rem 0 1rem}
+    .ik-price{font-family:inherit;font-size:2.3rem;font-weight:800;letter-spacing:-1px;line-height:1}
+    .ik-price small{font-size:.9rem;font-weight:600;color:#6b7280;letter-spacing:0}
+    .ik-year{font-size:.85rem;color:#6b7280;margin:.45rem 0 1.1rem}
+    .ik-year s{margin-right:.35rem}
+    .ik-year b{color:#111}
+    .ik-btn{display:block;text-align:center;background:var(--orange);color:#fff;font-weight:700;text-decoration:none;border-radius:12px;padding:.85rem 1rem}
+    .ik-pro .ik-btn{background:#111}
+    .ik-min{font-size:.74rem;color:#9ca3af;text-align:center;margin:.5rem 0 1.2rem}
+    .ik-box{border-radius:14px;padding:1rem 1.05rem;margin-bottom:1rem}
+    .ik-box h4{font-size:.78rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin:0 0 .6rem}
+    .ik-gift{background:#FFF6E5;border:1.5px dashed var(--orange)}
+    .ik-gift h4{color:#B26A00}
+    .ik-feat{background:#F4F6FB;border:1px solid #E3E7F0}
+    .ik-box ul,.ik-list{list-style:none;padding:0;margin:0}
+    .ik-box li,.ik-list li{display:flex;justify-content:space-between;align-items:flex-start;gap:.6rem;padding:.42rem 0;font-size:.88rem;line-height:1.4}
+    .ik-box li+li{border-top:1px solid rgba(0,0,0,.06)}
+    .ik-box li span:first-child,.ik-list li span:first-child{position:relative;padding-left:1.45rem}
+    .ik-box li span:first-child::before,.ik-list li span:first-child::before{content:"\2713";position:absolute;left:0;font-weight:800;color:#65a30d}
+    .ik-gift li span:first-child::before{content:"\2605";color:var(--orange)}
+    .ik-val{white-space:nowrap;font-size:.72rem;font-weight:700;border-radius:50px;padding:.18rem .55rem;background:#fff;border:1px solid rgba(0,0,0,.1);color:#111}
+    .ik-val s{color:#9ca3af;font-weight:600;margin-right:.25rem}
+    .ik-val.ik-free{background:var(--orange);border-color:var(--orange);color:#fff}
+    .ik-ek{font-size:.82rem;font-weight:700;color:#374151;margin:.2rem 0 .6rem}
+    .ik-more summary{cursor:pointer;font-size:.85rem;font-weight:700;color:#374151;padding:.6rem 0;list-style:none}
+    .ik-more summary::-webkit-details-marker{display:none}
+    .ik-more summary::after{content:" +";color:var(--orange)}
+    .ik-more[open] summary::after{content:" \2212"}
 </style>
   <script src="/takip.js" defer></script>
 </head>
@@ -268,32 +306,102 @@ section.alt .plan{background:var(--light)}
   <h2>Paketler ve hediyeler</h2>
   <p>Paket ücretini ikas'a ödersiniz, fiyat değişmez. Aşağıdaki hizmetleri Saturday Online ücretsiz verir.</p>
 
-  <div class="plans">
-    <div class="plan">
-      <span class="tag">En çok tercih edilen</span>
-      <h3>ikas Scale</h3>
-      <div class="price">6.998 TL <small>/ay karşılığı</small></div>
-      <div class="yearly">Yıllık 83.983 TL &middot; vade farksız 6 taksit</div>
-      <ul>
-        <li class="gift">Ücretsiz profesyonel kurulum desteği</li>
-        <li class="gift">1 ay ücretsiz SEO hizmeti</li>
-        <li class="gift">1 ay ücretsiz Meta reklam yönetimi <span class="not">(normalde 10.000 TL/ay)</span></li>
+  <div class="ik-grid">
+    <div class="ik-card">
+      <div class="ik-head"><h3 class="ik-name">ikas Scale</h3><span class="ik-tag">Vade Farksız 6 Taksit</span></div>
+      <p class="ik-sub">Tüm dünyaya satış yapın.</p>
+      <div class="ik-price">₺6.998<small>/ay</small></div>
+      <div class="ik-year"><s>₺119.976</s><b>₺83.983/yıl</b> &middot; vade farksız 6 taksit</div>
+      <a class="ik-btn" href="https://wa.me/905548847178?text=Merhaba%2C%20ikas%20Scale%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">WhatsApp'tan Yazın &rarr;</a>
+      <div class="ik-min">ikas paketleri yıllık alınır &middot; en fazla 3 yıllık</div>
+      <div class="ik-box ik-gift">
+        <h4>Saturday Online hediyeleri</h4>
+        <ul>
+          <li><span>Ücretsiz profesyonel kurulum desteği</span><span class="ik-val ik-free">Hediye</span></li>
+          <li><span>1 ay SEO hizmeti</span><span class="ik-val ik-free">Hediye</span></li>
+          <li><span>1 ay Meta reklam yönetimi</span><span class="ik-val ik-free"><s style="color:rgba(255,255,255,.75)">10.000 TL</s> Hediye</span></li>
+        </ul>
+      </div>
+      <div class="ik-ek">Lift pakete ek;</div>
+      <div class="ik-box ik-feat">
+        <h4>Satış artırıcı özellikler</h4>
+        <ul>
+          <li><span>Sınırsız E-İhracat</span></li>
+          <li><span>Gelişmiş Sepet Hatırlatma</span></li>
+          <li><span>Cross-sell ve Up-sell</span></li>
+          <li><span>Bundle / Paket Ürün</span></li>
+          <li><span>Asorti Satış</span></li>
+        </ul>
+      </div>
+      <ul class="ik-list">
+          <li><span>Telefon, Mail &amp; Ticket Desteği</span><span class="ik-val">7/24</span></li>
+          <li><span>86,90 TL'den Başlayan Anlaşmalı Kargo Fiyatları</span></li>
+          <li><span>Otomatik Sepet Hatırlatma</span><span class="ik-val">Sınırsız</span></li>
+          <li><span>%0'dan Başlayan Hazır Sanal POS Oranı</span></li>
       </ul>
-      <a href="https://wa.me/905548847178?text=Merhaba%2C%20ikas%20partner%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" class="btn-primary">Scale için yazın</a>
+      <details class="ik-more"><summary>Tüm ikas özellikleri</summary>
+      <ul class="ik-list">
+          <li><span>24.000 TL'ye Kadar Kargo Bakiyesi Hediye</span></li>
+          <li><span>Kendi Sanal POS Oranlarınızı Kullanın</span></li>
+          <li><span>E-Ticaret ve Temel SEO Eğitimi</span></li>
+          <li><span>Trendyol, Hepsiburada, N11, Amazon ve Etsy Entegrasyonu</span><span class="ik-val">Hediye</span></li>
+          <li><span>Bölge Bazlı Teslimat</span></li>
+          <li><span>Sipariş Düzenleme</span></li>
+          <li><span>Saat Bazlı Kargo</span></li>
+          <li><span>Ürün Yorum Hatırlatma</span></li>
+          <li><span>Ürün Yorumlarına Cevap Verme</span></li>
+          <li><span>Ürün Yorumlarında Görsel</span></li>
+      </ul>
+      </details>
     </div>
-    <div class="plan pro">
-      <span class="tag">En kapsamlı</span>
-      <h3>ikas Scale Plus</h3>
-      <div class="price">11.618 TL <small>/ay karşılığı</small></div>
-      <div class="yearly">Yıllık 139.423 TL &middot; vade farksız 9 taksit</div>
-      <ul>
-        <li class="gift">Ücretsiz profesyonel kurulum desteği</li>
-        <li class="gift">1 ay ücretsiz SEO hizmeti</li>
-        <li class="gift">1 ay ücretsiz Meta reklam yönetimi</li>
-        <li class="gift">1 ay ücretsiz <a href="/blog/instagram-dm-otomasyonu-ile-satislari-artirin-instaassist-rehberi.html">InstaAssist</a> (Instagram DM otomasyonu)</li>
-        <li class="gift">Sosyal medya içerik planlama</li>
+    <div class="ik-card ik-pro">
+      <div class="ik-head"><h3 class="ik-name">ikas Scale Plus</h3><span class="ik-tag">En Çok Tercih Edilen</span></div>
+      <p class="ik-sub">E-ticarette ihtiyacınız olan her şey.</p>
+      <div class="ik-price">₺11.618<small>/ay</small></div>
+      <div class="ik-year"><s>₺199.176</s><b>₺139.423/yıl</b> &middot; vade farksız 9 taksit</div>
+      <a class="ik-btn" href="https://wa.me/905548847178?text=Merhaba%2C%20ikas%20Scale%20Plus%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">WhatsApp'tan Yazın &rarr;</a>
+      <div class="ik-min">ikas paketleri yıllık alınır &middot; en fazla 3 yıllık</div>
+      <div class="ik-box ik-gift">
+        <h4>Saturday Online hediyeleri</h4>
+        <ul>
+          <li><span>Ücretsiz profesyonel kurulum desteği</span><span class="ik-val ik-free">Hediye</span></li>
+          <li><span>1 ay SEO hizmeti</span><span class="ik-val ik-free">Hediye</span></li>
+          <li><span>1 ay Meta reklam yönetimi</span><span class="ik-val ik-free"><s style="color:rgba(255,255,255,.75)">10.000 TL</s> Hediye</span></li>
+          <li><span>1 ay InstaAssist (Instagram DM otomasyonu)</span><span class="ik-val ik-free">Hediye</span></li>
+          <li><span>Sosyal medya içerik planlama</span><span class="ik-val ik-free">Hediye</span></li>
+        </ul>
+      </div>
+      <div class="ik-ek">Scale pakete ek;</div>
+      <div class="ik-box ik-feat">
+        <h4>İleri seviye özellikler</h4>
+        <ul>
+          <li><span>WhatsApp Sepet Hatırlatma</span></li>
+          <li><span>7/24 Öncelikli Destek</span></li>
+          <li><span>Mobil Uygulama</span></li>
+          <li><span>Gelişmiş Çapraz Satış</span></li>
+          <li><span>ERP Entegrasyonları</span></li>
+        </ul>
+      </div>
+      <ul class="ik-list">
+          <li><span>86,90 TL'den Başlayan Anlaşmalı Kargo Fiyatları</span></li>
+          <li><span>%0'dan Başlayan Hazır Sanal POS Oranı</span></li>
+          <li><span>36.000 TL'ye Kadar Kargo Bakiyesi Hediye</span></li>
+          <li><span>19 Yurt İçi, 7 Yurt Dışı Pazaryeri Entegrasyonu</span><span class="ik-val">Hediye</span></li>
       </ul>
-      <a href="https://wa.me/905548847178?text=Merhaba%2C%20ikas%20partner%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" class="btn-primary">Scale Plus için yazın</a>
+      <details class="ik-more"><summary>Tüm ikas özellikleri</summary>
+      <ul class="ik-list">
+          <li><span>1 Adet UGC Video İçeriği</span></li>
+          <li><span>Yuddy AI Chatbot</span><span class="ik-val">İlk 3 ay hediye</span></li>
+          <li><span>Yapay Zeka Asistan</span></li>
+          <li><span>Konfigüratör / Ürün Takımı</span></li>
+          <li><span>Özelleştirilmiş Arama Sonuçları</span></li>
+          <li><span>Eş Anlamlı Kelimeler</span></li>
+          <li><span>B2B / Toptan Satış</span></li>
+          <li><span>Sınırsız Ürün Görseli Oluşturma ve Düzenleme</span><span class="ik-val">ikas AI</span></li>
+          <li><span>Sınırsız Ürün Açıklaması Oluşturma</span><span class="ik-val">ikas AI</span></li>
+          <li><span>Ürünleri Model Üzerinde Gösterme</span><span class="ik-val">ikas AI</span></li>
+      </ul>
+      </details>
     </div>
   </div>
 
