@@ -28,7 +28,7 @@ Freelancer / Serbest Çalışan
 2.000 – 6.000 ₺ / ay
 Genellikle 1 platform, ayda 12–16 gönderi, temel grafik tasarım. İletişim daha kolay, ancak tatil/hastalık dönemlerinde boşluk oluşabilir. Raporlama sınırlı olabilir.
 
-Butik Ajans (Saturday Online gibi)
+Butik Ajans
 5.000 – 15.000 ₺ / ay
 2–3 platform, aylık 20–30 içerik, profesyonel tasarım + kopya, topluluk yönetimi, aylık raporlama. Orta ölçekli işletmeler için en dengeli seçenek.
 

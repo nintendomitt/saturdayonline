@@ -8,7 +8,7 @@ Saturday Online resmi ikas partneri. ikas Scale veya Scale Plus paketini Saturda
 
 | Paket | ikas fiyatı | Saturday Online hediyeleri |
 |---|---|---|
-| ikas Scale | Yıllık 83.983 TL (aylık 6.998 TL karşılığı), vade farksız 6 taksit | Ücretsiz profesyonel kurulum desteği; 1 ay ücretsiz SEO; 1 ay ücretsiz Meta reklam yönetimi (normalde 10.000 TL/ay) |
+| ikas Scale | Yıllık 83.983 TL (aylık 6.998 TL karşılığı), vade farksız 6 taksit | Ücretsiz profesyonel kurulum desteği; 1 ay ücretsiz SEO; 1 ay ücretsiz Meta reklam yönetimi (normalde 15.000 TL/ay + KDV) |
 | ikas Scale Plus | Yıllık 139.423 TL (aylık 11.618 TL karşılığı), vade farksız 9 taksit | Scale hediyelerinin tümü + 1 ay ücretsiz InstaAssist (Instagram DM otomasyonu) + sosyal medya içerik planlama |
 
 Fiyatlar ikas fiyat sayfasından 28 Ekim 2026'da alınmıştır; ikas paketleri yalnızca yıllık satılır, fiyatlar ikas tarafından değiştirilebilir. Reklam bütçesi hediyeye dahil değildir.
@@ -25,7 +25,7 @@ ikas'ın fiyat sayfasına göre (28 Ekim 2026) Scale paketi yıllık 83.983 TL, 
 ikas'ın fiyat sayfasına göre (28 Ekim 2026) Scale Plus paketi yıllık 139.423 TL, aylık karşılığı 11.618 TL. Vade farksız 9 taksit seçeneği var.
 
 **Scale paketi alınca Saturday Online ne hediye ediyor?**
-Ücretsiz profesyonel kurulum desteği, 1 ay ücretsiz SEO hizmeti ve 1 ay ücretsiz Meta reklam yönetimi. Meta reklam yönetimi normalde aylık 10.000 TL'den başlıyor. Reklam bütçesi bu hediyeye dahil değildir, doğrudan Meta'ya ödenir.
+Ücretsiz profesyonel kurulum desteği, 1 ay ücretsiz SEO hizmeti ve 1 ay ücretsiz Meta reklam yönetimi. Meta reklam yönetimi normalde aylık 15.000 TL + KDV. Reklam bütçesi bu hediyeye dahil değildir, doğrudan Meta'ya ödenir.
 
 **Scale Plus paketi alınca hangi ek hizmetler geliyor?**
 Scale paketindeki tüm hediyelere ek olarak 1 ay InstaAssist (Instagram DM otomasyonu) ve sosyal medya içerik planlama hizmeti.

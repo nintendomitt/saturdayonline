@@ -143,7 +143,7 @@ section p a:hover,section li a:hover{color:var(--orange)}
   <svg width="26" height="26" viewBox="0 0 24 24" fill="white"><path d="M12 0C5.373 0 0 5.373 0 12c0 2.108.548 4.088 1.505 5.815L.057 23.28a.5.5 0 00.613.637l5.618-1.469A11.952 11.952 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.9a9.9 9.9 0 01-5.087-1.403l-.364-.216-3.77.987.997-3.665-.237-.376A9.9 9.9 0 012.1 12C2.1 6.53 6.53 2.1 12 2.1c5.47 0 9.9 4.43 9.9 9.9 0 5.47-4.43 9.9-9.9 9.9z"/></svg>
 </a>
 <script>
-(function(){var q=new URLSearchParams(location.search),s=q.get('s')||'',p=q.get('p')||'',PR={"sm-baslangic": 8000, "sm-buyume": 14000, "sm-premium": 22000, "meta-reklam": 10000},v=PR[p]||0;
+(function(){var q=new URLSearchParams(location.search),s=q.get('s')||'',p=q.get('p')||'',PR={"sosyal-medya": 15000, "meta-reklam": 15000, "sm-meta-paket": 25000},v=(PR[p]||0)+(q.get('c')==='1'?10000:0);
 if(s){document.getElementById('sip').textContent='Sipariş numaranız: '+s;}
 try{if(s&&!sessionStorage.getItem('so_'+s)){sessionStorage.setItem('so_'+s,'1');
  if(window.gtag) gtag('event','purchase',{transaction_id:s,currency:'TRY',value:v,items:[{item_id:p}]});

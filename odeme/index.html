@@ -133,11 +133,11 @@ section p a:hover,section li a:hover{color:var(--orange)}
   <form class="form" id="odeme-form" novalidate>
     <label>Paket</label>
     <div class="pk">
-      <label><input type="radio" name="paket" value="sm-baslangic" data-tl="8000"/><b>Sosyal Medya &middot; Başlangıç</b><span>8.000 TL</span><small style="color:var(--gray)">1 aylık hizmet. KDV dahil</small></label>
-      <label><input type="radio" name="paket" value="sm-buyume" data-tl="14000" checked/><b>Sosyal Medya &middot; Büyüme</b><span>14.000 TL</span><small style="color:var(--gray)">1 aylık hizmet. KDV dahil</small></label>
-      <label><input type="radio" name="paket" value="sm-premium" data-tl="22000"/><b>Sosyal Medya &middot; Premium</b><span>22.000 TL</span><small style="color:var(--gray)">1 aylık hizmet. KDV dahil</small></label>
-      <label><input type="radio" name="paket" value="meta-reklam" data-tl="10000"/><b>Meta Reklam Yönetimi</b><span>10.000 TL</span><small style="color:var(--gray)">1 aylık hizmet. KDV dahil</small></label>
+      <label><input type="radio" name="paket" value="sosyal-medya" data-net="15000" data-cekim="1"/><b>Sosyal Medya Yönetimi</b><span>15.000 TL</span><small style="color:var(--gray)">1 aylık hizmet, + KDV</small></label>
+      <label><input type="radio" name="paket" value="meta-reklam" data-net="15000" data-cekim="1"/><b>Meta Reklam Yönetimi</b><span>15.000 TL</span><small style="color:var(--gray)">1 aylık hizmet, + KDV</small></label>
+      <label><input type="radio" name="paket" value="sm-meta-paket" data-net="25000" data-cekim="0" checked/><b>Sosyal Medya + Meta Reklam</b><span>25.000 TL</span><small style="color:var(--gray)">1 ay, ayda 1 gün çekim dahil, + KDV</small></label>
     </div>
+    <label class="onay" id="cekim-satir" style="margin-top:.9rem"><input type="checkbox" id="cekim" /> <span><strong>Çekim ekle</strong> &mdash; tek gün fotoğraf/video çekimi, +10.000 TL + KDV</span></label>
     <div class="row2">
       <div><label for="ad">Ad Soyad</label><input id="ad" name="ad" autocomplete="name" required /></div>
       <div><label for="telefon">Telefon</label><input id="telefon" name="telefon" type="tel" autocomplete="tel" placeholder="05xx xxx xx xx" required /></div>
@@ -149,7 +149,9 @@ section p a:hover,section li a:hover{color:var(--orange)}
     </div>
     <label for="adres">Fatura adresi</label><textarea id="adres" name="adres" autocomplete="street-address" required></textarea>
     <label class="onay"><input type="checkbox" id="sozlesme" /> <span><a href="/mesafeli-satis-sozlesmesi/" target="_blank">Mesafeli Satış Sözleşmesi ve Ön Bilgilendirme Formu</a>'nu, <a href="/iptal-iade-kosullari/" target="_blank">İptal ve İade</a> ve <a href="/teslimat-kosullari/" target="_blank">Teslimat Koşulları</a>'nı okudum, kabul ediyorum. Kişisel verilerim <a href="/kvkk-aydinlatma-metni.html" target="_blank">Aydınlatma Metni</a> kapsamında işlenir.</span></label>
-    <div class="ozet"><span>Ödenecek tutar (KDV dahil)</span><span id="tutar">14.000 TL</span></div>
+    <div class="ozet" style="font-weight:500;border-top:1px solid var(--border)"><span>Ara toplam</span><span id="ara">25.000 TL</span></div>
+    <div class="ozet" style="margin-top:.3rem;padding-top:0;border:0;font-weight:500"><span>KDV (%20)</span><span id="kdv">5.000 TL</span></div>
+    <div class="ozet" style="margin-top:.3rem"><span>Ödenecek tutar (KDV dahil)</span><span id="tutar">30.000 TL</span></div>
     <button type="submit" class="btn-primary" id="gonder">Ödemeye Geç &rarr;</button>
     <div class="hata" id="hata" role="alert"></div>
   </form>
@@ -178,19 +180,26 @@ section p a:hover,section li a:hover{color:var(--orange)}
   var f=document.getElementById('odeme-form'), hata=document.getElementById('hata'), btn=document.getElementById('gonder');
   var q=new URLSearchParams(location.search).get('paket');
   if(q){var r=f.querySelector('input[name=paket][value="'+q+'"]'); if(r) r.checked=true;}
-  function tutar(){var r=f.querySelector('input[name=paket]:checked'); document.getElementById('tutar').textContent=Number(r.dataset.tl).toLocaleString('tr-TR')+' TL';}
+  var fmt=function(n){return Number(n).toLocaleString('tr-TR')+' TL';};
+  function tutar(){
+    var r=f.querySelector('input[name=paket]:checked'), cb=document.getElementById('cekim'), ok=r.dataset.cekim==='1';
+    document.getElementById('cekim-satir').style.display=ok?'flex':'none'; if(!ok) cb.checked=false;
+    var net=Number(r.dataset.net)+(cb.checked?10000:0), kdv=Math.round(net*0.2);
+    document.getElementById('ara').textContent=fmt(net); document.getElementById('kdv').textContent=fmt(kdv); document.getElementById('tutar').textContent=fmt(net+kdv);
+    return net+kdv;
+  }
   f.addEventListener('change',tutar); tutar();
   f.addEventListener('submit',function(e){
     e.preventDefault(); hata.textContent='';
     var p=f.querySelector('input[name=paket]:checked');
-    var v={paket:p.value,ad:f.ad.value,telefon:f.telefon.value,email:f.email.value,firma:f.firma.value,vergi:f.vergi.value,adres:f.adres.value,sozlesme:document.getElementById('sozlesme').checked};
+    var v={paket:p.value,cekim:document.getElementById('cekim').checked,ad:f.ad.value,telefon:f.telefon.value,email:f.email.value,firma:f.firma.value,vergi:f.vergi.value,adres:f.adres.value,sozlesme:document.getElementById('sozlesme').checked};
     if(!v.sozlesme){hata.textContent='Devam etmek için sözleşmeleri onaylayın.';return;}
     btn.disabled=true; btn.textContent='Hazırlanıyor...';
     fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(v)})
       .then(function(r){return r.json();})
       .then(function(d){
         if(!d.ok){throw new Error(d.hata||'Ödeme başlatılamadı.');}
-        try{ if(window.gtag) gtag('event','begin_checkout',{currency:'TRY',value:Number(p.dataset.tl),items:[{item_id:p.value}]}); if(window.fbq) fbq('track','InitiateCheckout',{currency:'TRY',value:Number(p.dataset.tl),content_ids:[p.value]}); }catch(_){}
+        try{ if(window.gtag) gtag('event','begin_checkout',{currency:'TRY',value:tutar(),items:[{item_id:p.value}]}); if(window.fbq) fbq('track','InitiateCheckout',{currency:'TRY',value:tutar(),content_ids:[p.value]}); }catch(_){}
         f.style.display='none';
         var a=document.getElementById('odeme-alani'); a.style.display='block';
         document.getElementById('paytriframe').src='https://www.paytr.com/odeme/guvenli/'+d.token;
