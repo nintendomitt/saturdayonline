@@ -632,13 +632,6 @@
   </url>
 
   <url>
-    <loc>https://saturdayonline.co/blog/otomotiv-sektorunde-dijital-pazarlama-stratejileri.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://saturdayonline.co/blog/ugc-stratejisi-kullanici-iceriklerini-markaniza-nasil-katarsiniz.html</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -650,5 +643,29 @@
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://saturdayonline.co/mesafeli-satis-sozlesmesi/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://saturdayonline.co/iptal-iade-kosullari/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://saturdayonline.co/teslimat-kosullari/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://saturdayonline.co/kvkk-aydinlatma-metni.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
   </url>
 </urlset>
