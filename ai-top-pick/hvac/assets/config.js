@@ -7,6 +7,10 @@ window.CHECKOUT = {
   pro: 'https://whop.com/checkout/ch_U1wZaLlLwu8DXvn/'
 };
 
+// Launch price: $9 until the end of December 31, 2026 (US Eastern time). After that the sales page shows $59
+// and the exit offer stops. The Whop price itself must also be changed to $59 that day.
+window.LAUNCH = { ends: '2027-01-01T05:00:00Z', after: '$59' };
+
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('[data-checkout]').forEach(a => {
     const url = window.CHECKOUT[a.dataset.checkout];
