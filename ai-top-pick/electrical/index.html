@@ -321,7 +321,7 @@
       tabs.forEach(t => { document.getElementById(t.dataset.panel).hidden = true; t.setAttribute('aria-controls', 'howVideo'); });
       vidBox.hidden = false;
       video.load();
-      show(0);
+      show(cur, !auto); // a tab clicked before the video loaded is where it starts
       new IntersectionObserver(([v]) => { if (!chapters) return; if (v.isIntersecting) video.play().catch(() => {}); else video.pause(); }, { threshold: .25 }).observe(vidBox);
       const follow = () => {
         if (!chapters) return;
