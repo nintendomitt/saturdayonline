@@ -190,6 +190,7 @@ html:not(.js) .demo .typing{display:none}
 .bump .add{color:var(--gold)}
 .bump p{font-size:14.5px;color:var(--muted);margin-top:4px}
 .bump{transition:background .2s,border-color .2s}
+.bump+.bump{margin-top:-8px}
 .bump:has(input:checked){border-style:solid;border-color:var(--gold);background:rgba(255,197,61,.17)}
 .bump .added{display:none;margin-left:6px;font-size:12px;font-weight:750;color:var(--good)}
 .bump:has(input:checked) .added{display:inline}

@@ -1,8 +1,12 @@
-// Whop checkout links (checkout configurations that redirect to upsell.html / thanks.html after payment). Leave "bundle" empty to hide the Review Booster add-on on the sales page, and "exit" empty to turn off the $7 exit offer.
+// Whop checkout links (checkout configurations that redirect to upsell.html / thanks.html after payment).
+// bundle = kit + Review Booster, bundlePro = kit + Pro Toolkit, bundleAll = all three: the sales-page add-on boxes use them
+// (leave them empty to hide the boxes). Leave "exit" empty to turn off the $7 exit offer.
 window.CHECKOUT = {
   core: 'https://whop.com/checkout/ch_RARpgfC8nsfGYwT/',
   exit: 'https://whop.com/checkout/ch_tGGGs6nm0gp1lv6/',
   bundle: 'https://whop.com/checkout/ch_h69ZjSUjEQDnNef/',
+  bundlePro: 'https://whop.com/checkout/ch_IVpnyEsMhWMRmuj/',
+  bundleAll: 'https://whop.com/checkout/ch_TzIxRXs6KE7neuQ/',
   booster: 'https://whop.com/checkout/ch_ABWbiTRHMm2caWy/',
   pro: 'https://whop.com/checkout/ch_U1wZaLlLwu8DXvn/'
 };
