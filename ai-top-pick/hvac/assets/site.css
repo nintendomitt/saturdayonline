@@ -196,6 +196,15 @@ html:not(.js) .demo .typing{display:none}
 .bump:has(input:checked){border-style:solid;border-color:var(--gold);background:rgba(255,197,61,.17)}
 .bump .added{display:none;margin-left:6px;font-size:12px;font-weight:750;color:var(--good)}
 .bump:has(input:checked) .added{display:inline}
+.bump-pro #bumpProDesc{display:block}
+.pro-list{display:grid;gap:7px;margin:12px 0 0}
+.pro-list>span{display:flex;gap:10px;align-items:flex-start;font-size:14.5px;line-height:1.45;color:var(--muted)}
+.pro-list i{flex:none;display:grid;place-items:center;width:21px;height:21px;border-radius:6px;background:rgba(255,197,61,.16);color:var(--gold);font-style:normal;font-size:12px;font-weight:750}
+.bump .pro-list b,.bump .pro-value b{display:inline;color:var(--text)}
+.pro-value b,.panel .value b{white-space:nowrap}
+.pro-list b{margin-right:3px}
+.pro-value{display:block;margin-top:12px;padding-top:11px;border-top:1px solid rgba(255,197,61,.22);font-size:14px;line-height:1.5;color:var(--muted)}
+.bump-pro .save{margin-top:5px;font-size:14px}
 .secure{display:flex;align-items:center;justify-content:center;gap:8px;font-size:14px;color:var(--muted);margin-top:16px;text-align:center}
 
 /* ---------- faq ---------- */
@@ -228,6 +237,8 @@ footer .wrap{display:grid;gap:8px}
 .tools .n{width:30px;height:30px;border-radius:9px;background:var(--gold-soft);color:var(--gold);display:grid;place-items:center;font-weight:750;font-size:14px}
 .tools b{display:block;font-size:16px}
 .tools span{font-size:14px;color:var(--muted)}
+.panel .value{margin:-12px 0 24px;font-size:15px;color:var(--muted)}
+.panel .value b{color:var(--text)}
 .howto{list-style:none;counter-reset:s;padding:0;margin:32px 0;display:grid;gap:10px;text-align:left}
 .howto li{counter-increment:s;display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
 .howto li::before{content:counter(s);width:32px;height:32px;border-radius:50%;background:var(--gold);color:var(--gold-ink);display:grid;place-items:center;font-weight:750}
