@@ -2,7 +2,7 @@
 window.CHECKOUT = {
   core: 'https://whop.com/checkout/ch_RARpgfC8nsfGYwT/',
   exit: 'https://whop.com/checkout/ch_tGGGs6nm0gp1lv6/',
-  bundle: '',
+  bundle: 'https://whop.com/checkout/ch_h69ZjSUjEQDnNef/',
   booster: 'https://whop.com/checkout/ch_ABWbiTRHMm2caWy/',
   pro: 'https://whop.com/checkout/ch_U1wZaLlLwu8DXvn/'
 };

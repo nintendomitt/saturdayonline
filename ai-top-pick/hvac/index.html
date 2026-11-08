@@ -136,7 +136,7 @@
         <p class="lead">No subscription. No agency. One payment.</p>
       </div>
       <div class="price-card" data-reveal>
-        <div class="price-top"><div><b>AI’s Top Pick · HVAC Edition</b><p class="anchor">One-time payment. No subscription.</p></div><div class="price-box"><span class="price-tag" data-launch>Launch price</span><div class="price" id="price"><span class="pv">$9</span></div><span class="price-next" data-launch>$59 from Jan 1</span></div></div>
+        <div class="price-top"><div><b>AI’s Top Pick · HVAC Edition</b><p class="anchor">One-time payment. No subscription.</p></div><div class="price-box"><span class="price-tag" data-launch>Launch price</span><div class="price" id="price"><span class="pv">$9</span></div><span class="price-next" id="priceNext" data-launch>$59 from Jan 1</span></div></div>
         <div class="vs" aria-label="Price comparison">
           <div class="vs-row"><span>Monthly AI visibility trackers</span><b>$29–$99<small>/mo</small></b></div>
           <div class="vs-row you"><span>AI’s Top Pick</span><b><span class="pv">$9</span><small> once</small></b></div>
@@ -149,7 +149,7 @@
           <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>Private: runs in your browser</li>
         </ul>
         <label class="bump" id="bumpBox" hidden><input type="checkbox" id="bump"><span><b><span class="add">Add the Review Booster for $7.</span> More Google reviews, every week.</b><p>Review QR code, printable cards, ready-to-send texts and reply templates.</p></span></label>
-        <a class="btn btn-block" id="buyBtn" data-checkout="core" href="#"><span>Get AI’s Top Pick · <span class="pv">$9</span></span> <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="btn btn-block" id="buyBtn" data-checkout="core" href="#"><span><span id="buyLabel">Get AI’s Top Pick</span> · <span class="pv">$9</span></span> <span class="arrow" aria-hidden="true">→</span></a>
         <p class="secure"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>Secure checkout by Whop · Instant access</p>
       </div>
     </div>
@@ -312,11 +312,19 @@
     const btn = document.getElementById('buyBtn'), price = document.getElementById('price');
     if (!C.bundle) return;
     box.hidden = false;
-    const base = price.textContent;
+    // The bundle costs the kit's current price plus $7 for the Review Booster.
+    const plus7 = t => '$' + (parseFloat(t.replace('$', '')) + 7);
+    const base = price.textContent, label = document.getElementById('buyLabel'), next = document.getElementById('priceNext');
+    const baseLabel = label.textContent, baseNext = next.textContent;
     bump.addEventListener('change', () => {
-      btn.href = bump.checked ? C.bundle : C.core;
-      btn.querySelector('.pv').textContent = price.firstElementChild.textContent = bump.checked ? '$16' : base;
+      const on = bump.checked;
+      btn.href = on ? C.bundle : C.core;
+      btn.querySelector('.pv').textContent = price.firstElementChild.textContent = on ? plus7(base) : base;
+      label.textContent = on ? 'Get both' : baseLabel;
+      next.textContent = on ? plus7(L.after || '$59') + ' from Jan 1' : baseNext;
     });
+    // Remember the add-on so the thanks page doesn't offer it again.
+    btn.addEventListener('click', () => { try { localStorage.setItem('atp.booster', bump.checked ? '1' : '0'); } catch (e) {} });
   });
 })();
 </script>

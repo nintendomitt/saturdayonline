@@ -36,5 +36,9 @@
 </main>
 
 <footer><div class="wrap"><p>AI’s Top Pick is an independent product and isn’t affiliated with or endorsed by OpenAI, Anthropic, Google, Perplexity or Microsoft.</p><p>© 2026 Saturday · Payments by Whop</p></div></footer>
+<script>
+// Hide the Review Booster offer when the buyer added it at checkout.
+try { if (localStorage.getItem('atp.booster') === '1') document.querySelector('.side-offer').hidden = true; } catch (e) {}
+</script>
 </body>
 </html>
