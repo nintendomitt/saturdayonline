@@ -32,9 +32,6 @@ h3{font-size:19px;line-height:1.3;letter-spacing:-.015em;margin:0}
 .center .lead{margin-left:auto;margin-right:auto}
 .hl{background:linear-gradient(100deg,var(--gold) 10%,var(--gold-2) 55%,#ffb020 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
 .dim{color:var(--faint)}
-.it{font-family:"Instrument Serif",ui-serif,Georgia,serif;font-style:italic;font-weight:400;font-size:1.08em;letter-spacing:-.01em}
-.mk{display:inline-block;padding:0 .16em .03em;border-radius:.16em;background:var(--gold);color:var(--gold-ink);transform:rotate(-1.4deg);box-shadow:0 12px 34px -12px rgba(255,197,61,.65)}
-.cta-row{display:flex;justify-content:center;margin-top:44px}
 
 /* ---------- buttons ---------- */
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:18px 28px;border-radius:14px;border:0;background:var(--gold);color:var(--gold-ink);font:700 18px/1.15 var(--font);letter-spacing:-.01em;text-decoration:none;cursor:pointer;box-shadow:0 0 0 1px rgba(255,197,61,.5),0 14px 40px -12px rgba(255,197,61,.55),inset 0 1px 0 rgba(255,255,255,.45);transition:transform .15s,box-shadow .2s,filter .2s}
@@ -149,21 +146,6 @@ html:not(.js) .demo .typing{display:none}
 .stat p{color:#d4d4d8;font-size:16px;line-height:1.45}
 .stat cite{display:block;margin-top:14px;font-size:13px;font-style:normal;color:var(--faint)}
 
-/* ---------- why now: a real AI answer next to the stats ---------- */
-.why-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:28px;align-items:start}
-.proof{margin:0;border-radius:20px;overflow:hidden;background:#fff;border:1px solid var(--line-2);box-shadow:0 50px 100px -40px rgba(0,0,0,.95),0 0 0 6px rgba(255,255,255,.03)}
-.proof-top{display:flex;align-items:center;gap:9px;padding:12px 16px;background:#f4f4f5;border-bottom:1px solid #e4e4e7;color:#18181b;font-weight:650;font-size:15px}
-.proof-top .elogo{color:#000}
-.proof-tag{margin-left:auto;font-size:11px;font-weight:750;letter-spacing:.1em;text-transform:uppercase;color:#166534;background:#dcfce7;padding:3px 9px;border-radius:999px}
-.proof-img{display:block;cursor:zoom-in}
-.proof img{width:100%}
-.zoom-hint{display:none}
-@media (hover:none){.zoom-hint{display:inline}}
-.proof figcaption{padding:10px 16px 12px;font-size:12.5px;line-height:1.45;color:#52525b;background:#fafafa;border-top:1px solid #e4e4e7}
-.stats-col{grid-template-columns:1fr;gap:14px}
-.stats-col .stat{padding:22px 24px 20px}
-.stats-col .stat b{font-size:clamp(40px,4vw,52px);margin-bottom:10px}
-
 /* ---------- how it works ---------- */
 .how{display:grid;grid-template-columns:minmax(0,.82fr) minmax(0,1.18fr);gap:40px;align-items:center}
 .how-steps{display:grid;gap:12px}
@@ -187,26 +169,6 @@ html:not(.js) .demo .typing{display:none}
 .how-screens::before{content:"";position:absolute;inset:-60px 0;z-index:-1;background:radial-gradient(closest-side,rgba(255,197,61,.12),rgba(255,197,61,0))}
 .how-screens .frame img{animation:fade .45s ease}
 @keyframes fade{from{opacity:.25}to{opacity:1}}
-.frame .bar-label{margin-left:auto;font-size:11.5px;font-weight:650;letter-spacing:.04em;color:var(--faint)}
-.vid video{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;background:#0a0a0c}
-.vid.tall video{aspect-ratio:4/5}
-
-/* ---------- compare ---------- */
-.ways{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:stretch}
-.way{display:flex;flex-direction:column;gap:10px;padding:26px 24px;border-radius:var(--radius);border:1px solid var(--line);background:var(--surface)}
-.way-n{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--faint)}
-.way h3{font-size:21px}
-.way-price{font-size:34px;line-height:1.1;letter-spacing:-.035em;font-weight:750;color:#d4d4d8}
-.way-price small{font-size:15px;font-weight:550;letter-spacing:0;color:var(--faint)}
-.way ul{list-style:none;padding:0;margin:6px 0 0;display:grid;gap:8px;font-size:15.5px;color:var(--muted)}
-.way li{display:flex;gap:10px;align-items:baseline}
-.way li::before{content:"";flex:none;width:6px;height:6px;border-radius:50%;background:var(--line-2);transform:translateY(-2px)}
-.way.you{border-color:rgba(255,197,61,.55);background:linear-gradient(180deg,rgba(255,197,61,.12),rgba(255,197,61,.03)),var(--surface);box-shadow:0 0 0 5px rgba(255,197,61,.06),0 40px 80px -40px rgba(255,197,61,.4)}
-.way.you .way-n,.way.you .way-price{color:var(--gold)}
-.way.you li{color:var(--text)}
-.way.you li::before{background:var(--gold)}
-.way .btn{margin-top:auto}
-.way.you ul{margin-bottom:16px}
 
 /* ---------- offer ---------- */
 .offer{background:radial-gradient(800px 400px at 50% 0%,rgba(255,197,61,.10),rgba(255,197,61,0) 70%)}
@@ -215,16 +177,15 @@ html:not(.js) .demo .typing{display:none}
 .price-top b{font-size:20px;letter-spacing:-.015em}
 .anchor{margin-top:6px;font-size:14.5px;color:var(--muted)}
 .price{font-size:64px;font-weight:750;letter-spacing:-.05em;line-height:.9}
-.offer-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:36px;align-items:start;margin-top:44px}
-.offer .price-card{margin:0;max-width:none}
-.inside{position:sticky;top:96px;margin:0;text-align:center}
-.inside img{width:100%;border-radius:18px}
-.inside figcaption{margin-top:10px;font-size:13px;color:var(--faint)}
-.inside-list{list-style:none;padding:0;margin:24px 0 14px;display:grid;gap:11px}
-.inside-list li{display:flex;gap:12px;align-items:center;font-size:16.5px}
-.inside-list i{flex:none;display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--gold);color:var(--gold-ink);font-style:normal;font-size:13.5px;font-weight:800}
-.private{display:flex;align-items:center;gap:8px;margin:0 0 22px;font-size:14px;color:var(--muted)}
-.private svg{color:var(--good);flex:none}
+.vs{display:grid;gap:8px;margin:24px 0 0}
+.vs-row{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:12px 15px;border-radius:12px;background:rgba(255,255,255,.03);border:1px solid var(--line);font-size:15px;color:var(--muted)}
+.vs-row b{font-size:18px;color:#d4d4d8;white-space:nowrap;letter-spacing:-.01em}
+.vs-row small{font-size:13px;color:var(--faint);font-weight:500}
+.vs-row.you{background:var(--gold-soft);border-color:rgba(255,197,61,.45);color:var(--text);font-weight:650}
+.vs-row.you b{color:var(--gold);font-size:20px}
+.checks{list-style:none;padding:0;margin:24px 0 28px;display:grid;gap:12px}
+.checks li{display:flex;gap:12px;align-items:center;font-size:16.5px}
+.checks svg{flex:none;width:22px;height:22px;padding:4px;border-radius:50%;background:var(--good-soft);color:var(--good)}
 .bump{display:grid;grid-template-columns:auto minmax(0,1fr);gap:12px;align-items:start;border:1.5px dashed rgba(255,197,61,.55);background:var(--gold-soft);border-radius:14px;padding:16px;margin:0 0 20px;cursor:pointer}
 .bump input{width:22px;height:22px;margin-top:2px;accent-color:var(--gold)}
 .bump b{display:block}
@@ -303,17 +264,6 @@ footer .wrap{display:grid;gap:8px}
 @keyframes dim{from{opacity:0}}
 @keyframes pop{from{opacity:0;transform:translateY(14px) scale(.96)}}
 
-/* ---------- buy bar (phones) ---------- */
-.buybar{display:none}
-@media (max-width:760px){
-  .buybar{position:fixed;left:10px;right:10px;bottom:10px;z-index:40;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 10px 10px 16px;border-radius:16px;background:rgba(18,18,21,.93);border:1px solid rgba(255,197,61,.35);box-shadow:0 20px 50px -12px rgba(0,0,0,.9);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);transform:translateY(140%);transition:transform .35s cubic-bezier(.2,.7,.2,1)}
-  .buybar.on{transform:none}
-  .buybar>div b{display:block;font-size:15px;letter-spacing:-.01em}
-  .buybar>div span{display:block;font-size:12.5px;color:var(--muted)}
-  .buybar .btn{width:auto;flex:none;padding:12px 18px;font-size:15px}
-  footer{padding-bottom:110px}
-}
-
 /* ---------- reveal ---------- */
 .js [data-reveal]{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}
 .js [data-reveal].in{opacity:1;transform:none}
@@ -325,12 +275,6 @@ footer .wrap{display:grid;gap:8px}
   .demo{max-width:560px;margin:0 auto;width:100%}
   .stats{grid-template-columns:1fr}
   section{padding:76px 0}
-  .why-grid,.offer-grid,.ways{grid-template-columns:1fr}
-  .proof{max-width:560px;width:100%;margin:0 auto}
-  .stats-col{max-width:560px;width:100%;margin:0 auto}
-  .offer .price-card{max-width:560px;width:100%;margin:0 auto}
-  .inside{position:static}
-  .ways{max-width:560px;margin:0 auto}
 }
 @media (max-width:620px){
   body{font-size:16px}
@@ -352,11 +296,6 @@ footer .wrap{display:grid;gap:8px}
   .frame .bar{height:24px}
   .frame .bar i{width:7px;height:7px}
   .how-step{padding:16px 18px}
-  .cta-row{margin-top:34px}
-  .way{padding:22px 20px}
-  .way-price{font-size:30px}
-  .offer-grid{gap:24px;margin-top:32px}
-  .inside img{border-radius:12px}
 }
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
@@ -364,5 +303,4 @@ footer .wrap{display:grid;gap:8px}
   .marquee-track [aria-hidden="true"]{display:none}
   .how-step .prog{display:none}
   .typing i{animation:none}
-  .buybar{transition:none}
 }
