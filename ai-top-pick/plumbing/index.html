@@ -62,7 +62,6 @@
           <div class="chat-top"><span class="lights"><i></i><i></i><i></i></span><span class="chat-title">Example answer</span>
             <span class="chat-logos"><svg class="elogo"><use href="#lg-chatgpt"/></svg><svg class="elogo"><use href="#lg-claude"/></svg><svg class="elogo"><use href="#lg-gemini"/></svg><svg class="elogo"><use href="#lg-perplexity"/></svg></span></div>
           <div class="msg user" data-step="1">Who’s the best plumber in Austin? Our water heater is leaking.</div>
-          <div class="typing" data-step="2"><i></i><i></i><i></i></div>
           <div class="msg ai" data-step="3">Here are three top-rated options near you:
             <ol>
               <li data-step="4"><b data-n="1">Copperline Plumbing</b><span>★ 4.8 · 214 reviews</span></li>
@@ -234,7 +233,6 @@
 <script>
 (() => {
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const wait = ms => new Promise(r => setTimeout(r, ms));
 
   // Funnel events for Whop's ad reports, on top of the page view the pixel in <head> sends: the price card
   // seen, the demo watched halfway, an add-on ticked, a click to checkout and the exit offer shown.
@@ -264,21 +262,13 @@
   }), { rootMargin: '0px 0px -8% 0px' });
   document.querySelectorAll('[data-reveal]').forEach(el => reduce ? el.classList.add('in') : io.observe(el));
 
-  // Hero demo: the AI answers, your company is missing, then your score.
+  // Hero demo: the whole answer is on screen from the start (the CSS fades its parts in), then the score ring fills to 23.
   const demo = document.getElementById('demo');
-  const step = n => demo.querySelector(`[data-step="${n}"]`);
-  async function play() {
+  if (!reduce) {
     const ring = demo.querySelector('.ring .val'), full = 163.4;
-    if (reduce) { demo.querySelectorAll('[data-step]').forEach(el => el.classList.add('on')); step(2).classList.add('gone'); return; }
     ring.style.strokeDashoffset = full;
-    for (const [n, ms] of [[1, 350], [2, 650], [3, 1500], [4, 260], [5, 260], [6, 260], [7, 700], [8, 650], [9, 900]]) {
-      await wait(ms);
-      if (n === 3) step(2).classList.add('gone');
-      step(n).classList.add('on');
-      if (n === 8) { ring.style.strokeDashoffset = (full * (1 - 0.23)).toFixed(1); countUp(step(8).querySelector('[data-count]'), 1100); }
-    }
+    setTimeout(() => { ring.style.strokeDashoffset = (full * (1 - 0.23)).toFixed(1); countUp(demo.querySelector('.ring [data-count]'), 1100); }, 900);
   }
-  play();
 
   // How it works: the demo video plays while it's on screen and the tabs follow its chapters (img/demo.json);
   // a tab jumps to its chapter. With reduced motion, or if the video can't load, the tabs switch the
