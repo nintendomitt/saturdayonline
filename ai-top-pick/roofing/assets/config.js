@@ -11,6 +11,13 @@ window.CHECKOUT = {
   pro: 'https://whop.com/checkout/ch_wmAlFtVPCVtOAvl/'
 };
 
+// Whop product and price IDs, sent with the sales page's view_content and add_to_cart events.
+window.PRODUCTS = {
+  core: { product_id: 'prod_lMz6EnKxykPVh', variant_id: 'plan_sK6fDWfwDYhWg' },
+  booster: { product_id: 'prod_NfRk4REjKyUxG', variant_id: 'plan_TZc9BCdYXLLsJ' },
+  pro: { product_id: 'prod_l1IVOMQfa5oXV', variant_id: 'plan_6SgiCa22tUn6K' }
+};
+
 // Launch price: $27 until the end of December 31, 2026 (US Eastern time). After that the sales page shows $47
 // and the exit offer stops. The Whop prices themselves must also be changed that day.
 window.LAUNCH = { ends: '2027-01-01T05:00:00Z', after: '$47' };

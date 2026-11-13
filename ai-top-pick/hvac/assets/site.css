@@ -184,6 +184,7 @@ html:not(.js) .demo .typing{display:none}
 .frame .bar{height:32px;display:flex;align-items:center;gap:6px;padding:0 14px;background:#111114;border-bottom:1px solid var(--line)}
 .frame .bar i{width:9px;height:9px;border-radius:50%;background:#2c2c34}
 .how-screens{position:relative}
+.motion .how-screens .frame[role="tabpanel"]{display:none}
 .how-screens::before{content:"";position:absolute;inset:-60px 0;z-index:-1;background:radial-gradient(closest-side,rgba(255,197,61,.12),rgba(255,197,61,0))}
 .how-screens .frame img{animation:fade .45s ease}
 @keyframes fade{from{opacity:.25}to{opacity:1}}
