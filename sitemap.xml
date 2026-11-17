@@ -724,4 +724,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <url>
+    <loc>https://saturdayonline.co/blog/izmirde-e-ticaret-yerel-isletmeler-icin-online-satis-rehberi.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
