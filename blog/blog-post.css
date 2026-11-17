@@ -1,0 +1,70 @@
+/* Saturday Online - blog yazi sayfalari ortak tema (ana site ile ayni ACIK tema + logo).
+   scripts/blog_theme.py tarafindan her yazinin <head> sonuna eklenir; inline stillerin uzerine yazar. */
+:root{--so-orange:#FF6B2B;--so-black:#111;--so-text:#1d1d1f;--so-gray:#6b7280;--so-border:#e5e5ea;--so-bg:#f5f5f7;--so-card:#ffffff}
+
+/* --- Ortak ust menu (ana site / blog listesi ile ayni) --- */
+.site-header{position:sticky!important;top:0;z-index:300;display:flex!important;align-items:center;justify-content:space-between;gap:16px;
+  height:72px;padding:0 5%!important;margin:0!important;background:rgba(255,255,255,.92)!important;backdrop-filter:blur(20px);
+  -webkit-backdrop-filter:blur(20px);border-bottom:1px solid var(--so-border)!important;font-family:'Poppins','Segoe UI',system-ui,sans-serif;max-width:none!important;width:auto}
+.site-header .sh-logo{display:block;line-height:0;text-decoration:none}
+.site-header .sh-logo img{height:32px!important;width:auto!important;max-width:none!important;display:block;margin:0!important;border-radius:0!important}
+.site-header .sh-links{display:flex;gap:2rem;list-style:none;margin:0!important;padding:0!important}
+.site-header .sh-links li{margin:0!important;padding:0!important}
+.site-header .sh-links li::before,.site-header .sh-links li::marker{content:none!important}
+.site-header .sh-links a{font-size:.88rem;font-weight:500;color:var(--so-gray)!important;text-decoration:none!important;transition:color .2s}
+.site-header .sh-links a:hover,.site-header .sh-links a.active{color:var(--so-black)!important}
+.site-header .sh-cta{display:inline-flex;align-items:center;gap:.5rem;background:var(--so-orange)!important;color:#fff!important;font-weight:700;
+  font-size:.85rem;border-radius:50px;padding:.55rem 1.3rem;text-decoration:none!important;white-space:nowrap;transition:transform .2s,opacity .2s}
+.site-header .sh-cta:hover{transform:translateY(-2px);opacity:.9}
+@media(max-width:700px){.site-header .sh-links{display:none}.site-header{height:64px}}
+
+/* --- Genel tipografi --- */
+body{font-family:'Poppins','Segoe UI',system-ui,-apple-system,sans-serif!important}
+
+/* --- Eski koyu sablonu acik temaya cevir --- */
+body.so-light{--dark:#f5f5f7;--card-bg:#ffffff;--border:#e5e5ea;--text:#1d1d1f;--muted:#6b7280;background:var(--so-bg)!important;color:var(--so-text)!important}
+body.so-light article{background:transparent}
+body.so-light h1,body.so-light h2,body.so-light h4,body.so-light strong,body.so-light b{color:var(--so-black)!important}
+body.so-light h3{color:#222!important}
+body.so-light .lead{color:#444!important}
+body.so-light p,body.so-light li,body.so-light td{color:var(--so-text)}
+body.so-light a{color:#e2561c}
+body.so-light .highlight-box,body.so-light .step-card,body.so-light .tip-card,body.so-light .metric-card,body.so-light .stat-card,
+body.so-light .info-box,body.so-light .card,body.so-light .faq-item,body.so-light .box,body.so-light .note,body.so-light .tool-card,
+body.so-light .feature-card,body.so-light .checklist,body.so-light .toc,body.so-light .price-card,body.so-light .compare-card{
+  background:#fff!important;border-color:var(--so-border)!important;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+body.so-light .highlight-box{border-left:4px solid var(--so-orange)!important}
+body.so-light .step-title,body.so-light .tip-title,body.so-light .metric-value,body.so-light .stat-value,body.so-light .card-title{color:var(--so-black)!important}
+body.so-light .metric-value.orange,body.so-light .stat-value.orange{color:var(--so-orange)!important}
+body.so-light .tip-desc,body.so-light .metric-label,body.so-light .metric-sub,body.so-light .date,body.so-light .read-time{color:var(--so-gray)!important}
+body.so-light table{background:#fff}
+body.so-light th{background:#f0f0f3!important;color:var(--so-black)!important;border-color:var(--so-border)!important}
+body.so-light td{border-color:var(--so-border)!important}
+body.so-light tr:hover td{background:rgba(255,107,43,.04)!important}
+body.so-light .cta-box{background:linear-gradient(135deg,rgba(255,107,43,.10),rgba(255,107,43,.03))!important;border:1px solid rgba(255,107,43,.3)!important}
+body.so-light .cta-box h3,body.so-light .cta-box h2{color:var(--so-black)!important}
+body.so-light .cta-box p{color:#444!important}
+body.so-light .cta-btn,body.so-light a.cta-btn,body.so-light .cta-btn strong{color:#fff!important}
+body.so-light .step-num{color:#fff!important}
+body.so-light .warn-box{background:#fffbeb!important;border-color:#fcd34d!important}
+body.so-light .warn-box p{color:var(--so-text)!important}
+body.so-light .warn-box strong{color:#b45309!important}
+body.so-light code{background:#f0f0f3;color:#c2410c}
+body.so-light blockquote{color:#444;border-color:var(--so-orange)}
+body.so-light hr{border-color:var(--so-border)}
+body.so-light footer{color:var(--so-gray)!important;border-color:var(--so-border)!important;background:transparent!important}
+body.so-light footer a{color:var(--so-gray)!important}
+body.so-light .back-link{color:var(--so-gray)!important}
+body.so-light .hero-img{border-radius:0}
+body.so-light .cat{background:rgba(255,107,43,.1)!important}
+
+/* --- Dar govdeli (body max-width) eski sablonlar --- */
+body.so-narrow{max-width:none!important;padding:0!important;margin:0!important;background:#fff}
+body.so-narrow > .so-wrap{max-width:820px;margin:0 auto;padding:24px 20px 60px}
+
+/* Alt hizmet menusu: eski sablonlardaki genel nav{} kuralindan etkilenmesin */
+nav.svc-footer{position:static!important;display:block!important;background:transparent!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;border-bottom:0!important;height:auto!important;justify-content:initial!important}
+body.so-light nav.svc-footer,body.so-light nav.svc-footer strong{color:var(--so-text)!important}
+
+/* CTA butonu her sablonda ayni: turuncu zemin, beyaz yazi */
+body.so-light .cta-btn,body.so-light a.cta-btn{background:var(--so-orange)!important;color:#fff!important;border:0!important}

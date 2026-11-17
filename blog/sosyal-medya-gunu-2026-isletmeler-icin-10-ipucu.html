@@ -50,7 +50,7 @@
     gtag('config', 'G-0W1TTHEJFZ');
   </script>
 
-  <style>
+  <style>/*so-recolor v3*/
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
       --orange: #FF6B2B;
@@ -92,15 +92,15 @@
     .date { color: var(--muted); font-size: .85rem; }
     .read-time { color: var(--muted); font-size: .85rem; }
 
-    h1 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); font-weight: 800; color: white; line-height: 1.25; margin-bottom: 20px; }
-    .lead { font-size: 1.1rem; color: #bbb; margin-bottom: 36px; line-height: 1.7; border-left: 3px solid var(--orange); padding-left: 16px; }
+    h1 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); font-weight: 800; color: #111; line-height: 1.25; margin-bottom: 20px; }
+    .lead { font-size: 1.1rem; color: #444; margin-bottom: 36px; line-height: 1.7; border-left: 3px solid var(--orange); padding-left: 16px; }
 
-    h2 { font-size: 1.35rem; font-weight: 700; color: white; margin: 40px 0 14px; }
-    h3 { font-size: 1.1rem; font-weight: 700; color: #ddd; margin: 28px 0 10px; }
+    h2 { font-size: 1.35rem; font-weight: 700; color: #111; margin: 40px 0 14px; }
+    h3 { font-size: 1.1rem; font-weight: 700; color: #111; margin: 28px 0 10px; }
     p { margin-bottom: 18px; color: var(--text); }
     ul, ol { margin: 0 0 18px 24px; }
     li { margin-bottom: 10px; }
-    strong { color: white; }
+    strong { color: #111; }
 
     .highlight-box {
       background: var(--card-bg); border: 1px solid var(--border);
@@ -118,7 +118,7 @@
       border-radius: 10px; padding: 18px 20px;
     }
     .tip-card .icon { font-size: 1.6rem; margin-bottom: 10px; display: block; }
-    .tip-card h4 { font-size: .95rem; font-weight: 700; color: white; margin-bottom: 6px; }
+    .tip-card h4 { font-size: .95rem; font-weight: 700; color: #111; margin-bottom: 6px; }
     .tip-card p { font-size: .85rem; color: var(--muted); margin: 0; }
 
     .timeline {
@@ -141,8 +141,8 @@
       margin: 40px 0;
     }
     .cta-box > div { flex: 1; min-width: 200px; }
-    .cta-box h3 { font-size: 1.15rem; font-weight: 700; color: white; margin-bottom: 8px; }
-    .cta-box p { color: #bbb; margin: 0; font-size: .95rem; }
+    .cta-box h3 { font-size: 1.15rem; font-weight: 700; color: #111; margin-bottom: 8px; }
+    .cta-box p { color: #444; margin: 0; font-size: .95rem; }
     .cta-btn {
       display: inline-block; background: var(--orange); color: white;
       padding: 13px 26px; border-radius: 8px; text-decoration: none;
@@ -175,18 +175,23 @@
   src="https://www.facebook.com/tr?id=3989226141296996&ev=PageView&noscript=1" /></noscript>
   <!-- End Meta Pixel Code -->
   <script src="/takip.js" defer></script>
+  <!-- so-blog-theme v1 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/blog/blog-post.css">
 </head>
-<body>
-
-<nav>
-  <a href="/" class="nav-logo" aria-label="Saturday Online ana sayfa">Saturday<span>.</span></a>
-  <div class="nav-links">
-    <a href="/#hizmetler">Hizmetler</a>
-    <a href="/#referanslar">Referanslar</a>
-    <a href="/blog/">Blog</a>
-    <a href="https://calendly.com/saturdayonlinesolutions/30min" target="_blank">İletişim</a>
-  </div>
-</nav>
+<body class="so-light">
+<header class="site-header" role="banner">
+  <a href="https://saturdayonline.co" class="sh-logo" aria-label="Saturday Online ana sayfa"><img src="/logo-nav.png" alt="Saturday Online" width="132" height="32" /></a>
+  <ul class="sh-links" role="navigation" aria-label="Ana menü">
+    <li><a href="https://saturdayonline.co/#hizmetler">Hizmetler</a></li>
+    <li><a href="https://saturdayonline.co/#galeri">Çalışmalar</a></li>
+    <li><a href="/blog/" class="active">Blog</a></li>
+    <li><a href="https://saturdayonline.co/#iletisim">İletişim</a></li>
+  </ul>
+  <a href="https://calendly.com/saturdayonlinesolutions/30min" target="_blank" rel="noopener" class="sh-cta">Teklif Al &rarr;</a>
+</header>
 
 <img
   src="/blog-gorseller/baslikli/sosyal-medya-gunu-2026-isletmeler-icin-10-ipucu.jpg"
