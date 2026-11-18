@@ -731,15 +731,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://saturdayonline.co/mirofish/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://saturdayonline.co/klinik-vitrin/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://saturdayonline.co/blog/otel-ve-turizm-isletmeleri-icin-kis-sezonu-dijital-pazarlama.html</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
