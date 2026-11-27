@@ -766,14 +766,36 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+  <url>
+    <loc>https://saturdayonline.co/kanca/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://saturdayonline.co/guzellik/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
     <loc>https://saturdayonline.co/blog/cicekci-ve-hediye-magazalari-icin-sezon-stratejisi.html</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+  <url>
+    <loc>https://saturdayonline.co/gizlilik-politikasi/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://saturdayonline.co/veri-silme/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
   <url>
     <loc>https://saturdayonline.co/blog/kucuk-isletmeler-icin-ucretsiz-dijital-pazarlama-araclari.html</loc>
     <lastmod>2026-11-27</lastmod>
